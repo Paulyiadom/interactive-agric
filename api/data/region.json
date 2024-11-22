@@ -1,0 +1,271 @@
+{"regions": [
+  {
+    "name": "Ashanti",
+    "Population":{ 
+      "total":5440463,
+      "Male": 2679914,
+      "Female": 2760549
+    },
+    "totalCrops": 120,
+    "cropsAdded": 12,
+    "annualGrowth": "5%",
+    "districts": [
+      { "name": "Kumasi", "cropsGrown": "Tomatoes", "farmLandSize": "486557 acres", "cropProduction": "50 tons" },
+      { "name": "Obuasi", "cropsGrown": "Mangoes", "farmLandSize": "0 acres", "cropProduction": "20 tons" }
+    ],
+    "AffordabilityindexbyRegion": 0.2048527086469686
+    
+  },
+  {
+    "name": "Greater Accra",
+    "Population": { 
+      "total":5455692,
+      "Male": 2679063,
+      "Female": 2776629
+  },
+    "totalCrops": 95,
+    "cropsAdded": 8,
+    "annualGrowth": "3%",
+    "districts": [
+      { "name": "Accra", "cropsGrown": "Cabbage", "farmLandSize": "55214 acres", "cropProduction": "30 tons" },
+      { "name": "Tema", "cropsGrown": "Carrots", "farmLandSize": "30 acres", "cropProduction": "25 tons" }
+    ],
+    "AffordabilityindexbyRegion": 4.092123214122415
+
+  },
+  {
+    "name": "Northern",
+    "Population": 
+    { 
+      "total":2310928,
+      "Male": 1141700,
+      "Female": 1169228
+  },
+    "totalCrops": 130,
+    "cropsAdded": 15,
+    "annualGrowth": "7%",
+    "districts": [
+      { "name": "Tamale", "cropsGrown": "Yam", "farmLandSize": "256439 acres", "cropProduction": "75 tons" },
+      { "name": "Savelugu", "cropsGrown": "Millet", "farmLandSize": "0 acres", "cropProduction": "40 tons" }
+    ],
+    "AffordabilityindexbyRegion": 0.09699983083267887
+
+  },
+  {
+    "name": "Savannah",
+    "Population": 
+    { 
+      "total":653277,
+      "Male": 327692,
+      "Female": 325585
+  },
+    "totalCrops": 130,
+    "cropsAdded": 15,
+    "annualGrowth": "7%",
+    "districts": [
+      { "name": "Tamale", "cropsGrown": "Yam", "farmLandSize": "69140 acres", "cropProduction": "75 tons" },
+      { "name": "Savelugu", "cropsGrown": "Millet", "farmLandSize": "1 acres", "cropProduction": "40 tons" }
+    ],
+    "AffordabilityindexbyRegion": 0.12164154567888706
+
+  },
+  {
+    "name": "Western North",
+    "Population": 
+    { 
+      "total":880921,
+      "Male": 451948,
+      "Female": 428973
+  },
+    "totalCrops": 130,
+    "cropsAdded": 15,
+    "annualGrowth": "7%",
+    "districts": [
+      { "name": "Tamale", "cropsGrown": "Yam", "farmLandSize": "149328 acres", "cropProduction": "75 tons" },
+      { "name": "Savelugu", "cropsGrown": "Millet", "farmLandSize": "0 acres", "cropProduction": "40 tons" }
+    ],
+    "AffordabilityindexbyRegion": 0.23800767329293782
+  },
+  {
+    "name": "Western",
+    "Population": { 
+      "total":2060585,
+    "Male": 1045227,
+    "Female": 1015358
+  },
+    "totalCrops": 110,
+    "cropsAdded": 10,
+    "annualGrowth": "6%",
+    "districts": [
+      { "name": "Takoradi", "cropsGrown": "Pineapple", "farmLandSize": "900 acres", "cropProduction": "45 tons" },
+      { "name": "Sekondi", "cropsGrown": "Coconut", "farmLandSize": "500 acres", "cropProduction": "35 tons" }
+    ],
+    "AffordabilityindexbyRegion": 0.33984529964477456
+  },
+  {
+    "name": "Eastern",
+    "Population":{ 
+      "total": 2925653,
+      "Male": 1436951,
+      "Female": 1488702
+  },
+    "totalCrops": 105,
+    "cropsAdded": 9,
+    "annualGrowth": "4%",
+    "districts": [
+      { "name": "Koforidua", "cropsGrown": "Cocoa", "farmLandSize": "379860 acres", "cropProduction": "60 tons" },
+      { "name": "Nkawkaw", "cropsGrown": "Cassava", "farmLandSize": "3 acres", "cropProduction": "35 tons" }
+    ],
+    "AffordabilityindexbyRegion": 0.23139128682818483
+  },
+  {
+    "name": "Volta",
+    "Population": { 
+      "total":1659040,
+      "Male": 790685,
+      "Female": 868355
+  },
+    "totalCrops": 98,
+    "cropsAdded": 7,
+    "annualGrowth": "3.5%",
+    "districts": [
+      { "name": "Ho", "cropsGrown": "Chili Peppers", "farmLandSize": "207329 acres", "cropProduction": "28 tons" },
+      { "name": "Keta", "cropsGrown": "Rice", "farmLandSize": "2 acres", "cropProduction": "32 tons" }
+    ],
+    "AffordabilityindexbyRegion": 0.29866201434724127
+  },
+  {
+    "name": "Central",
+    "Population": 
+    { 
+      "total":2859821,
+      "Male": 1390987,
+      "Female": 1468834
+    },
+    "totalCrops": 115,
+    "cropsAdded": 11,
+    "annualGrowth": "4.5%",
+    "districts": [
+      { "name": "Cape Coast", "cropsGrown": "Citrus", "farmLandSize": "316673 acres", "cropProduction": "50 tons" },
+      { "name": "Elmina", "cropsGrown": "Sweet Potato", "farmLandSize": "5 acres", "cropProduction": "30 tons" }
+    ],
+    "AffordabilityindexbyRegion": 4.092123214122415
+  },
+  {
+    "name": "Upper East",
+    "Population": { 
+      "total":1301226,
+      "Male": 631263,
+      "Female": 669963
+    },
+    "totalCrops": 90,
+    "cropsAdded": 6,
+    "annualGrowth": "2.5%",
+    "districts": [
+      { "name": "Bolgatanga", "cropsGrown": "Groundnuts", "farmLandSize": "0 acres", "cropProduction": "22 tons" },
+      { "name": "Bawku", "cropsGrown": "Maize", "farmLandSize": "286872 acres", "cropProduction": "18 tons" }
+    ],
+    "AffordabilityindexbyRegion": 0.1648414801812271
+
+  },
+  {
+    "name": "Upper West",
+    "Population": { 
+      "total":901502,
+      "Male": 440317,
+      "Female": 461185
+    },
+    "totalCrops": 85,
+    "cropsAdded": 5,
+    "annualGrowth": "2%",
+    "districts": [
+      { "name": "Wa", "cropsGrown": "Sorghum", "farmLandSize": "141622 acres", "cropProduction": "25 tons" }
+   ],
+   "AffordabilityindexbyRegion": 0.24016607917346322
+  },
+  {
+    "name": "North East",
+    "Population":{ 
+      "total": 658946,
+      "Male": 322149,
+      "Female": 336797
+    },
+    "totalCrops": 135,
+    "cropsAdded": 14,
+    "annualGrowth": "6.5%",
+    "districts": [
+      { "name": "Sunyani", "cropsGrown": "Plantain", "farmLandSize": "93330 acres", "cropProduction": "70 tons" },
+      { "name": "Techiman", "cropsGrown": "Banana", "farmLandSize": "5 acres", "cropProduction": "60 tons" }
+    ],
+    "AffordabilityindexbyRegion": 0.05687319350204064
+
+  },
+  {
+    "name": "Oti",
+    "Population":{ 
+      "total": 747248,
+      "Male": 377392,
+      "Female": 369856
+    },
+    "totalCrops": 135,
+    "cropsAdded": 14,
+    "annualGrowth": "6.5%",
+    "districts": [
+      { "name": "Sunyani", "cropsGrown": "Plantain", "farmLandSize": "115685 acres", "cropProduction": "70 tons" },
+      { "name": "Techiman", "cropsGrown": "Banana", "farmLandSize": "0 acres", "cropProduction": "60 tons" }
+    ],
+    "AffordabilityindexbyRegion": 0.13772501284005917
+
+  },
+  {
+    "name": "Ahafo",
+    "Population":{ 
+      "total": 564668,
+      "Male": 285340,
+      "Female": 279328
+    },
+    "totalCrops": 135,
+    "cropsAdded": 14,
+    "annualGrowth": "6.5%",
+    "districts": [
+      { "name": "Sunyani", "cropsGrown": "Plantain", "farmLandSize": "0 acres", "cropProduction": "70 tons" },
+      { "name": "Techiman", "cropsGrown": "Banana", "farmLandSize": "90685 acres", "cropProduction": "60 tons" }
+    ],
+    "AffordabilityindexbyRegion": 0.19729415897674327
+    },
+  {
+    "name": "Bono",
+    "Population":{ 
+      "total": 1208649,
+      "Male": 596676,
+      "Female": 611973
+    },
+    "totalCrops": 135,
+    "cropsAdded": 14,
+    "annualGrowth": "6.5%",
+    "districts": [
+      { "name": "Sunyani", "cropsGrown": "Plantain", "farmLandSize": "139848 acres", "cropProduction": "70 tons" },
+      { "name": "Techiman", "cropsGrown": "Banana", "farmLandSize": "0 acres", "cropProduction": "60 tons" }
+    ],
+      "AffordabilityindexbyRegion": 0.15551487850610923
+    },
+  {
+    "name": "Bono East",
+    "Population":{ 
+      "total": 1203400,
+      "Male": 603136,
+      "Female": 600264
+    },
+    "totalCrops": 135,
+    "cropsAdded": 14,
+    "annualGrowth": "6.5%",
+    "districts": [
+      { "name": "Sunyani", "cropsGrown": "Plantain", "farmLandSize": "172449 acres", "cropProduction": "70 tons" },
+      { "name": "Techiman", "cropsGrown": "Banana", "farmLandSize": "0 acres", "cropProduction": "60 tons" }
+    ],
+    "AffordabilityindexbyRegion": 0.24997670646692335
+
+    }
+  ]
+}
+
