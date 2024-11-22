@@ -1,0 +1,140 @@
+{
+"emt":[
+ {
+  "Product": "Palm Oil",
+  "Production": 1517328,
+  "Import": 180285.99,
+  "Export": 65361.23,
+  "Year": 2021
+ },
+ {
+  "Product": "Yam",
+  "Production": 7856898.64,
+  "Import": 47.84,
+  "Export": 57610.33,
+  "Year": 2021
+ },
+ {
+    "Product": "Onions",
+    "Unit": "Net weight in KG",
+    "Export": 1782446,
+    "Import": 19867411
+   },
+ {
+    "Year": "2021",
+    "Product": "cattle",
+    "Export": "0",
+    "Import": "77740"
+},
+ {
+    "Year": "2021",
+    "Product": "Cattle",
+    "Export": "603027",
+    "Import": "10000258"
+},
+{
+    "Year": "2021",
+    "Product": "coconut",
+    "Export": "160967",
+    "Import": "55778"
+},
+{
+    "Year": "2021",
+    "Product": "Coconut",
+    "Export": "7998579",
+    "Import": "65688"
+},
+{
+    "Year": "2021",
+    "Product": "Coconut",
+    "Export": "935393",
+    "Import": "77526"
+},
+{
+    "Year": "2021",
+    "Product": "Coconut",
+    "Export": "25495901",
+    "Import": "121312"
+},
+{
+    "Year": "2021",
+    "Product": "Coconut",
+    "Export": "42424",
+    "Import": "35425"
+},
+{
+    "Year": "2021",
+    "Product": "Cola",
+    "Export": "1411215",
+    "Import": "465002"
+},
+{
+    "Year": "2021",
+    "Product": "Cola",
+    "Export": "1411215",
+    "Import": "465002"
+},
+{
+    "Year": "2021",
+    "Product": "Cattle",
+    "Export": "9430",
+    "Import": "188363"
+},
+ {
+  "Product": "Tomatoes",
+  "Production": 382246.6,
+  "Import": 2000,
+  "Export": 1666.23,
+  "Year": 2021
+ },
+ {
+  "Product": "Rice",
+  "Production": 722080.11,
+  "Import": 47.04,
+  "Export": 1424.7,
+  "Year": 2021
+ },
+ {
+  "Product": "Millet",
+  "Production": 196308,
+  "Import": 1968.68,
+  "Export": 59.51,
+  "Year": 2021
+ },
+ {
+  "Product": "Sweet Potatoes",
+  "Production": 142671.4,
+  "Import": 6.37,
+  "Export": 108.33,
+  "Year": 2021
+ },
+ {
+  "Product": "Avocados",
+  "Production": 4619,
+  "Import": 0.73,
+  "Export": 3673.58,
+  "Year": 2021
+ },
+ {
+  "Product": "Cocoa",
+  "Production": 1130137,
+  "Import": 1000,
+  "Export": 917000,
+  "Year": 2021
+ },
+ {
+  "Product": "Coffee",
+  "Production": 684,
+  "Import": 3000,
+  "Export": 88,
+  "Year": 2021
+ },
+ {
+  "Product": "Maize",
+  "Production": 2011179.97,
+  "Import": 48000,
+  "Export": 4000,
+  "Year": 2021
+ }
+]
+}

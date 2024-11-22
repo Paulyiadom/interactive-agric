@@ -1,0 +1,60 @@
+{
+    "product":[
+     {
+      "name": "Tilapia",
+      "type": "Aqua culture",
+        "regions" : {
+            "Western": 2419068,
+            "Central": 484443,
+            "Greater Accra": 8442922,
+            "Volta": 1160527,
+            "Eastern": 2293723,
+            "Ashanti": 2678255,
+            "Western North": 388658,
+            "Ahafo": 54814,
+            "Bono": 32980,
+            "Bono East": 14375,
+            "Oti": 109527,
+            "Northern": 384,
+            "Savannah": 528,
+            "North East": 30,
+            "Upper East": 8324,
+            "Upper West": 2790
+        },
+        "mapColor": "#8e4ec7",
+        "facilities": 0,
+        "note":0
+     },
+     {
+        "name": "Catfish",
+        "type": "Aqua culture",
+        "regions" : {
+            "Western": 14580,
+            "Central": 500,
+            "Greater Accra": 172,
+            "Eastern": 7500,
+            "Ashanti": 11200,
+            "Western North": 209,
+            "Ahafo": 2400,
+            "Northern": 45,
+            "Upper West": 70
+        },
+        "mapColor": "#bdebb6",
+        "facilities": 0,
+        "note":0
+     },
+     {
+        "name": "Heterotis niloticus",
+        "type": "Aqua culture",
+        "regions" : {
+            "Greater Accra": 330,
+            "Ashanti": 400,
+            "Western North": 5170,
+            "Ahafo": 450
+        },
+        "mapColor": "#6ccdff",
+        "facilities": 0,
+        "note":0
+     }
+    ]
+    }

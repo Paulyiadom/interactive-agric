@@ -1,0 +1,6637 @@
+{
+"emt":[
+ {
+  "Product": "Horses",
+  "Unit": "Net weight in KG",
+  "Export": 201746,
+  "Import": 31352
+ },
+ {
+  "Product": "Horses",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2410
+ },
+ {
+  "Product": "Asses",
+  "Unit": "Net weight in KG",
+  "Export": 3000,
+  "Import": 2005
+ },
+ {
+  "Product": "Other",
+  "Unit": "Net weight in KG",
+  "Export": 48558,
+  "Import": 47989
+ },
+ {
+  "Product": "Cattle",
+  "Unit": "Net weight in KG",
+  "Export": 9430,
+  "Import": 188363
+ },
+ {
+  "Product": "Cattle",
+  "Unit": "Net weight in KG",
+  "Export": 603027,
+  "Import": 10000258
+ },
+ {
+  "Product": "Buffalo",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Buffalo",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "cattle",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 77740
+ },
+ {
+  "Product": "Live pure-bred breeding swine",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2782
+ },
+ {
+  "Product": "Live swine weighing 50kg excl. pure-bred breeding",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 385
+ },
+ {
+  "Product": "sheep",
+  "Unit": "Net weight in KG",
+  "Export": 750,
+  "Import": 21935
+ },
+ {
+  "Product": "Sheep",
+  "Unit": "Net weight in KG",
+  "Export": 1050,
+  "Import": 1939119
+ },
+ {
+  "Product": "Goat",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 10110
+ },
+ {
+  "Product": "Goat",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 29514
+ },
+ {
+  "Product": "Live poultry fowls of the species Gallus domesticus, 185g, Breeders",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 397575
+ },
+ {
+  "Product": "Live poultry, fowls of the species Gallus domesticus, 185g, Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 31479
+ },
+ {
+  "Product": "Turkey",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2595
+ },
+ {
+  "Product": "Live poultry Ducks, 185g",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 638
+ },
+ {
+  "Product": "Live poultry Geese, 185g",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 433
+ },
+ {
+  "Product": "Guinea fowls",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 4815
+ },
+ {
+  "Product": "Other fowls of the species Gallus domesticus",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 752
+ },
+ {
+  "Product": "Other live poultry, other than fowls of the species Gallus domesticus",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 583
+ },
+ {
+  "Product": "Mamals, Primates",
+  "Unit": "Net weight in KG",
+  "Export": 31,
+  "Import": 99
+ },
+ {
+  "Product": "Camels and other camelids Camelidae",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 12589
+ },
+ {
+  "Product": "Rabbits",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 853
+ },
+ {
+  "Product": "Mamals, other",
+  "Unit": "Net weight in KG",
+  "Export": 62,
+  "Import": 5832
+ },
+ {
+  "Product": "Reptiles including snakes and turtles",
+  "Unit": "Net weight in KG",
+  "Export": 15312,
+  "Import": 92
+ },
+ {
+  "Product": "Birds, of prey",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Birds, Psittaciformes including parrots, parakeets, macaws",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 293
+ },
+ {
+  "Product": "Ostriches emus Dromaius novaehollandiae",
+  "Unit": "Net weight in KG",
+  "Export": 77448,
+  "Import": 570
+ },
+ {
+  "Product": "Birds, other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1020
+ },
+ {
+  "Product": "Other live animals excluding mammals, reptiles, birds or insects",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 50
+ },
+ {
+  "Product": "Live animals, other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 2577,
+  "Import": 74731
+ },
+ {
+  "Product": "Fresh or chilled bovine carcasses and half carcasses",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2214
+ },
+ {
+  "Product": "Fresh or chilled unboned bovine meat excl. carcasses",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 16954
+ },
+ {
+  "Product": "Fresh or chilled boneless bovine meat",
+  "Unit": "Net weight in KG",
+  "Export": 134,
+  "Import": 110099
+ },
+ {
+  "Product": "Frozen bovine carcasses and half carcasses",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 27351
+ },
+ {
+  "Product": "Frozen unboned bovine meat excl. carcasses",
+  "Unit": "Net weight in KG",
+  "Export": 30,
+  "Import": 833020
+ },
+ {
+  "Product": "Frozen boneless bovine meat",
+  "Unit": "Net weight in KG",
+  "Export": 108,
+  "Import": 13267790
+ },
+ {
+  "Product": "Fresh or chilled swine carcasses and half carcasses",
+  "Unit": "Net weight in KG",
+  "Export": 2,
+  "Import": 0
+ },
+ {
+  "Product": "Fresh or chilled unboned hams, shoulders and cuts thereof of swine",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 24157
+ },
+ {
+  "Product": "Fresh or chilled swine meat, nes unboned",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 45593
+ },
+ {
+  "Product": "Frozen swine carcasses and half carcasses",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 320037
+ },
+ {
+  "Product": "Frozen unboned hams, shoulders and cuts thereof of swine",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 136755
+ },
+ {
+  "Product": "Frozen swine meat, nes",
+  "Unit": "Net weight in KG",
+  "Export": 35,
+  "Import": 1046738
+ },
+ {
+  "Product": "Fresh or chilled lamb carcasses and half carcasses",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 30111
+ },
+ {
+  "Product": "sheep",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "sheep",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 171109
+ },
+ {
+  "Product": "sheep",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 5740
+ },
+ {
+  "Product": "Frozen lamb carcasses and half carcasses",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 911246
+ },
+ {
+  "Product": "sheep",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 16178
+ },
+ {
+  "Product": "sheep",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 784396
+ },
+ {
+  "Product": "sheep",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 337460
+ },
+ {
+  "Product": "Goat",
+  "Unit": "Net weight in KG",
+  "Export": 2,
+  "Import": 0
+ },
+ {
+  "Product": "Horses",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 10
+ },
+ {
+  "Product": "Fresh or chilled edible bovine offal",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 43340
+ },
+ {
+  "Product": "Frozen bovine tongues",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 58580
+ },
+ {
+  "Product": "Frozen bovine livers",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 306508
+ },
+ {
+  "Product": "Frozen edible bovine offal excl. tongues and livers",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 20815900
+ },
+ {
+  "Product": "Fresh or chilled edible swine offal",
+  "Unit": "Net weight in KG",
+  "Export": 40,
+  "Import": 534600
+ },
+ {
+  "Product": "Frozen swine livers",
+  "Unit": "Net weight in KG",
+  "Export": 74,
+  "Import": 112625
+ },
+ {
+  "Product": "Frozen edible swine offal excl. livers",
+  "Unit": "Net weight in KG",
+  "Export": 2,
+  "Import": 4338057
+ },
+ {
+  "Product": "Goat",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 4852149
+ },
+ {
+  "Product": "sheep",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 4852149
+ },
+ {
+  "Product": "horses",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 4852149
+ },
+ {
+  "Product": "chicken",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 359940
+ },
+ {
+  "Product": "chicken",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 9327710
+ },
+ {
+  "Product": "chicken",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 207411
+ },
+ {
+  "Product": "chicken",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 245327904
+ },
+ {
+  "Product": "Turkey",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Turkey",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 9601
+ },
+ {
+  "Product": "Turkey",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 59581
+ },
+ {
+  "Product": "Turkey",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 5965580
+ },
+ {
+  "Product": "Duck",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 50
+ },
+ {
+  "Product": "Duck",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2178
+ },
+ {
+  "Product": "Duck",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2
+ },
+ {
+  "Product": "Duck",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Duck",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 7332
+ },
+ {
+  "Product": "Meat and edible offal, of Geese, Other, frozen",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "guinea fowls",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "rabbits",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 119
+ },
+ {
+  "Product": "Fresh, chilled or frozen meat of primate",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Fresh, chilled or frozen meat of whales, dolphins and porpoises",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Other meat and edible meat offal, Of camels and other camelids camelidae, fresh, chilled, frozen",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2100
+ },
+ {
+  "Product": "Fresh, chilled or frozen meat and edible offal, nes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 530
+ },
+ {
+  "Product": "Pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, dried or smoked.",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1005
+ },
+ {
+  "Product": "Other Pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, dried or smoked.",
+  "Unit": "Net weight in KG",
+  "Export": 200,
+  "Import": 222
+ },
+ {
+  "Product": "Unboned swine hams, shoulders and cuts thereof, salted... or smoked",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 397320
+ },
+ {
+  "Product": "Bellies and cuts thereof of swine, salted... or smoked",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 7070
+ },
+ {
+  "Product": "Meat of swine, salted... or smoked, nes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 623419
+ },
+ {
+  "Product": "Meat of bovine animals, salted... or smoked",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 114046
+ },
+ {
+  "Product": "Meat of primate, salted... or smoked",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Meat of whales, dolphins and porposes, salted... or smoked",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 32
+ },
+ {
+  "Product": "Meat of reptiles, salted... or smoked",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Other meat, salted... or smoked, nes",
+  "Unit": "Net weight in KG",
+  "Export": 51,
+  "Import": 4823435
+ },
+ {
+  "Product": "Live fish, Freshwater, Ornamental fish",
+  "Unit": "Net weight in KG",
+  "Export": 64924,
+  "Import": 876
+ },
+ {
+  "Product": "Live fish, Other Ornamental fish",
+  "Unit": "Net weight in KG",
+  "Export": 27728,
+  "Import": 288
+ },
+ {
+  "Product": "Other live fish, Trout, Young fish fingerling",
+  "Unit": "Net weight in KG",
+  "Export": 90936,
+  "Import": 40
+ },
+ {
+  "Product": "Other live fish, Trout, other",
+  "Unit": "Net weight in KG",
+  "Export": 554,
+  "Import": 2200
+ },
+ {
+  "Product": "Other live fish, Eels Anguilla spp., Young fish fingerling",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 319
+ },
+ {
+  "Product": "Other live fish, Other Eels Anguilla spp.",
+  "Unit": "Net weight in KG",
+  "Export": 723,
+  "Import": 0
+ },
+ {
+  "Product": "Other live fish, Carp, Young fish fingerling",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 215
+ },
+ {
+  "Product": "Other live fish, Other Carp",
+  "Unit": "Net weight in KG",
+  "Export": 4701,
+  "Import": 99
+ },
+ {
+  "Product": "Other live fish, Atlantic and Pacific bluefin tunas Thunnus thynnus, Thunnus orientalis, Young fish fingerling",
+  "Unit": "Net weight in KG",
+  "Export": 535,
+  "Import": 0
+ },
+ {
+  "Product": "Other live fish, Other Atlantic and Pacific bluefin tunas Thunnus thynnus, Thunnus orientalis",
+  "Unit": "Net weight in KG",
+  "Export": 16,
+  "Import": 25
+ },
+ {
+  "Product": "Young fish fish fingerlings",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 200
+ },
+ {
+  "Product": "Other live fish, Young fish fingerling",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 450
+ },
+ {
+  "Product": "Other live fish, Other",
+  "Unit": "Net weight in KG",
+  "Export": 4048,
+  "Import": 5370
+ },
+ {
+  "Product": "Fresh or chilled trout",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Salmonidae, excluding livers and roes, Pacific salmon",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 16642
+ },
+ {
+  "Product": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Salmonidae, excluding livers and roes, Atlantic salmon Salmo salar and Danube salmon Hucho hucho",
+  "Unit": "Net weight in KG",
+  "Export": 120,
+  "Import": 21610
+ },
+ {
+  "Product": "Fresh or chilled salmonidae excl. 0302.11 and 0302.12",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 186995
+ },
+ {
+  "Product": "Fresh or chilled halibut",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 46
+ },
+ {
+  "Product": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Flat fish, excluding livers and roes, Turbots Psetta maxima.",
+  "Unit": "Net weight in KG",
+  "Export": 162,
+  "Import": 0
+ },
+ {
+  "Product": "Fresh or chilled flat fish excl. halibut, plaice and sole",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 847
+ },
+ {
+  "Product": "Fresh or chilled albacore or longfinned tunas",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Fresh or chilled yellowfin tunas",
+  "Unit": "Net weight in KG",
+  "Export": 5749163,
+  "Import": 200
+ },
+ {
+  "Product": "Fresh or chilled skipjack or stripe-bellied bonito",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Bigeye tunas Thunnus obesus",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 54365
+ },
+ {
+  "Product": "Fresh or chilled tunas, nes",
+  "Unit": "Net weight in KG",
+  "Export": 966894,
+  "Import": 32079
+ },
+ {
+  "Product": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Herrings Clupea harengus, Clupea pallasii,  excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 5,
+  "Import": 326400
+ },
+ {
+  "Product": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Anchovies Engraulis spp., excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 13,
+  "Import": 0
+ },
+ {
+  "Product": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Sardines Sardina pilchardus, Sardinops spp., sardinella Sardinella spp.,  brisling or sprats Sprattus sprattus, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 183,
+  "Import": 1600064
+ },
+ {
+  "Product": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Mackerel Scomber scombrus, Scomber australasicus, Scomber japonicas, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 50,
+  "Import": 2304966
+ },
+ {
+  "Product": "horses",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 816587
+ },
+ {
+  "Product": " horses",
+  "Unit": "Net weight in KG",
+  "Export": 2100,
+  "Import": 79242
+ },
+ {
+  "Product": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Cod Gadus morhua, Gadus ogac, Gadus macrocephalus, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 540120
+ },
+ {
+  "Product": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Haddock Melanogrammus aeglefinus, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Coalfish Pollachius virens, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Hake Merluccius spp., Urophycis spp., excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 417996
+ },
+ {
+  "Product": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04.,  Alaska Pollack Theraga chalcogramma, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 1119,
+  "Import": 0
+ },
+ {
+  "Product": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04.,Blue whitings Micromesistius poutassou, Micromesistius australis, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Other, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Tilapia",
+  "Unit": "Net weight in KG",
+  "Export": 4000,
+  "Import": 0
+ },
+ {
+  "Product": "Catfish",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Carp Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Other, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Other fish, excluding livers and roes-  Dogfish and other sharks",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Other fish, excluding livers and roes- Seabass Dicentrarchus spp.",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 146
+ },
+ {
+  "Product": "Other fish, excluding livers and roes- Seabream Sparidae",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 79744
+ },
+ {
+  "Product": "Other fish, excluding livers and roes- Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 8082
+ },
+ {
+  "Product": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04. Livers, roes, milt, fish fins, heads, tails, maws and other edible fish offal-Other",
+  "Unit": "Net weight in KG",
+  "Export": 88,
+  "Import": 0
+ },
+ {
+  "Product": "Sockeye salmon red salmon",
+  "Unit": "Net weight in KG",
+  "Export": 2,
+  "Import": 1
+ },
+ {
+  "Product": " 03.04., Other Pacific salmon Oncor hynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus,  excluding l",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 149200
+ },
+ {
+  "Product": " 03.04., Atlantic salmon Salmo salar and Danube salmon Hucho hucho, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 100,
+  "Import": 28594
+ },
+ {
+  "Product": " 03.04., Trout Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, etc, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 200,
+  "Import": 1775942
+ },
+ {
+  "Product": "Other salmon",
+  "Unit": "Net weight in KG",
+  "Export": 114,
+  "Import": 58154
+ },
+ {
+  "Product": "Tilapia",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2451321
+ },
+ {
+  "Product": "Catfish",
+  "Unit": "Net weight in KG",
+  "Export": 100,
+  "Import": 835779
+ },
+ {
+  "Product": " 03.04., Carp Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, etc,  excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 59472,
+  "Import": 0
+ },
+ {
+  "Product": " 03.04.,  Eels Anguilla spp.,  excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 28000
+ },
+ {
+  "Product": "Frozen salmonidae excl. pacific, atlantic, danube salmon and trout",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 151869
+ },
+ {
+  "Product": "Frozen plaice",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Frozen sole",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 53
+ },
+ {
+  "Product": " 03.04., Flat fish excluding livers and roes, Turbots Psetta maxima, Schphthalmidae",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 102
+ },
+ {
+  "Product": "Frozen flat fish excl. halibut, plaice and sole",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Frozen albacore or longfinned tunas",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 61183
+ },
+ {
+  "Product": "Frozen yellowfin tunas",
+  "Unit": "Net weight in KG",
+  "Export": 7502547,
+  "Import": 9642401
+ },
+ {
+  "Product": "Frozen skipjack or stripe-bellied bonito",
+  "Unit": "Net weight in KG",
+  "Export": 6131510,
+  "Import": 7123421
+ },
+ {
+  "Product": "Bigeye tunas Thunnus obesus",
+  "Unit": "Net weight in KG",
+  "Export": 332720,
+  "Import": 896105
+ },
+ {
+  "Product": "Bluefin tunas Thunnus thynnus",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Southern bluefin tunas Thunnus maccoyii",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 5
+ },
+ {
+  "Product": "Frozen tunas, nes",
+  "Unit": "Net weight in KG",
+  "Export": 19183945,
+  "Import": 2950548
+ },
+ {
+  "Product": "Herrings Clupea harengus, Clupea pallasii",
+  "Unit": "Net weight in KG",
+  "Export": 1130,
+  "Import": 12532652
+ },
+ {
+  "Product": " 03.04.,  Sardines Sardina pilchardus, Sardinops spp., sardinella Sardinella spp., brisling    or sprats Sprattus sprattus, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 59481812
+ },
+ {
+  "Product": " 03.04.,  Mackerel Scomber scombrus, Scomber australasicus, Scomber japonicus, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 1083,
+  "Import": 91793038
+ },
+ {
+  "Product": "horses",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 51876737
+ },
+ {
+  "Product": " 03.04., Cobia Rachycentron canadum, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": " 03.04., Swordfish Xiphias gladius, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "  03.04. Herrings, anchovies Eagraulis spp., sardines Sardina pilchardus, Sardinops spp., sardinella Sardinella spp., brisling or sprats Sprattus sprattus, mackerel Other",
+  "Unit": "Net weight in KG",
+  "Export": 126,
+  "Import": 5499000
+ },
+ {
+  "Product": " 03.04., Cod Gadus morhua, Gadus ogac, Gadus macrocephalus, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 1986,
+  "Import": 938
+ },
+ {
+  "Product": " 03.04.,Haddock Melanogrammus aeglefinus, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 64560
+ },
+ {
+  "Product": " 03.04., Coalfish Pollachius virens, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 506820
+ },
+ {
+  "Product": " 03.04., Hake Merluccius spp., Urophycis spp., excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 5126044
+ },
+ {
+  "Product": " 03.04., Alaska Pollack Theraga chalcogramma, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 261760
+ },
+ {
+  "Product": " 03.04., Blue whitings Micromesistius poutassou, Micromesistius australis, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 5354612
+ },
+ {
+  "Product": " 03.04., Other, excluding livers and roes",
+  "Unit": "Net weight in KG",
+  "Export": 7704,
+  "Import": 304103
+ },
+ {
+  "Product": "Other fish, excluding livers and roes- Dogfish and other sharks",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Other fish, excluding livers and roes- Toothfish Dissostichus spp.",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Other fish, excluding livers and roes- Seabass Dicentrarchus spp.",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 895
+ },
+ {
+  "Product": "Other fish, excluding livers and roes- Other",
+  "Unit": "Net weight in KG",
+  "Export": 19252,
+  "Import": 16421839
+ },
+ {
+  "Product": "Other fish, excluding edible fish offal of subheading 0303.91 to 0303.99 Livers, roes and milt",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Other fish, excluding edible fish offal of subheading 0303.91 to 0303.99 Shark fins",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Other fish, excluding edible fish offal of subheading 0303.91 to 0303.99- OTHER",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 74
+ },
+ {
+  "Product": "Tilapia",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 779
+ },
+ {
+  "Product": "Fish fillets and other fish meat whether or not minced, fresh, chilled or frozen, Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 3411
+ },
+ {
+  "Product": "Fresh or chilled fillets of other fish- Pacific salmon Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus, Atlantic salmon Salmo salar and D",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 8150
+ },
+ {
+  "Product": "Fresh or chilled fillets of other fish- Trout Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Fresh or chilled fillets of other fish- Flat fish Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae and Citharidae",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Fresh or chilled fillets of other fish- Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, merluccidae, Moridae and  Muraenolepididae",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Fresh or chilled fillets of other fish- Toothfish Dissostichus spp.",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Fresh or chilled fillets of other fish Rays and skates Rajidae",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Fresh or chilled fillets of other fish- Other",
+  "Unit": "Net weight in KG",
+  "Export": 500,
+  "Import": 10789
+ },
+ {
+  "Product": "Tilapia",
+  "Unit": "Net weight in KG",
+  "Export": 40,
+  "Import": 0
+ },
+ {
+  "Product": "Other, fresh or chilled- Salmonidae",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 171
+ },
+ {
+  "Product": "Other, fresh or chilled- Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Other, fresh or chilled- Swordfish Xiphias gladius",
+  "Unit": "Net weight in KG",
+  "Export": 100,
+  "Import": 0
+ },
+ {
+  "Product": "Other, fresh or chilled- Other",
+  "Unit": "Net weight in KG",
+  "Export": 300,
+  "Import": 54300
+ },
+ {
+  "Product": "Tilapia",
+  "Unit": "Net weight in KG",
+  "Export": 1083,
+  "Import": 698
+ },
+ {
+  "Product": "Catfish",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 29224
+ },
+ {
+  "Product": "Frozen fillets of Nile Perch Lates niloticus",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Frozen fillets of Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 7125
+ },
+ {
+  "Product": "Frozen fillets of Cord Gadius morhua, Gadus ogac, Gadus macrocephalus",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 5949
+ },
+ {
+  "Product": "Frozen fillets of Haddock Melanogrammus aeglefinus",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 601
+ },
+ {
+  "Product": "Frozen fillets of Coalfish Pollachius virens",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 101
+ },
+ {
+  "Product": "Frozen fillets of Hake Merluccius spp., Urophycis spp.",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 27777
+ },
+ {
+  "Product": "Frozen fillets of Alaska Pollack Theraga chalcogramma",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Frozen fillets of Other fish",
+  "Unit": "Net weight in KG",
+  "Export": 100,
+  "Import": 24666
+ },
+ {
+  "Product": "Frozen fillets of other fish - Pacific salmon Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Onchrhynchus masou and Oncorhynchus rhodurus, Atlantic salmon Salmo salar and Danube sal",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 5082
+ },
+ {
+  "Product": "Frozen fillets of other fish -Trout Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Frozen fillets of other fish - Flat fish Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae and  Citharidae",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Frozen fillets of other fish -Swordfish Xiphias gladius",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 129
+ },
+ {
+  "Product": "Frozen fillets of other fish -Toothfish Dissostichus spp.",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 70
+ },
+ {
+  "Product": "Frozen fillets of other fish -Herrings Clupea harengus, Clupea pallasii",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 11200
+ },
+ {
+  "Product": "Frozen fillets of other fish -Tunas of the genus Thunnus, skipjack or stripe-bellied bonito Euthynnus Katsuwonus pelamis",
+  "Unit": "Net weight in KG",
+  "Export": 24080,
+  "Import": 1598
+ },
+ {
+  "Product": "Frozen fillets of other fish -- Dogfish, other sharks, rays and skates Rajidae",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Frozen fillets of other fish - Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 111167
+ },
+ {
+  "Product": "Other - Swordfish Xiphias gladius",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Other -Toothfish Dissostichus spp.",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Tilapia",
+  "Unit": "Net weight in KG",
+  "Export": 108,
+  "Import": 66
+ },
+ {
+  "Product": "Other, frozen-  Alaska Pollack Theraga chalcogramma",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Other, frozen- Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae, other than Alaska Pollack Theraga chalcogramma",
+  "Unit": "Net weight in KG",
+  "Export": 34,
+  "Import": 358
+ },
+ {
+  "Product": "Dogfish and other sharks",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Rays and skates Rajidae",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1112
+ },
+ {
+  "Product": "Fish meal fit for human consumption",
+  "Unit": "Net weight in KG",
+  "Export": 503532,
+  "Import": 59549
+ },
+ {
+  "Product": "Livers and roes, dried, smoked, salted or in brine",
+  "Unit": "Net weight in KG",
+  "Export": 1430,
+  "Import": 10
+ },
+ {
+  "Product": "catfish",
+  "Unit": "Net weight in KG",
+  "Export": 87992,
+  "Import": 17630
+ },
+ {
+  "Product": "Tilapia",
+  "Unit": "Net weight in KG",
+  "Export": 87992,
+  "Import": 17630
+ },
+ {
+  "Product": "Fish, dried, salted or in brine smoked fish, whether or not cooked before or during the smoking process flours, meals and pellets of fish, fit for human consumption- Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, etc",
+  "Unit": "Net weight in KG",
+  "Export": 10210,
+  "Import": 5100
+ },
+ {
+  "Product": "Fish, dried, salted or in brine smoked fish, whether or not cooked before or during the smoking process flours, meals and pellets of fish, fit for human consumption- Other",
+  "Unit": "Net weight in KG",
+  "Export": 56219,
+  "Import": 1293357
+ },
+ {
+  "Product": "Smoked pacific, atlantic and danube salmon incl. fillets",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2918
+ },
+ {
+  "Product": "Smoked herrings incl. fillets",
+  "Unit": "Net weight in KG",
+  "Export": 7762,
+  "Import": 27780
+ },
+ {
+  "Product": "Smoked fish, including fillets, other than edible fish offal - Trout Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster",
+  "Unit": "Net weight in KG",
+  "Export": 2062,
+  "Import": 23010
+ },
+ {
+  "Product": "Tilapia",
+  "Unit": "Net weight in KG",
+  "Export": 2623,
+  "Import": 149
+ },
+ {
+  "Product": "Smoked fish excl. salmon and herrings",
+  "Unit": "Net weight in KG",
+  "Export": 30259,
+  "Import": 52335
+ },
+ {
+  "Product": "Dried cod, not smoked",
+  "Unit": "Net weight in KG",
+  "Export": 648,
+  "Import": 86
+ },
+ {
+  "Product": "Tilapia",
+  "Unit": "Net weight in KG",
+  "Export": 12783,
+  "Import": 344
+ },
+ {
+  "Product": "catfish",
+  "Unit": "Net weight in KG",
+  "Export": 12783,
+  "Import": 344
+ },
+ {
+  "Product": "Dried fish, other than edible fish offal, salted or not but not smoked- Fish families Bregmacerotidae, Euclihthyidae, Gadidae, Macouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepidae, other than cod Gadus morhua, G. ogac, G. macrocephalus",
+  "Unit": "Net weight in KG",
+  "Export": 120,
+  "Import": 158
+ },
+ {
+  "Product": "Dried fish, other than edible fish offal, whether or not salted but not smokedHerrings Clupea harengus, Clupea pallasii, anchovies Eagraulis spp., sardines Sardina pilchardus, Sardinops spp., sardinella",
+  "Unit": "Net weight in KG",
+  "Export": 2651,
+  "Import": 830
+ },
+ {
+  "Product": "Dried fish, not smoked excl. cod",
+  "Unit": "Net weight in KG",
+  "Export": 38918,
+  "Import": 296055
+ },
+ {
+  "Product": "Herrings salted or in brine but not dried or smoked",
+  "Unit": "Net weight in KG",
+  "Export": 746,
+  "Import": 0
+ },
+ {
+  "Product": "Cod salted or in brine but not dried or smoked",
+  "Unit": "Net weight in KG",
+  "Export": 140,
+  "Import": 0
+ },
+ {
+  "Product": "Anchovies salted or in brine but not dried or smoked",
+  "Unit": "Net weight in KG",
+  "Export": 297,
+  "Import": 38
+ },
+ {
+  "Product": "Tilapia",
+  "Unit": "Net weight in KG",
+  "Export": 394,
+  "Import": 0
+ },
+ {
+  "Product": "catfish",
+  "Unit": "Net weight in KG",
+  "Export": 394,
+  "Import": 0
+ },
+ {
+  "Product": "Fish salted or in brine but not dried or smoked - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 6379,
+  "Import": 96
+ },
+ {
+  "Product": "Shark fins",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Fish heads, tails and maws -Cod head",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Fish heads, tails and maws - Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Fish fins, heads, tails, maws and other edible fish offal - Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 37
+ },
+ {
+  "Product": "Frozen rock lobster and other sea crawfish",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1732
+ },
+ {
+  "Product": "Frozen lobsters",
+  "Unit": "Net weight in KG",
+  "Export": 620,
+  "Import": 1307
+ },
+ {
+  "Product": "Frozen crabs",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1380
+ },
+ {
+  "Product": "Frozen- Norway lobsters Nephrops norvegicus",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 129
+ },
+ {
+  "Product": "Frozen- Cold-water shimps and prawns Pandalus spp., Crangon crangon",
+  "Unit": "Net weight in KG",
+  "Export": 76,
+  "Import": 31
+ },
+ {
+  "Product": "Frozen- Other shrimps and prawns",
+  "Unit": "Net weight in KG",
+  "Export": 127,
+  "Import": 184577
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Flours, meals and pellets",
+  "Unit": "Net weight in KG",
+  "Export": 12731,
+  "Import": 73088
+ },
+ {
+  "Product": "Other",
+  "Unit": "Net weight in KG",
+  "Export": 987,
+  "Import": 4296
+ },
+ {
+  "Product": "Live, fresh or chilled Rock lobster and other sea crawfish Palinurus spp., Panulirus spp., Jasus spp.",
+  "Unit": "Net weight in KG",
+  "Export": 450,
+  "Import": 0
+ },
+ {
+  "Product": "Live, fresh or chilled  Lobsters Homarus spp.",
+  "Unit": "Net weight in KG",
+  "Export": 70172,
+  "Import": 2714
+ },
+ {
+  "Product": "Live, fresh or chilled  Crabs",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 467
+ },
+ {
+  "Product": "Live, fresh or chilled Norway lobsters Nephrops norvegicus",
+  "Unit": "Net weight in KG",
+  "Export": 495,
+  "Import": 0
+ },
+ {
+  "Product": "Live, fresh or chilled Cold-water shrimps and prawns Pandalus spp., Crangon crangon",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 263
+ },
+ {
+  "Product": "Live, fresh or chilled  Other shrimps and prawns",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Live, fresh or chilled  Other, including flours, meals and pellets of crustaceans, fit for human consumption-  Flours, meals and pellets",
+  "Unit": "Net weight in KG",
+  "Export": 810,
+  "Import": 72
+ },
+ {
+  "Product": "Live, fresh or chilled  Other, including flours, meals and pellets of crustaceans, fit for human consumption- Other",
+  "Unit": "Net weight in KG",
+  "Export": 1700,
+  "Import": 74
+ },
+ {
+  "Product": "Live, fresh or chilled  Other, Rock lobster and other sea crawfish Palinurus spp., Panulirus   spp., Jasus spp.",
+  "Unit": "Net weight in KG",
+  "Export": 248,
+  "Import": 0
+ },
+ {
+  "Product": "Live, fresh or chilled  Other- Lobsters Homarus spp",
+  "Unit": "Net weight in KG",
+  "Export": 1718,
+  "Import": 51
+ },
+ {
+  "Product": "Live, fresh or chilled  Other - Crabs",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 568
+ },
+ {
+  "Product": "Live, fresh or chilled  Other- Norway lobsters Nephrops norvegicus",
+  "Unit": "Net weight in KG",
+  "Export": 420,
+  "Import": 0
+ },
+ {
+  "Product": "Live, fresh or chilled  Other- Shrimps and prawns",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 25164
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Other, including flours, meals and pellets of crustaceans, fit for human consumption- Flours, meals and pellets",
+  "Unit": "Net weight in KG",
+  "Export": 23010,
+  "Import": 4483
+ },
+ {
+  "Product": "Other, including flours, meals and pellets of crustaceans, fit for human consumption- Other",
+  "Unit": "Net weight in KG",
+  "Export": 36554,
+  "Import": 1850
+ },
+ {
+  "Product": "Oysters - Live, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1992
+ },
+ {
+  "Product": "Oysters Frozen",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 252
+ },
+ {
+  "Product": "Oysters - Other",
+  "Unit": "Net weight in KG",
+  "Export": 20,
+  "Import": 384
+ },
+ {
+  "Product": "Scallops, live, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1153
+ },
+ {
+  "Product": "Molluscs in shell or not, live, fresh, chilled, dried, salted or in brine, smoked molluscs in shell or not, cooked or not before or during smoking, pellets of molluscs, fit for consumption, Scallops, of genera Pecten, Chlamys or Placopecten, Frozen",
+  "Unit": "Net weight in KG",
+  "Export": 27,
+  "Import": 108
+ },
+ {
+  "Product": "Scallops excl. live, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 100
+ },
+ {
+  "Product": "Mussels, live, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Mussels Mytilus spp., Perna spp.   Frozen",
+  "Unit": "Net weight in KG",
+  "Export": 1560,
+  "Import": 776
+ },
+ {
+  "Product": "Mussels excl. live, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2477
+ },
+ {
+  "Product": "Cuttle fish and squid  Live, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 225
+ },
+ {
+  "Product": "Cuttle fish and squid, Frozen",
+  "Unit": "Net weight in KG",
+  "Export": 1984472,
+  "Import": 52089
+ },
+ {
+  "Product": "Cuttle fish and squid excl. live, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 1196051,
+  "Import": 20429
+ },
+ {
+  "Product": "Octopus live, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 101879,
+  "Import": 9170
+ },
+ {
+  "Product": "Octopus Octopus spp. - Frozen",
+  "Unit": "Net weight in KG",
+  "Export": 493531,
+  "Import": 84960
+ },
+ {
+  "Product": "Octopus excl. live, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 2023,
+  "Import": 2000
+ },
+ {
+  "Product": "Snails",
+  "Unit": "Net weight in KG",
+  "Export": 3471,
+  "Import": 230742
+ },
+ {
+  "Product": "Clams, cockles and ark shells families Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae, Tridacnidae and Veneridae - Frozen",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 167
+ },
+ {
+  "Product": "Clams, cockles and ark shells- Other",
+  "Unit": "Net weight in KG",
+  "Export": 12,
+  "Import": 0
+ },
+ {
+  "Product": "Other abalone Haliotis spp.",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Aquatic invertibrates, nes, live, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine smoked molluscs, whether or not cooked before or during the smoking processOther, including flours, meals and pellets, fit for human consumption. Frozen",
+  "Unit": "Net weight in KG",
+  "Export": 1560,
+  "Import": 66
+ },
+ {
+  "Product": "Aquatic invertibrates, nes excl. live, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 704
+ },
+ {
+  "Product": "Sea cucumbers Stichopus japonicas, Holothurioidea - Live, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 66
+ },
+ {
+  "Product": "Sea cucumbers Stichopus japonicas, Holothurioidea - Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 350
+ },
+ {
+  "Product": "Sea urchins Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echichinus esculentus - Live, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "MilkCream, not concentrated, not sweetened, fat  1",
+  "Unit": "Net weight in KG",
+  "Export": 35283,
+  "Import": 322616
+ },
+ {
+  "Product": "MilkCream, not concentrated, not sweetened, fat  1 but 6",
+  "Unit": "Net weight in KG",
+  "Export": 7990,
+  "Import": 2637124
+ },
+ {
+  "Product": "Milk and cream, not concentrated nor containing added sugar or other sweetening matter- Of a fat content, by weight, exceeding 6 but not exceeding 10",
+  "Unit": "Net weight in KG",
+  "Export": 207,
+  "Import": 286425
+ },
+ {
+  "Product": "Milk and cream, not concentrated nor containing added sugar or other sweetening matter- Of a fat content, by weight, exceeding 10",
+  "Unit": "Net weight in KG",
+  "Export": 717,
+  "Import": 182104
+ },
+ {
+  "Product": "MilkCream, sweetened, solid, fat  1.5,  pkg  25kg",
+  "Unit": "Net weight in KG",
+  "Export": 28470,
+  "Import": 11476664
+ },
+ {
+  "Product": "0402102100 - MilkCream, sweetened, solid, fat 1.5, pkg  25kg, for pharmacist",
+  "Unit": "Net weight in KG",
+  "Export": 25,
+  "Import": 2000
+ },
+ {
+  "Product": "0402102900 - MilkCream, sweetened, solid, fat1.5, pkg25kg - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 140037,
+  "Import": 271761
+ },
+ {
+  "Product": "MilkCream, not sweetened, solid, fat  1.5, pkg  25kg",
+  "Unit": "Net weight in KG",
+  "Export": 350758,
+  "Import": 942557
+ },
+ {
+  "Product": "0402212100 - MilkCream, not sweetened, solid, fat  1.5, pkg  25kg, for pharmacist",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 42
+ },
+ {
+  "Product": "0402212900 - MilkCream, not sweetened, solid, fat  1.5, pkg  25kg - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 21922,
+  "Import": 501133
+ },
+ {
+  "Product": "MilkCream, pkg  25 kg - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 4165,
+  "Import": 678884
+ },
+ {
+  "Product": "0402292100 - MilkCream, pkg  25 kg, for pharmacist - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 921
+ },
+ {
+  "Product": "0402292900 - MilkCream, pkg  25 kg - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 540,
+  "Import": 266125
+ },
+ {
+  "Product": "Milk and cream, not concentrated nor containing added sugar or other sweetening matter- Other, In packings not less than 25 kg",
+  "Unit": "Net weight in KG",
+  "Export": 1336,
+  "Import": 6856147
+ },
+ {
+  "Product": "In packings of less than 25 kg",
+  "Unit": "Net weight in KG",
+  "Export": 2576300,
+  "Import": 1959130
+ },
+ {
+  "Product": "MilkCream, not solid - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 118480,
+  "Import": 13466460
+ },
+ {
+  "Product": "Yogurt- nature",
+  "Unit": "Net weight in KG",
+  "Export": 6203019,
+  "Import": 183839
+ },
+ {
+  "Product": "Yogurt- containing added fruit",
+  "Unit": "Net weight in KG",
+  "Export": 145,
+  "Import": 225328
+ },
+ {
+  "Product": "cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 109,
+  "Import": 217
+,
+  "Year": 2022 },
+ {
+  "Product": "Yogurt - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 402,
+  "Import": 1123580
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "0403901100 - Butter milk - In powder form",
+  "Unit": "Net weight in KG",
+  "Export": 624,
+  "Import": 113873
+ },
+ {
+  "Product": "0403901900 - Butter milk - Other",
+  "Unit": "Net weight in KG",
+  "Export": 98,
+  "Import": 2090
+ },
+ {
+  "Product": "0403909100 - Other Butter milk - In powder form",
+  "Unit": "Net weight in KG",
+  "Export": 514,
+  "Import": 733
+ },
+ {
+  "Product": "0403909900 - Other Butter milk -Other",
+  "Unit": "Net weight in KG",
+  "Export": 1220,
+  "Import": 13397
+ },
+ {
+  "Product": "Whey",
+  "Unit": "Net weight in KG",
+  "Export": 50330,
+  "Import": 7733846
+ },
+ {
+  "Product": "Products consisting of natural milk constituents, nes",
+  "Unit": "Net weight in KG",
+  "Export": 12004,
+  "Import": 44956
+ },
+ {
+  "Product": "Butter",
+  "Unit": "Net weight in KG",
+  "Export": 185673,
+  "Import": 527848
+ },
+ {
+  "Product": "Dairy spreads",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2420
+ },
+ {
+  "Product": "Other- Butter fat and butter oil",
+  "Unit": "Net weight in KG",
+  "Export": 953129,
+  "Import": 5135
+ },
+ {
+  "Product": "Other- Butter fat and butter oil, Other",
+  "Unit": "Net weight in KG",
+  "Export": 249493,
+  "Import": 421746
+ },
+ {
+  "Product": "Unfermented fresh cheese, and curd",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 129845
+ },
+ {
+  "Product": "Grated or powdered cheese",
+  "Unit": "Net weight in KG",
+  "Export": 5,
+  "Import": 200892
+ },
+ {
+  "Product": "Processed cheese, not grated or powdered",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 152527
+ },
+ {
+  "Product": "Blue-veined cheese",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1589
+ },
+ {
+  "Product": "Cheese, nes",
+  "Unit": "Net weight in KG",
+  "Export": 30,
+  "Import": 1237955
+ },
+ {
+  "Product": "Fertilised eggs for incubation- Of fowls of the species Gallus domesticus",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 16886
+ },
+ {
+  "Product": "Fertilised eggs for incubation- Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 928
+ },
+ {
+  "Product": "Other fresh eggs - Of fowls of the species Gallus domesticus",
+  "Unit": "Net weight in KG",
+  "Export": 25,
+  "Import": 5681
+ },
+ {
+  "Product": "Other fresh eggs - Other",
+  "Unit": "Net weight in KG",
+  "Export": 250,
+  "Import": 13493
+ },
+ {
+  "Product": "Others- Not Fertilised eggs for incubation, not Other fresh eggs",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 254
+ },
+ {
+  "Product": "Dried egg yolks",
+  "Unit": "Net weight in KG",
+  "Export": 2,
+  "Import": 4879
+ },
+ {
+  "Product": "Egg yolks excl. dried",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1663
+ },
+ {
+  "Product": "Dried birds eggs, not in shell",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 26218
+ },
+ {
+  "Product": "Birds eggs, not in shell excl. dried",
+  "Unit": "Net weight in KG",
+  "Export": 348,
+  "Import": 514
+ },
+ {
+  "Product": "Natural honey",
+  "Unit": "Net weight in KG",
+  "Export": 4841,
+  "Import": 70239
+ },
+ {
+  "Product": "Edible products of animal origin, nes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 392
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Human hair and waste, unworked",
+  "Unit": "Net weight in KG",
+  "Export": 32855,
+  "Import": 67080
+ },
+ {
+  "Product": "Pigs, hogs, or boars bristles or hair",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 3880
+ },
+ {
+  "Product": "Badger and other brush making hair",
+  "Unit": "Net weight in KG",
+  "Export": 70,
+  "Import": 787
+ },
+ {
+  "Product": "Guts, bladders and stomachs of animals excl. fish",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 53545791
+ },
+ {
+  "Product": "Raw feathers for stuffing down",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 515
+ },
+ {
+  "Product": "Skins and parts of birds excl. feathers for stuffing down",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 165
+ },
+ {
+  "Product": "Bones and horn-cores excl. ossein...",
+  "Unit": "Net weight in KG",
+  "Export": 15315,
+  "Import": 254
+ },
+ {
+  "Product": "The tusks of the elephant",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1
+ },
+ {
+  "Product": "Ivory including powder and waste - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 77,
+  "Import": 240
+ },
+ {
+  "Product": "Tortoise-shell, whalebone and whalebone-hair, etc, unworked",
+  "Unit": "Net weight in KG",
+  "Export": 30780,
+  "Import": 153
+ },
+ {
+  "Product": "Coral shells of molluscs, crustaceans, unworked",
+  "Unit": "Net weight in KG",
+  "Export": 6730,
+  "Import": 1354
+ },
+ {
+  "Product": "Ambergris, castoreum, civet and musk cantharides etc",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Bovine semen",
+  "Unit": "Net weight in KG",
+  "Export": 10,
+  "Import": 52
+ },
+ {
+  "Product": "Products offish, etc dead animals of chapter 3",
+  "Unit": "Net weight in KG",
+  "Export": 33,
+  "Import": 0
+ },
+ {
+  "Product": "Animal products, nes dead animals of chapter 1",
+  "Unit": "Net weight in KG",
+  "Export": 409,
+  "Import": 16
+ },
+ {
+  "Product": "Dormant bulbs, tubers... rhizomes",
+  "Unit": "Net weight in KG",
+  "Export": 200,
+  "Import": 3542
+ },
+ {
+  "Product": "Bulbs, tubers... rhizomes in growth or flower chicory plants and roots",
+  "Unit": "Net weight in KG",
+  "Export": 563,
+  "Import": 758
+ },
+ {
+  "Product": "Unrooted cuttings and slips",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 786
+ },
+ {
+  "Product": "Edible fruits or nut trees, shrubs and bushes",
+  "Unit": "Net weight in KG",
+  "Export": 286151,
+  "Import": 341
+ },
+ {
+  "Product": "Roses",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 871
+ },
+ {
+  "Product": "Live plants - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 55379,
+  "Import": 83856
+ },
+ {
+  "Product": "Fresh cut flowers and buds Roses",
+  "Unit": "Net weight in KG",
+  "Export": 10,
+  "Import": 20867
+ },
+ {
+  "Product": "Fresh cut flowers and budsCarnations",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1129
+ },
+ {
+  "Product": "Fresh cut flowers and budsOrchids",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1852
+ },
+ {
+  "Product": "Fresh cut flowers and budsChrysanthemums",
+  "Unit": "Net weight in KG",
+  "Export": 15,
+  "Import": 7983
+ },
+ {
+  "Product": "Fresh Lillies Lilium spp.",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 528
+ },
+ {
+  "Product": "Other",
+  "Unit": "Net weight in KG",
+  "Export": 412302,
+  "Import": 39583
+ },
+ {
+  "Product": "Dried, dyed, bleached or otherwise prepared cut flowers and buds",
+  "Unit": "Net weight in KG",
+  "Export": 1107,
+  "Import": 2153
+ },
+ {
+  "Product": "Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens, being goods of a kind suitable for bouquets, fresh, dried, dyed, bleached, impregnated or otherwise prepared- Fresh",
+  "Unit": "Net weight in KG",
+  "Export": 7025,
+  "Import": 2436
+ },
+ {
+  "Product": "Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens, being goods of a kind suitable for bouquets, fresh, dried, dyed, bleached, impregnated or otherwise prepared- Other",
+  "Unit": "Net weight in KG",
+  "Export": 44624,
+  "Import": 40930
+ },
+ {
+  "Product": "Seed potatoes",
+  "Unit": "Net weight in KG",
+  "Export": 10,
+  "Import": 342
+ },
+ {
+  "Product": "Potatoes, fresh or chilled - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 1666,
+  "Import": 2826195
+ },
+ {
+  "Product": "Tomatoes",
+  "Unit": "Net weight in KG",
+  "Export": 440,
+  "Import": 4762264,
+  "Year": 2022
+ },
+ {
+  "Product": "Onions",
+  "Unit": "Net weight in KG",
+  "Export": 1782446,
+  "Import": 19867411
+ },
+ {
+  "Product": "Garlic, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 5158,
+  "Import": 6559982
+ },
+ {
+  "Product": "Leeks and alliaceous vegetables - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 7692,
+  "Import": 11896
+ },
+ {
+  "Product": "Cauliflowers and headed broccoli, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 54258
+ },
+ {
+  "Product": "Brussels sprouts, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 4623
+ },
+ {
+  "Product": "White and red cabbages, kohlrabi, kale...etc, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 129629
+ },
+ {
+  "Product": "Cabbage lettuce, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 26073
+ },
+ {
+  "Product": "Lettuce, fresh or chilled, excl. cabbage lettuce",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 48957
+ },
+ {
+  "Product": "Witloof chicory, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1364
+ },
+ {
+  "Product": "Chicory, fresh or chilled, excl. witloof",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 53
+ },
+ {
+  "Product": "Carrots and turnips, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 3032511
+ },
+ {
+  "Product": "Beetroot...radishes and other similar edible roots, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 21934
+ },
+ {
+  "Product": "Cucumbers and gherkins, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 5040
+ },
+ {
+  "Product": "Peas, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 15275
+ },
+ {
+  "Product": "Beans",
+  "Unit": "Net weight in KG",
+  "Export": 427226,
+  "Import": 1271265
+ },
+ {
+  "Product": "Leguminous vegetables, fresh or chilled, nes",
+  "Unit": "Net weight in KG",
+  "Export": 10407,
+  "Import": 248
+ },
+ {
+  "Product": "Asparagus, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 1466,
+  "Import": 6695
+ },
+ {
+  "Product": "Aubergines, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 155404,
+  "Import": 59890
+ },
+ {
+  "Product": "Celery, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 32097
+ },
+ {
+  "Product": "Mushrooms, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 35,
+  "Import": 33011
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Other mushrooms",
+  "Unit": "Net weight in KG",
+  "Export": 2200,
+  "Import": 24673
+ },
+ {
+  "Product": "Fruits of genus capiscum or pimenta, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 92568
+ },
+ {
+  "Product": "Spinach, fresh or chilled",
+  "Unit": "Net weight in KG",
+  "Export": 222760,
+  "Import": 6339
+ },
+ {
+  "Product": "Globe artichokes",
+  "Unit": "Net weight in KG",
+  "Export": 2,
+  "Import": 2051
+ },
+ {
+  "Product": "Olives",
+  "Unit": "Net weight in KG",
+  "Export": 248,
+  "Import": 5011
+ },
+ {
+  "Product": "Pumpkins, squash and gourds Cucurbita spp.",
+  "Unit": "Net weight in KG",
+  "Export": 6755,
+  "Import": 4120
+ },
+ {
+  "Product": "Sweet corn",
+  "Unit": "Net weight in KG",
+  "Export": 2184,
+  "Import": 40992
+ },
+ {
+  "Product": "Other, not sweetcorn",
+  "Unit": "Net weight in KG",
+  "Export": 13318,
+  "Import": 13230
+ },
+ {
+  "Product": "Potatoes, frozen",
+  "Unit": "Net weight in KG",
+  "Export": 650,
+  "Import": 382884
+ },
+ {
+  "Product": "Shelled or unshelled peas, frozen",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 88279
+ },
+ {
+  "Product": "Beans",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 120590
+ },
+ {
+  "Product": "Leguminous vegetables, shelled or unshelled, frozen, nes",
+  "Unit": "Net weight in KG",
+  "Export": 649,
+  "Import": 4946
+ },
+ {
+  "Product": "Spinach, frozen",
+  "Unit": "Net weight in KG",
+  "Export": 202,
+  "Import": 31391
+ },
+ {
+  "Product": "Sweet corn, frozen",
+  "Unit": "Net weight in KG",
+  "Export": 1073,
+  "Import": 64380
+ },
+ {
+  "Product": "Vegetables, frozen, nes",
+  "Unit": "Net weight in KG",
+  "Export": 437812,
+  "Import": 174966
+ },
+ {
+  "Product": "Mixtures of vegetables, frozen",
+  "Unit": "Net weight in KG",
+  "Export": 11368,
+  "Import": 141230
+ },
+ {
+  "Product": "Olives provisionally preserved, not for immediate consumption",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 23910
+ },
+ {
+  "Product": "Cucumbers and gherkins provisionally preserved",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1240
+ },
+ {
+  "Product": "provisionally preserved ,Mushrooms of the genus Agaricus",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 25568
+ },
+ {
+  "Product": "Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1021
+ },
+ {
+  "Product": "Vegetables and  mixture of vegetables provisionally preserved - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 36494,
+  "Import": 14948
+ },
+ {
+  "Product": "Onions",
+  "Unit": "Net weight in KG",
+  "Export": 13351,
+  "Import": 52137
+ },
+ {
+  "Product": "Mushrooms",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1894
+ },
+ {
+  "Product": "Wood ears",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Jelly fungi",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 93
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Other mushrooms",
+  "Unit": "Net weight in KG",
+  "Export": 1,
+  "Import": 6279
+ },
+ {
+  "Product": "Dried vegetables, nes",
+  "Unit": "Net weight in KG",
+  "Export": 13211,
+  "Import": 19164
+ },
+ {
+  "Product": "Peas Pisum sativum - Seeds",
+  "Unit": "Net weight in KG",
+  "Export": 56,
+  "Import": 102565
+ },
+ {
+  "Product": "Peas Pisum sativum - Other",
+  "Unit": "Net weight in KG",
+  "Export": 100,
+  "Import": 11995
+ },
+ {
+  "Product": "Chickpeas garbanzos - Seeds",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 10012
+ },
+ {
+  "Product": "Chickpeas garbanzos - Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 36449
+ },
+ {
+  "Product": "Beans",
+  "Unit": "Net weight in KG",
+  "Export": 43415,
+  "Import": 2419
+ },
+ {
+  "Product": "Beans",
+  "Unit": "Net weight in KG",
+  "Export": 1563,
+  "Import": 4440
+ },
+ {
+  "Product": "beans",
+  "Unit": "Net weight in KG",
+  "Export": 2,
+  "Import": 272
+ },
+ {
+  "Product": "beans",
+  "Unit": "Net weight in KG",
+  "Export": 1921,
+  "Import": 174
+ },
+ {
+  "Product": "beans",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 3040
+ },
+ {
+  "Product": "beans",
+  "Unit": "Net weight in KG",
+  "Export": 350,
+  "Import": 57378
+ },
+ {
+  "Product": "beans",
+  "Unit": "Net weight in KG",
+  "Export": 1386,
+  "Import": 0
+ },
+ {
+  "Product": "beans",
+  "Unit": "Net weight in KG",
+  "Export": 18429,
+  "Import": 18
+ },
+ {
+  "Product": "Cow peas Vigna unguiculata - Seeds",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 32541
+ },
+ {
+  "Product": "Cow peas Vigna unguiculata - Other",
+  "Unit": "Net weight in KG",
+  "Export": 40,
+  "Import": 377371
+ },
+ {
+  "Product": "beans",
+  "Unit": "Net weight in KG",
+  "Export": 11794,
+  "Import": 36224
+ },
+ {
+  "Product": "Lentils - Seeds",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 7049
+ },
+ {
+  "Product": "Lentils - Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 28481
+ },
+ {
+  "Product": "Beans",
+  "Unit": "Net weight in KG",
+  "Export": 1307500,
+  "Import": 343
+ },
+ {
+  "Product": "Beans",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1122
+ },
+ {
+  "Product": "Pigeon peas Cajanus cajan - Seeds",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1378
+ },
+ {
+  "Product": "Pigeon peas Cajanus cajan -Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 752
+ },
+ {
+  "Product": "Dried leguminous vegetables, shelled, nes",
+  "Unit": "Net weight in KG",
+  "Export": 478,
+  "Import": 68956
+ },
+ {
+  "Product": "Manioc, fresh or dried",
+  "Unit": "Net weight in KG",
+  "Export": 501312,
+  "Import": 1200
+ },
+ {
+  "Product": "Sweet potatoes, fresh or dried",
+  "Unit": "Net weight in KG",
+  "Export": 23345,
+  "Import": 65263
+ },
+ {
+  "Product": "Yam",
+  "Unit": "Net weight in KG",
+  "Export": 22778652,
+  "Import": 48438,
+  "Year": 2022
+ },
+ {
+  "Product": "Taro Colocasia spp.",
+  "Unit": "Net weight in KG",
+  "Export": 418,
+  "Import": 0
+ },
+ {
+  "Product": "Yautia Xanthosoma spp.",
+  "Unit": "Net weight in KG",
+  "Export": 856,
+  "Import": 50
+ },
+ {
+  "Product": "Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets sago pith- Other",
+  "Unit": "Net weight in KG",
+  "Export": 367,
+  "Import": 35118
+ },
+ {
+  "Product": "Coconut",
+  "Unit": "Net weight in KG",
+  "Export": 7998579,
+  "Import": 65688
+ },
+ {
+  "Product": "Coconut",
+  "Unit": "Net weight in KG",
+  "Export": 935393,
+  "Import": 77526
+ },
+ {
+  "Product": "Coconut",
+  "Unit": "Net weight in KG",
+  "Export": 25495901,
+  "Import": 121312
+ },
+ {
+  "Product": "Brazil nuts, in shell",
+  "Unit": "Net weight in KG",
+  "Export": 202,
+  "Import": 241
+ },
+ {
+  "Product": "Brazil nuts, shelled",
+  "Unit": "Net weight in KG",
+  "Export": 120,
+  "Import": 512
+ },
+ {
+  "Product": "Cashew nuts, in shell",
+  "Unit": "Net weight in KG",
+  "Export": 245706263,
+  "Import": 995
+ },
+ {
+  "Product": "Cashew nuts, shelled",
+  "Unit": "Net weight in KG",
+  "Export": 58320014,
+  "Import": 18568
+ },
+ {
+  "Product": "Almonds in shell, fresh or dried",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2981
+ },
+ {
+  "Product": "Almonds without shells, fresh or dried",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 67490
+ },
+ {
+  "Product": "Hazlenuts in shell, fresh or dried",
+  "Unit": "Net weight in KG",
+  "Export": 3708,
+  "Import": 384
+ },
+ {
+  "Product": "Hazlenuts without shells, fresh or dried",
+  "Unit": "Net weight in KG",
+  "Export": 118,
+  "Import": 730
+ },
+ {
+  "Product": "Walnuts in shell, fresh or dried",
+  "Unit": "Net weight in KG",
+  "Export": 70,
+  "Import": 2966
+ },
+ {
+  "Product": "Walnuts without shells, fresh or dried",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 4748
+ },
+ {
+  "Product": "Chestnuts Castanea spp. - In shell",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2616
+ },
+ {
+  "Product": "Chestnuts Castanea spp. - Shelled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 3489
+ },
+ {
+  "Product": "Pistachios - In shell",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1521
+ },
+ {
+  "Product": "Pistachios - Shelled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 541
+ },
+ {
+  "Product": "Macadamia nuts - In shell",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 10
+ },
+ {
+  "Product": "Macadamia nuts - Shelled",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 143
+ },
+ {
+  "Product": "Cola",
+  "Unit": "Net weight in KG",
+  "Export": 1411215,
+  "Import": 465002
+ },
+ {
+  "Product": "Areca nuts",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 64
+ },
+ {
+  "Product": "Other nuts, fresh or dried, whether or not shelled or peeled- Other",
+  "Unit": "Net weight in KG",
+  "Export": 33722,
+  "Import": 50254
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Plantain",
+  "Unit": "Net weight in KG",
+  "Export": 199504,
+  "Import": 28
+ },
+ {
+  "Product": "Plantain",
+  "Unit": "Net weight in KG",
+  "Export": 362254,
+  "Import": 71
+ },
+ {
+  "Product": " plantain",
+  "Unit": "Net weight in KG",
+  "Export": 73975795,
+  "Import": 325
+ },
+ {
+  "Product": "Plantain",
+  "Unit": "Net weight in KG",
+  "Export": 271223,
+  "Import": 6
+ },
+ {
+  "Product": "Dates, fresh or dried",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 280938
+ },
+ {
+  "Product": "Figs, fresh or dried",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2146
+ },
+ {
+  "Product": "Pineapples, fresh or dried",
+  "Unit": "Net weight in KG",
+  "Export": 8278708,
+  "Import": 113379
+ },
+ {
+  "Product": "Avocados",
+  "Unit": "Net weight in KG",
+  "Export": 5289,
+  "Import": 3146,
+  "Year": 2022
+ },
+ {
+  "Product": "Mango",
+  "Unit": "Net weight in KG",
+  "Export": 11007306,
+  "Import": 14722189
+ },
+ {
+  "Product": "Guava",
+  "Unit": "Net weight in KG",
+  "Export": 10370,
+  "Import": 14643
+ },
+ {
+  "Product": "Oranges, fresh or dried",
+  "Unit": "Net weight in KG",
+  "Export": 4834614,
+  "Import": 333631
+ },
+ {
+  "Product": "Citrus fruit, fresh or dried, Mandarins including tangerines and satsumas, clementines, wilkings and similar citrus hybrids, Mandarins including tangerines and satsumas",
+  "Unit": "Net weight in KG",
+  "Export": 9320,
+  "Import": 533168
+ },
+ {
+  "Product": "Mandarins including tangerines and satsumas clementines, wilkings and similar citrus hybrids- Clementines",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 100812
+ },
+ {
+  "Product": "Mandarins including tangerines and satsumas clementines, wilkings and similar citrus hybrids- Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 66713
+ },
+ {
+  "Product": "Grapefruit, fresh or dried",
+  "Unit": "Net weight in KG",
+  "Export": 190,
+  "Import": 50016
+ },
+ {
+  "Product": "Lemons and limes, fresh or dried",
+  "Unit": "Net weight in KG",
+  "Export": 53878,
+  "Import": 126404
+ },
+ {
+  "Product": "Citrus fruit, fresh or dried, nes",
+  "Unit": "Net weight in KG",
+  "Export": 30,
+  "Import": 55310
+ },
+ {
+  "Product": "Fresh grapes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1799087
+ },
+ {
+  "Product": "Dried grapes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 20832
+ },
+ {
+  "Product": "Melons, fresh - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 9778,
+  "Import": 17256
+ },
+ {
+  "Product": "Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 6434
+ },
+ {
+  "Product": "Pawpaw",
+  "Unit": "Net weight in KG",
+  "Export": 563589,
+  "Import": 40
+ },
+ {
+  "Product": "Apples, fresh",
+  "Unit": "Net weight in KG",
+  "Export": 74,
+  "Import": 12777618
+ },
+ {
+  "Product": "Pears",
+  "Unit": "Net weight in KG",
+  "Export": 4077,
+  "Import": 419931
+ },
+ {
+  "Product": "Quinces",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 26
+ },
+ {
+  "Product": "Apricots, fresh",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1340
+ },
+ {
+  "Product": "Sour cherries Prunus cerasus",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 532
+ },
+ {
+  "Product": "Cherries - Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2631
+ },
+ {
+  "Product": "Peaches, including nectarines, fresh",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 8894
+ },
+ {
+  "Product": "Plums and sloes, fresh",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 55277
+ },
+ {
+  "Product": "Strawberries, fresh",
+  "Unit": "Net weight in KG",
+  "Export": 396,
+  "Import": 39331
+ },
+ {
+  "Product": "Raspberries, blackberries, mulberries and loganberries, fresh",
+  "Unit": "Net weight in KG",
+  "Export": 510,
+  "Import": 14743
+ },
+ {
+  "Product": "Black, white or red currants and gooseberries, fresh",
+  "Unit": "Net weight in KG",
+  "Export": 101,
+  "Import": 3669
+ },
+ {
+  "Product": "Cranberries, milberries...etc, fresh",
+  "Unit": "Net weight in KG",
+  "Export": 466,
+  "Import": 17463
+ },
+ {
+  "Product": "Kiwi fruit, fresh",
+  "Unit": "Net weight in KG",
+  "Export": 97,
+  "Import": 62487
+ },
+ {
+  "Product": "Durian",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1427
+ },
+ {
+  "Product": "Persimmons",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1081
+ },
+ {
+  "Product": "Fruit, fresh - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 1777721,
+  "Import": 343021
+ },
+ {
+  "Product": "Strawberries, frozen",
+  "Unit": "Net weight in KG",
+  "Export": 376,
+  "Import": 35459
+ },
+ {
+  "Product": "Raspberries, blackberries...etc, frozen",
+  "Unit": "Net weight in KG",
+  "Export": 595,
+  "Import": 4517
+ },
+ {
+  "Product": "Fruit and nuts, frozen - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 8521,
+  "Import": 25773
+ },
+ {
+  "Product": "Cherries, provisionally preserved, not for immediate consumption",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 398
+ },
+ {
+  "Product": "Fruit and nuts, provisionally preserved, not for immediate consumption",
+  "Unit": "Net weight in KG",
+  "Export": 50,
+  "Import": 694
+ },
+ {
+  "Product": "Dried apricots",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1631
+ },
+ {
+  "Product": "Dried prunes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1388
+ },
+ {
+  "Product": "Dried apples",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 127
+ },
+ {
+  "Product": "Tamarind",
+  "Unit": "Net weight in KG",
+  "Export": 320246,
+  "Import": 1420
+ },
+ {
+  "Product": "Fruit, drief, not of hdg 08.01 to 08.06 - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 926,
+  "Import": 7940
+ },
+ {
+  "Product": "Mixtures of dried fruit and nuts, nes",
+  "Unit": "Net weight in KG",
+  "Export": 177275,
+  "Import": 18733
+ },
+ {
+  "Product": "Peel of citrus fruit or melons, fresh,frozen, dried...etc.",
+  "Unit": "Net weight in KG",
+  "Export": 259250,
+  "Import": 403
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 14,
+  "Import": 9881,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 13,
+  "Import": 1425,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 2,
+  "Import": 1138,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 13672,
+  "Import": 29897,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 151270,
+  "Import": 0,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 3,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 70,
+  "Import": 0,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1414,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 16,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 605,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 11,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 5301,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1902,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 3,
+  "Import": 248,
+  "Year": 2022  
+ },
+
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 176,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1757,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 120,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1966,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2108,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 30,
+  "Import": 5146,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 34418,
+  "Year": 2022  
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1745,
+  "Year": 2022  
+ },
+ {
+  "Product": "Crushed",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1852
+ },
+ {
+  "Product": "Coffee",
+  "Unit": "Net weight in KG",
+  "Export": 135,
+  "Import": 44850,
+  "Year": 2022  
+ },
+ {
+  "Product": "Green tea in immediate packings",
+  "Unit": "Net weight in KG",
+  "Export": 514,
+  "Import": 144173
+ },
+ {
+  "Product": "Green tea, nes",
+  "Unit": "Net weight in KG",
+  "Export": 55383,
+  "Import": 234595
+ },
+ {
+  "Product": "Black tea fermented and partly fermented tea in immediate packings",
+  "Unit": "Net weight in KG",
+  "Export": 136196,
+  "Import": 624224
+ },
+ {
+  "Product": "Black tea fermented and partly fermented tea, nes",
+  "Unit": "Net weight in KG",
+  "Export": 5177,
+  "Import": 806065
+ },
+ {
+  "Product": "MatT",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 20026
+ },
+ {
+  "Product": "pepper",
+  "Unit": "Net weight in KG",
+  "Export": 133332,
+  "Import": 127808
+ },
+ {
+  "Product": "Pepper",
+  "Unit": "Net weight in KG",
+  "Export": 45911,
+  "Import": 854808
+ },
+ {
+  "Product": "Fruits of the genus Capsicum or of the genus Pimenta- Dried, neither crushed nor ground",
+  "Unit": "Net weight in KG",
+  "Export": 17579,
+  "Import": 3807
+ },
+ {
+  "Product": "Fruits of the genus Capsicum or of the genus Pimenta- Crushed or ground.",
+  "Unit": "Net weight in KG",
+  "Export": 2500,
+  "Import": 274265
+ },
+ {
+  "Product": "Vanilla, Neither crushed nor ground",
+  "Unit": "Net weight in KG",
+  "Export": 256,
+  "Import": 325
+ },
+ {
+  "Product": "Vanilla, Crushed or ground.",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 4742
+ },
+ {
+  "Product": "Cinnamon and cinnamon-tree flowers, neither crushed and ground",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 49352
+ },
+ {
+  "Product": "Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 4928
+ },
+ {
+  "Product": "Cinnamon and cinnamon-tree flowers, crushed or ground",
+  "Unit": "Net weight in KG",
+  "Export": 3,
+  "Import": 20212
+ },
+ {
+  "Product": "Cloves whole fruit, cloves and stems, Neither crushed nor ground",
+  "Unit": "Net weight in KG",
+  "Export": 315,
+  "Import": 163503
+ },
+ {
+  "Product": "Cloves whole fruit, cloves and stems, Crushed or ground.",
+  "Unit": "Net weight in KG",
+  "Export": 20,
+  "Import": 63233
+ },
+ {
+  "Product": "Nutmeg - Neither crushed nor ground",
+  "Unit": "Net weight in KG",
+  "Export": 865,
+  "Import": 125073
+ },
+ {
+  "Product": "Nutmeg - Crushed or ground",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 177169
+ },
+ {
+  "Product": "Mace Neither crushed nor ground",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Mace Crushed or ground",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Cardamoms - Neither crushed nor ground",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 753
+ },
+ {
+  "Product": "Cardamoms - Crushed or ground",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 243
+ },
+ {
+  "Product": "Seeds of coriander- Neither crushed nor ground",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 43059
+ },
+ {
+  "Product": "Seeds of coriander- Crushed or ground",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 29621
+ },
+ {
+  "Product": "Seeds of cumin - Neither crushed nor ground",
+  "Unit": "Net weight in KG",
+  "Export": 3,
+  "Import": 14089
+ },
+ {
+  "Product": "Seeds of cumin - Crushed or ground",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2494
+ },
+ {
+  "Product": "Seeds of anise, badian, caraway or fennel juniper berries - Neither crushed nor ground",
+  "Unit": "Net weight in KG",
+  "Export": 84,
+  "Import": 160453
+ },
+ {
+  "Product": "Seeds of anise, badian, caraway or fennel juniper berries - Crushed or ground",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 11731
+ },
+ {
+  "Product": "Ginger",
+  "Unit": "Net weight in KG",
+  "Export": 17361,
+  "Import": 5968
+ },
+ {
+  "Product": "Ginger",
+  "Unit": "Net weight in KG",
+  "Export": 10503,
+  "Import": 31945
+ },
+ {
+  "Product": "Saffron",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 268
+ },
+ {
+  "Product": "Turmeric curcuma",
+  "Unit": "Net weight in KG",
+  "Export": 8008,
+  "Import": 11927
+ },
+ {
+  "Product": "Spice mixtures",
+  "Unit": "Net weight in KG",
+  "Export": 4551,
+  "Import": 131298
+ },
+ {
+  "Product": "Spices - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 395768,
+  "Import": 1013733
+ },
+ {
+  "Product": "Durum wheat , Seed",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 3500
+ },
+ {
+  "Product": "Durum wheat, Other",
+  "Unit": "Net weight in KG",
+  "Export": 185,
+  "Import": 467580
+ },
+ {
+  "Product": "Wheat and meslin Other Seed",
+  "Unit": "Net weight in KG",
+  "Export": 1845,
+  "Import": 140885
+ },
+ {
+  "Product": "Wheat and meslin Other other",
+  "Unit": "Net weight in KG",
+  "Export": 12,
+  "Import": 72725691
+ },
+ {
+  "Product": "Rye, Seed",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Rye, Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 10875
+ },
+ {
+  "Product": "Barley, Seed",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 424
+ },
+ {
+  "Product": "Barley, Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 107
+ },
+ {
+  "Product": "Oats, Seed",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 50
+ },
+ {
+  "Product": "Oats, Other",
+  "Unit": "Net weight in KG",
+  "Export": 47876,
+  "Import": 18339
+ },
+ {
+  "Product": "Maize",
+  "Unit": "Net weight in KG",
+  "Export": 770,
+  "Import": 840495,
+  "Year": 2022
+ },
+ {
+  "Product": "Maize",
+  "Unit": "Net weight in KG",
+  "Export": 1631,
+  "Import": 6397590,
+  "Year": 20224
+ },
+ {
+  "Product": "Rice",
+  "Unit": "Net weight in KG",
+  "Export": 61,
+  "Import": 9088,
+  "Year": 2022
+ },
+ {
+  "Product": "Rice",
+  "Unit": "Net weight in KG",
+  "Export": 75,
+  "Import": 181837,
+  "Year": 2022
+ },
+ {
+  "Product": "Rice",
+  "Unit": "Net weight in KG",
+  "Export": 1878,
+  "Import": 79380,
+  "Year": 2022
+ },
+ {
+  "Product": "Rice",
+  "Unit": "Net weight in KG",
+  "Export": 58675,
+  "Import": 272410,
+  "Year": 2022428
+ },
+ {
+  "Product": "Rice",
+  "Unit": "Net weight in KG",
+  "Export": 11,
+  "Import": 103864,
+  "Year": 2022794
+ },
+ {
+  "Product": "Rice",
+  "Unit": "Net weight in KG",
+  "Export": 277895,
+  "Import": 405109,
+  "Year": 2022914
+ },
+ {
+  "Product": "Grain Sorghum, Seed",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 3125
+ },
+ {
+  "Product": "Grain Sorghum, Other",
+  "Unit": "Net weight in KG",
+  "Export": 18757,
+  "Import": 352
+ },
+ {
+  "Product": "Buckwheat",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 5191
+ },
+ {
+  "Product": "Millet",
+  "Unit": "Net weight in KG",
+  "Export": 857,
+  "Import": 485600,
+  "Year": 2022
+ },
+ {
+  "Product": "Millet",
+  "Unit": "Net weight in KG",
+  "Export": 235235,
+  "Import": 263096,
+  "Year": 2022
+ },
+ {
+  "Product": "Canary seed",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Fonio Digitaria spp.",
+  "Unit": "Net weight in KG",
+  "Export": 58000,
+  "Import": 1200
+ },
+ {
+  "Product": "Quinoa Chenopodium quinoa",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 5294
+ },
+ {
+  "Product": "Triticale",
+  "Unit": "Net weight in KG",
+  "Export": 1550,
+  "Import": 0
+ },
+ {
+  "Product": "Cereals - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 367322,
+  "Import": 1894
+ },
+ {
+  "Product": "Wheat or meslin flour",
+  "Unit": "Net weight in KG",
+  "Export": 21194396,
+  "Import": 68964483
+ },
+ {
+  "Product": "Maize",
+  "Unit": "Net weight in KG",
+  "Export": 658730,
+  "Import": 61640,
+  "Year": 2022
+ },
+ {
+  "Product": "Millet",
+  "Unit": "Net weight in KG",
+  "Export": 51025,
+  "Import": 9074,
+  "Year": 2022
+ },
+ {
+  "Product": "Flour of other cereals, nes",
+  "Unit": "Net weight in KG",
+  "Export": 187518,
+  "Import": 94627
+ },
+ {
+  "Product": "Groats andmeal of wheat",
+  "Unit": "Net weight in KG",
+  "Export": 1184,
+  "Import": 9907
+ },
+ {
+  "Product": "Maize",
+  "Unit": "Net weight in KG",
+  "Export": 663374,
+  "Import": 88536,
+  "Year": 2022
+ },
+ {
+  "Product": "Groats and meal of other cereals, nes",
+  "Unit": "Net weight in KG",
+  "Export": 26427,
+  "Import": 23166
+ },
+ {
+  "Product": "Pellets",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 25785
+ },
+ {
+  "Product": "Cereal grains, rolled or flaked of oats",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 4178200
+ },
+ {
+  "Product": "Cereal grains, rolled or flaked of other cereal, nes",
+  "Unit": "Net weight in KG",
+  "Export": 511868,
+  "Import": 8157
+ },
+ {
+  "Product": "Cereal grains, worked but not rolled or flaked, of oats",
+  "Unit": "Net weight in KG",
+  "Export": 7677,
+  "Import": 2769630
+ },
+ {
+  "Product": "Maize",
+  "Unit": "Net weight in KG",
+  "Export": 2087891,
+  "Import": 635479,
+  "Year": 2022
+ },
+ {
+  "Product": "Cereal grains, worked but not rolled or flaked, of other cereal, nes",
+  "Unit": "Net weight in KG",
+  "Export": 430,
+  "Import": 543599107
+ },
+ {
+  "Product": "Cereal germ, whole, rolled, flaked or ground",
+  "Unit": "Net weight in KG",
+  "Export": 49977,
+  "Import": 809
+ },
+ {
+  "Product": "Potato flour and meal",
+  "Unit": "Net weight in KG",
+  "Export": 23,
+  "Import": 11473
+ },
+ {
+  "Product": "Potato flakes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 26228
+ },
+ {
+  "Product": "Flour and meal of the dried leguminous vegetables of 0713",
+  "Unit": "Net weight in KG",
+  "Export": 4701,
+  "Import": 32697
+ },
+ {
+  "Product": "Cassava",
+  "Unit": "Net weight in KG",
+  "Export": 1933079,
+  "Import": 38425
+ },
+ {
+  "Product": "Cassava",
+  "Unit": "Net weight in KG",
+  "Export": 2314405,
+  "Import": 6651
+ },
+ {
+  "Product": "yam",
+  "Unit": "Net weight in KG",
+  "Export": 18603,
+  "Import": 2346,
+  "Year": 2022
+ },
+ {
+  "Product": "Cocoyam",
+  "Unit": "Net weight in KG",
+  "Export": 30405,
+  "Import": 4399
+ },
+ {
+  "Product": "Cocoyam",
+  "Unit": "Net weight in KG",
+  "Export": 56486,
+  "Import": 3183
+ },
+ {
+  "Product": "Plantain",
+  "Unit": "Net weight in KG",
+  "Export": 103840,
+  "Import": 182983
+ },
+ {
+  "Product": "Plantain",
+  "Unit": "Net weight in KG",
+  "Export": 7529,
+  "Import": 38952
+ },
+ {
+  "Product": "Malt not roasted",
+  "Unit": "Net weight in KG",
+  "Export": 71816,
+  "Import": 19911222
+ },
+ {
+  "Product": "Roasted malt",
+  "Unit": "Net weight in KG",
+  "Export": 48457,
+  "Import": 2336386
+ },
+ {
+  "Product": "Wheat starch, Pharmaceutical grade",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 15025
+ },
+ {
+  "Product": "Wheat starch Other",
+  "Unit": "Net weight in KG",
+  "Export": 1539,
+  "Import": 12938
+ },
+ {
+  "Product": "Maize",
+  "Unit": "Net weight in KG",
+  "Export": 3626,
+  "Import": 555442,
+  "Year": 2022
+ },
+ {
+  "Product": "Maize",
+  "Unit": "Net weight in KG",
+  "Export": 93257,
+  "Import": 5342552,
+  "Year": 2022
+ },
+ {
+  "Product": "Potato starch - Pharmaceutical grade",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Potato starch - Other",
+  "Unit": "Net weight in KG",
+  "Export": 1000,
+  "Import": 250883
+ },
+ {
+  "Product": "cassava",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "cassava",
+  "Unit": "Net weight in KG",
+  "Export": 76438,
+  "Import": 1083052
+ },
+ {
+  "Product": "Other starches - Pharmaceutical grade",
+  "Unit": "Net weight in KG",
+  "Export": 1,
+  "Import": 59804
+ },
+ {
+  "Product": "Other starches - Other",
+  "Unit": "Net weight in KG",
+  "Export": 5,
+  "Import": 2185
+ },
+ {
+  "Product": "Wheat gluten",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 24708
+ },
+ {
+  "Product": "beans",
+  "Unit": "Net weight in KG",
+  "Export": 12913679,
+  "Import": 3438
+ },
+ {
+  "Product": "beans",
+  "Unit": "Net weight in KG",
+  "Export": 10133994,
+  "Import": 429398
+ },
+ {
+  "Product": "Ground-nuts, not roasted or otherwise cooked, whether or not shelled or broken Seed",
+  "Unit": "Net weight in KG",
+  "Export": 27,
+  "Import": 58425
+ },
+ {
+  "Product": "Ground-nuts, not roasted or otherwise cooked- Other- In shell Used for manufacturing oil",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 10800
+ },
+ {
+  "Product": "Ground-nuts, not roasted or otherwise cooked- Other- In shell Other",
+  "Unit": "Net weight in KG",
+  "Export": 210155,
+  "Import": 26890
+ },
+ {
+  "Product": "Ground-nuts, not roasted or otherwise cooked- Other- shelled whether or not broken- Used for manufacturing oil",
+  "Unit": "Net weight in KG",
+  "Export": 100,
+  "Import": 3175
+ },
+ {
+  "Product": "Ground-nuts, not roasted or otherwise cooked Other- whether or not shelled or broken- Other- Other",
+  "Unit": "Net weight in KG",
+  "Export": 24151,
+  "Import": 12806
+ },
+ {
+  "Product": "Linseed",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 4179
+ },
+ {
+  "Product": "Rape or colza seeds low erucic acid",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Sunflower seeds",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 32509
+ },
+ {
+  "Product": "Palm nuts and kernels",
+  "Unit": "Net weight in KG",
+  "Export": 602110,
+  "Import": 4776187
+ },
+ {
+  "Product": "Cotton seeds",
+  "Unit": "Net weight in KG",
+  "Export": 101662,
+  "Import": 0
+ },
+ {
+  "Product": "Cotton seeds, Other",
+  "Unit": "Net weight in KG",
+  "Export": 104035,
+  "Import": 1258
+ },
+ {
+  "Product": "Castor oil seeds",
+  "Unit": "Net weight in KG",
+  "Export": 2,
+  "Import": 1
+ },
+ {
+  "Product": "Sesamum seeds",
+  "Unit": "Net weight in KG",
+  "Export": 5399249,
+  "Import": 49172
+ },
+ {
+  "Product": "Mustard seeds",
+  "Unit": "Net weight in KG",
+  "Export": 20,
+  "Import": 1713
+ },
+ {
+  "Product": "Safflower seeds",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 52
+ },
+ {
+  "Product": "Melon seeds",
+  "Unit": "Net weight in KG",
+  "Export": 43704,
+  "Import": 23755
+ },
+ {
+  "Product": "Poppy seeds",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 149
+ },
+ {
+  "Product": "Shea nuts karate nuts",
+  "Unit": "Net weight in KG",
+  "Export": 74774227,
+  "Import": 156954785
+ },
+ {
+  "Product": "Other seeds not Shea nuts karate nuts",
+  "Unit": "Net weight in KG",
+  "Export": 5894524,
+  "Import": 55581
+ },
+ {
+  "Product": "Soya bean flour and meal",
+  "Unit": "Net weight in KG",
+  "Export": 971058,
+  "Import": 197454
+ },
+ {
+  "Product": "Flours and meal of oil seeds or oleaginous fruit - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 26597,
+  "Import": 120936
+ },
+ {
+  "Product": "Sugar beet seed",
+  "Unit": "Net weight in KG",
+  "Export": 50000,
+  "Import": 0
+ },
+ {
+  "Product": "Lucerne alfalfa seed, of a kind used for sowing",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 38
+ },
+ {
+  "Product": "Clover seed, of a kind used for sowing",
+  "Unit": "Net weight in KG",
+  "Export": 102,
+  "Import": 409
+ },
+ {
+  "Product": "Fescue seed, of a kind used for sowing",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Rye grass seed, of a kind used for sowing",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 12
+ },
+ {
+  "Product": "Seeds of forage plants, of a kind used for sowing - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 1852857,
+  "Import": 1062
+ },
+ {
+  "Product": "Seeds of herbaceous plants, of a kind used for sowing",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1662
+ },
+ {
+  "Product": "Vegetable seed, of a kind used for sowing",
+  "Unit": "Net weight in KG",
+  "Export": 1452,
+  "Import": 63565
+ },
+ {
+  "Product": "Seeds, fruit and spores, of a kind used for sowing - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 26750,
+  "Import": 49501
+ },
+ {
+  "Product": "Hop cones excl. ground, powdered or pellets, fresh or dried",
+  "Unit": "Net weight in KG",
+  "Export": 20,
+  "Import": 90
+ },
+ {
+  "Product": "Hop cones, ground, powdered or in pellets lupulin",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 30853
+ },
+ {
+  "Product": "Ginseng roots, of a kind used in perfumery, pharmacy...etc",
+  "Unit": "Net weight in KG",
+  "Export": 20,
+  "Import": 1032
+ },
+ {
+  "Product": "Coca leaf",
+  "Unit": "Net weight in KG",
+  "Export": 1712,
+  "Import": 42
+ },
+ {
+  "Product": "Poppy straw",
+  "Unit": "Net weight in KG",
+  "Export": 548,
+  "Import": 14
+ },
+ {
+  "Product": "Plants and parts of plants including seeds and fruits, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered.- Ephedra",
+  "Unit": "Net weight in KG",
+  "Export": 20806,
+  "Import": 1070
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Pyrethrum",
+  "Unit": "Net weight in KG",
+  "Export": 40,
+  "Import": 18330
+ },
+ {
+  "Product": "Bark and wood used pharmacy and medicine",
+  "Unit": "Net weight in KG",
+  "Export": 73099,
+  "Import": 5684
+ },
+ {
+  "Product": "Plants or parts, of a kind used in perfumery, pharmacy, etc - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 163693,
+  "Import": 174900
+ },
+ {
+  "Product": "Seaweeds and other algae - Fit for human consumption",
+  "Unit": "Net weight in KG",
+  "Export": 70,
+  "Import": 3120
+ },
+ {
+  "Product": "Seaweeds and other algae - Other",
+  "Unit": "Net weight in KG",
+  "Export": 55,
+  "Import": 777
+ },
+ {
+  "Product": "Sugar beet, fresh, dried, chilled or frozen",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Sugar cane, fresh, dried, chilled or frozen",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 100
+ },
+ {
+  "Product": "Sugar cane",
+  "Unit": "Net weight in KG",
+  "Export": 145,
+  "Import": 7250
+ },
+ {
+  "Product": "Vegetable products used primarily for human consumption,freshdried, nes",
+  "Unit": "Net weight in KG",
+  "Export": 2487,
+  "Import": 1170
+ },
+ {
+  "Product": "Corn husks",
+  "Unit": "Net weight in KG",
+  "Export": 64526,
+  "Import": 0
+ },
+ {
+  "Product": "Cereal straw and husks, unprepared, whether or not chopped, ground, pressed or in the form of pellets.- Other",
+  "Unit": "Net weight in KG",
+  "Export": 1500,
+  "Import": 589
+ },
+ {
+  "Product": "Lucerne alfalfa meal and pellets",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2
+ },
+ {
+  "Product": "Forage products - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Natural gum arabic",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1236
+ },
+ {
+  "Product": "Natural gums, resins, gum-resins and balsams excl. gum arabic",
+  "Unit": "Net weight in KG",
+  "Export": 565,
+  "Import": 54598
+ },
+ {
+  "Product": "Opium",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "rice",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 3311,
+  "Year": 2022
+ },
+ {
+  "Product": "Hop extract",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 22027
+ },
+ {
+  "Product": "Sap and extract of pryrethrum and roots of plants containing rotenone",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Vegetable saps and extracts - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 291921,
+  "Import": 123535
+ },
+ {
+  "Product": "Pectic substances, pectinates and pectates",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 504
+ },
+ {
+  "Product": "Agar-agar",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1916
+ },
+ {
+  "Product": "Mucilages and thickeners of locust beans, bean seeds and guar seeds",
+  "Unit": "Net weight in KG",
+  "Export": 32021,
+  "Import": 40700
+ },
+ {
+  "Product": "Mucilages and thickeners, derived from vegetable products, nes",
+  "Unit": "Net weight in KG",
+  "Export": 10000,
+  "Import": 14606
+ },
+ {
+  "Product": "Bamboos",
+  "Unit": "Net weight in KG",
+  "Export": 21517,
+  "Import": 5495
+ },
+ {
+  "Product": "Rattans",
+  "Unit": "Net weight in KG",
+  "Export": 650,
+  "Import": 0
+ },
+ {
+  "Product": "Vegetable materials for plaiting, excl. bamboos and rattans",
+  "Unit": "Net weight in KG",
+  "Export": 1108,
+  "Import": 400
+ },
+ {
+  "Product": "Cotton linters",
+  "Unit": "Net weight in KG",
+  "Export": 169125,
+  "Import": 4784
+ },
+ {
+  "Product": "Hard seeds, pips, hulls and nuts of a kind used for carving",
+  "Unit": "Net weight in KG",
+  "Export": 125853,
+  "Import": 648000
+ },
+ {
+  "Product": "Vegetable products - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 21502,
+  "Import": 6334038
+ },
+ {
+  "Product": "Lard",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Other pig fat",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Pig fat including lard and poultry fat, other than that of heading 02.09 or 15.03- Other",
+  "Unit": "Net weight in KG",
+  "Export": 100,
+  "Import": 4
+ },
+ {
+  "Product": "Tallow",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 118
+ },
+ {
+  "Product": "Lard stearin, lardoil, oleostearin, oleo-oil and tallow oil",
+  "Unit": "Net weight in KG",
+  "Export": 2906340,
+  "Import": 0
+ },
+ {
+  "Product": "Fish-liver oils and their fractions",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 300
+ },
+ {
+  "Product": "Fish fats, oils and fractions excl. fish liver oils",
+  "Unit": "Net weight in KG",
+  "Export": 112300,
+  "Import": 264487
+ },
+ {
+  "Product": "Marine mammal fats, oils and their liquid fractions",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Wool Grease and Fatty Substances Derived therefrom Incl Lanolin",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 139377
+ },
+ {
+  "Product": "Animal fats and oils and their fractions - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1293
+ },
+ {
+  "Product": "Crude soya-bean oil",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 916
+ },
+ {
+  "Product": "Soya-bean oil excl. crude and fractions",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 5470847
+ },
+ {
+  "Product": "Crude ground-nut oil",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 7
+ },
+ {
+  "Product": "Groundnut oilexcl crude  fractionsin packings 5litres for retail sale",
+  "Unit": "Net weight in KG",
+  "Export": 130,
+  "Import": 3428
+ },
+ {
+  "Product": "Groundnut oil excl. crude  fractions - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 1042,
+  "Import": 33035
+ },
+ {
+  "Product": "Olive oil and its fractions, whether or not refined, but not chemically modified- Virgin Put up for retail sale in packings with a net content of 5 litres or less",
+  "Unit": "Net weight in KG",
+  "Export": 15593,
+  "Import": 66168
+ },
+ {
+  "Product": "Olive oil and its fractions, whether or not refined, but not chemically modified- Virgin Other",
+  "Unit": "Net weight in KG",
+  "Export": 154,
+  "Import": 236869
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Olive oil  fractions, pkg 5 litres put up for retail sale",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 191719
+ },
+ {
+  "Product": "Olive oil and its fractions - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 132372,
+  "Import": 907840
+ },
+ {
+  "Product": "Other oils and their fractions, obtained solely from olives- Put up for retail sale in packings with a net content of 5 litres or less",
+  "Unit": "Net weight in KG",
+  "Export": 95339,
+  "Import": 287
+ },
+ {
+  "Product": "Other oils and their fractions, obtained solely from olives- Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 8642
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Palm oil",
+  "Unit": "Net weight in KG",
+  "Export": 37139229,
+  "Import": 22975960,
+  "Year": 2022
+ },
+ {
+  "Product": "Palm oil",
+  "Unit": "Net weight in KG",
+  "Export": 227338,
+  "Import": 2914436,
+  "Year": 2022
+ },
+ {
+  "Product": "Palm oil",
+  "Unit": "Net weight in KG",
+  "Export": 8741522,
+  "Import": 3973470,
+  "Year": 2022
+ },
+ {
+  "Product": "Palm oil",
+  "Unit": "Net weight in KG",
+  "Export": 44628838,
+  "Import": 128318345,
+  "Year": 2022
+ },
+ {
+  "Product": "Crude sunflower-seed and safflower oil",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 233276
+ },
+ {
+  "Product": "Sunflower-seed and safflower oil excl. crude and fractions",
+  "Unit": "Net weight in KG",
+  "Export": 13,
+  "Import": 14686262
+ },
+ {
+  "Product": "Crude cotton-seed oil and fractions",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 638
+ },
+ {
+  "Product": "Cotton-seed oil excl. crude and fractions",
+  "Unit": "Net weight in KG",
+  "Export": 5,
+  "Import": 15995
+ },
+ {
+  "Product": "coconut",
+  "Unit": "Net weight in KG",
+  "Export": 160967,
+  "Import": 55778
+ },
+ {
+  "Product": "Coconut",
+  "Unit": "Net weight in KG",
+  "Export": 42424,
+  "Import": 35425
+ },
+ {
+  "Product": "Palm kernel or babassu oil and fractions thereof - Crude oil",
+  "Unit": "Net weight in KG",
+  "Export": 4262860,
+  "Import": 62800
+ },
+ {
+  "Product": "Palm kernel or babassu oil excl. crude and fractions",
+  "Unit": "Net weight in KG",
+  "Export": 115696,
+  "Import": 1155909
+ },
+ {
+  "Product": "Low erucic acid rape or colza oil, crude",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 195
+ },
+ {
+  "Product": "Low erucic acid rape or colza oil, other",
+  "Unit": "Net weight in KG",
+  "Export": 6250,
+  "Import": 85958
+ },
+ {
+  "Product": "Other vegetable oil of hdg 1514, crude, nes",
+  "Unit": "Net weight in KG",
+  "Export": 90736,
+  "Import": 2851
+ },
+ {
+  "Product": "Other vegetable oil of hdg 1514, nes",
+  "Unit": "Net weight in KG",
+  "Export": 25353,
+  "Import": 100024
+ },
+ {
+  "Product": "Linseed oil and fractions, crude",
+  "Unit": "Net weight in KG",
+  "Export": 1860,
+  "Import": 372
+ },
+ {
+  "Product": "Linseed oil and fractions, refined",
+  "Unit": "Net weight in KG",
+  "Export": 30,
+  "Import": 506278
+ },
+ {
+  "Product": "Maize",
+  "Unit": "Net weight in KG",
+  "Export": 2,
+  "Import": 109,
+  "Year": 2022
+ },
+ {
+  "Product": "Maize",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 15686,
+  "Year": 2022
+ },
+ {
+  "Product": "Castor oil and its fractions",
+  "Unit": "Net weight in KG",
+  "Export": 1188,
+  "Import": 80861
+ },
+ {
+  "Product": "Sesame oil and fractions",
+  "Unit": "Net weight in KG",
+  "Export": 1486280,
+  "Import": 226059
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "1515901100 - Shea karite oil and fractions, crude",
+  "Unit": "Net weight in KG",
+  "Export": 40207408,
+  "Import": 6000523
+ },
+ {
+  "Product": "1515901900 - Shea karite oil and fractions, refined",
+  "Unit": "Net weight in KG",
+  "Export": 2254463,
+  "Import": 4647628
+ },
+ {
+  "Product": "Fixed vegetable fats  fractions - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 5494060,
+  "Import": 97651
+ },
+ {
+  "Product": "Animal fats and oils and fractions, hydrogenated, etc",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 3220
+ },
+ {
+  "Product": "Vegetable fats and oils and their fractions - Hydrogenated vegetable fats",
+  "Unit": "Net weight in KG",
+  "Export": 2942,
+  "Import": 368607
+ },
+ {
+  "Product": "Vegetable fats and oils and their fractions - Other",
+  "Unit": "Net weight in KG",
+  "Export": 281844,
+  "Import": 1624130
+ },
+ {
+  "Product": "NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Margarine excl. liquid",
+  "Unit": "Net weight in KG",
+  "Export": 6533965,
+  "Import": 32496310
+ },
+ {
+  "Product": "Food preparations of vegetable fats - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 41928,
+  "Import": 1224442
+ },
+ {
+  "Product": "Edible preparations of fats and oils - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 164,
+  "Import": 3375805
+ },
+ {
+  "Product": "Animal or vegetable fats and oils... chemically modified, nes",
+  "Unit": "Net weight in KG",
+  "Export": 249275,
+  "Import": 21700
+ },
+ {
+  "Product": "Glycerol, crude glycerol waters and glycerol lyes.",
+  "Unit": "Net weight in KG",
+  "Export": 402,
+  "Import": 208
+ },
+ {
+  "Product": "Vegetable waxes excl. triglycerides",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 46
+ },
+ {
+  "Product": "Beeswax and other insect waxes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1340
+ },
+ {
+  "Product": "Beeswax, other insect waxes and spermaceti",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 3529
+ },
+ {
+  "Product": "Degras residues of fatty substances or animal or vegetable waxes",
+  "Unit": "Net weight in KG",
+  "Export": 70460,
+  "Import": 0
+ },
+ {
+  "Product": "Sausages and similar products of meat, of liver",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2078319
+ },
+ {
+  "Product": "Sausages and similar products of meat - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 6,
+  "Import": 7403214
+ },
+ {
+  "Product": "Homogenized preparations of meat, meat offalor blood",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 15339
+ },
+ {
+  "Product": "Preparations of animal liver",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1348
+ },
+ {
+  "Product": "turkey",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 15435
+ },
+ {
+  "Product": "chicken",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 273043
+ },
+ {
+  "Product": "Preparations of other poultry, nes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 58438
+ },
+ {
+  "Product": "Preparations of swine, hams and cuts",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 50159
+ },
+ {
+  "Product": "Preparations of swine, shoulders and cuts",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1835
+ },
+ {
+  "Product": "Preparations of swine meat, including mixtures, nes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 14824
+ },
+ {
+  "Product": "Canned beef Corned Beef",
+  "Unit": "Net weight in KG",
+  "Export": 214,
+  "Import": 4656088
+ },
+ {
+  "Product": "Other prepared or preserved meat, meat offal or blood Of bovine animals - Other",
+  "Unit": "Net weight in KG",
+  "Export": 67,
+  "Import": 74754
+ },
+ {
+  "Product": "Preparations of meat incl.preparations of blood of any animal, nes",
+  "Unit": "Net weight in KG",
+  "Export": 7,
+  "Import": 59670
+ },
+ {
+  "Product": "Extracts and juices of meat, fish and aquatic invertebrates",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1014
+ },
+ {
+  "Product": "Salmon, prepared or preserved, not minced",
+  "Unit": "Net weight in KG",
+  "Export": 49116,
+  "Import": 1579
+ },
+ {
+  "Product": "Herrings, prepared or preserved, not minced",
+  "Unit": "Net weight in KG",
+  "Export": 64,
+  "Import": 2445
+ },
+ {
+  "Product": "Sardines in 14 club cans of height of 30 mm or less",
+  "Unit": "Net weight in KG",
+  "Export": 25649,
+  "Import": 11290698
+ },
+ {
+  "Product": "Sardines, sardinella and brisling or sprats - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 5988,
+  "Import": 1656968
+ },
+ {
+  "Product": "Tuna, skipjack and atlantic bonito, prepared or preserved, not minced",
+  "Unit": "Net weight in KG",
+  "Export": 26566640,
+  "Import": 815272
+ },
+ {
+  "Product": "Mackerel, prepared or preserved, not minced",
+  "Unit": "Net weight in KG",
+  "Export": 10570,
+  "Import": 17591673
+ },
+ {
+  "Product": "Anchovies, prepared or preserved, not minced",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 661
+ },
+ {
+  "Product": "Eels",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 26
+ },
+ {
+  "Product": "Prepared or preserved fish caviar and caviar substitutes prepared from fish eggs.- Fish, whole or in pieces, but not minced --  Shark fins",
+  "Unit": "Net weight in KG",
+  "Export": 4,
+  "Import": 60
+ },
+ {
+  "Product": "Fish, prepared or preserved, not minced - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 30,
+  "Import": 36187
+ },
+ {
+  "Product": "Fish, prepared or preserved - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 21487,
+  "Import": 18787
+ },
+ {
+  "Product": "Caviar",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 973
+ },
+ {
+  "Product": "Caviar substitutes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 114
+ },
+ {
+  "Product": "Crab, prepared or preserved",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 586
+ },
+ {
+  "Product": "Shrimps and prawns - Not in airtight container",
+  "Unit": "Net weight in KG",
+  "Export": 99,
+  "Import": 779
+ },
+ {
+  "Product": "Shrimps and prawns - Other",
+  "Unit": "Net weight in KG",
+  "Export": 4673,
+  "Import": 19224
+ },
+ {
+  "Product": "Lobster, prepared or preserved",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 14
+ },
+ {
+  "Product": "Crustaceans, prepared or preserved - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 8
+ },
+ {
+  "Product": "Oysters",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2550
+ },
+ {
+  "Product": "Scallops, including queen scallops",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 552
+ },
+ {
+  "Product": "Mussels",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 612
+ },
+ {
+  "Product": "Cuttle fish and squid",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 9174
+ },
+ {
+  "Product": "Octopus",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 16
+ },
+ {
+  "Product": "Clams, cockles and arkshells",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 23
+ },
+ {
+  "Product": "Abalone",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Snails",
+  "Unit": "Net weight in KG",
+  "Export": 1861,
+  "Import": 61
+ },
+ {
+  "Product": "Molluscs - Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 6
+ },
+ {
+  "Product": "Sea cucumbers",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Jellyfish",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 291
+ },
+ {
+  "Product": "Other aquatic invertebrates - Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2
+ },
+ {
+  "Product": "Beet sugar, raw, no added flavouring or colouring, solid",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 823
+ },
+ {
+  "Product": "Cane sugar specified in Subheading Note 2 to this Chapter",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1646
+ },
+ {
+  "Product": "Other cane sugar - Meant for sugar refinery",
+  "Unit": "Net weight in KG",
+  "Export": 1429,
+  "Import": 3748
+ },
+ {
+  "Product": "Other cane sugar -  Other",
+  "Unit": "Net weight in KG",
+  "Export": 71,
+  "Import": 182942
+ },
+ {
+  "Product": "Sugar, cont. added flavouring or colouring in powder, a other",
+  "Unit": "Net weight in KG",
+  "Export": 17,
+  "Import": 2206257
+ },
+ {
+  "Product": "Sugar, added flavouring or colouring in powder, crystal or granule form",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 51032
+ },
+ {
+  "Product": "Sugar, in powder, crystal or granule form - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 10461694,
+  "Import": 315764096
+ },
+ {
+  "Product": "Sugar - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 256,
+  "Import": 5921161
+ },
+ {
+  "Product": "Lactose and syrup containing 99 or more by weight of lactose",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 155326
+ },
+ {
+  "Product": "Lactose and syrup containing less than 99 by weight of lactose",
+  "Unit": "Net weight in KG",
+  "Export": 4784,
+  "Import": 313343
+ },
+ {
+  "Product": "Maple sugar and maple syrup",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2263451
+ },
+ {
+  "Product": "Glucose and glucose syrup, containing 20 fructose",
+  "Unit": "Net weight in KG",
+  "Export": 55210,
+  "Import": 7064046
+ },
+ {
+  "Product": "Glucose and glucose syrup, containing 20 but 50 fructose",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1381434
+ },
+ {
+  "Product": "Chemically pure fructose",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 4
+ },
+ {
+  "Product": "Other fructose and fructose syrup, containing 50 fructose",
+  "Unit": "Net weight in KG",
+  "Export": 1,
+  "Import": 12628409
+ },
+ {
+  "Product": "Artificial honey, caramel and other sugars incl. invert sugar, nes",
+  "Unit": "Net weight in KG",
+  "Export": 72000,
+  "Import": 4026759
+ },
+ {
+  "Product": "Cane molasses resulting from the extraction or refining of sugar",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 40618
+ },
+ {
+  "Product": "Molasses resulting from the extraction or refining of sugar excl. cane",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 3223
+ },
+ {
+  "Product": "Chewing gum",
+  "Unit": "Net weight in KG",
+  "Export": 12365,
+  "Import": 3521928
+ },
+ {
+  "Product": "cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 152586,
+  "Import": 14210124,
+  "Year": 2022
+ },
+ {
+  "Product": "Cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 455975549,
+  "Import": 12
+,
+  "Year": 2022 },
+ {
+  "Product": "Cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 84,
+  "Import": 0
+,
+  "Year": 2022 },
+ {
+  "Product": "Cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 162000,
+  "Import": 0
+,
+  "Year": 2022 },
+ {
+  "Product": "Cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 114031,
+  "Import": 0
+,
+  "Year": 2022 },
+ {
+  "Product": "Broken",
+  "Unit": "Net weight in KG",
+  "Export": 52000,
+  "Import": 0
+ },
+ {
+  "Product": "Cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 19602384,
+  "Import": 124750
+,
+  "Year": 2022 },
+ {
+  "Product": "Cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 130603673,
+  "Import": 20089
+,
+  "Year": 2022 },
+ {
+  "Product": "Cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 30011503,
+  "Import": 300
+,
+  "Year": 2022 },
+ {
+  "Product": "cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 606880,
+  "Import": 0
+,
+  "Year": 2022 },
+ {
+  "Product": "cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 51474666,
+  "Import": 476
+,
+  "Year": 2022 },
+ {
+  "Product": "cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 8120256,
+  "Import": 37
+,
+  "Year": 2022 },
+ {
+  "Product": "Cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 11023219,
+  "Import": 5270
+,
+  "Year": 2022 },
+ {
+  "Product": "Cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 28613451,
+  "Import": 42068
+,
+  "Year": 2022 },
+ {
+  "Product": "Cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 7142633,
+  "Import": 46471
+,
+  "Year": 2022 },
+ {
+  "Product": "cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 79323,
+  "Import": 288449
+,
+  "Year": 2022 },
+ {
+  "Product": "cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 44817,
+  "Import": 213588
+,
+  "Year": 2022 },
+ {
+  "Product": "cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 15642,
+  "Import": 242621
+,
+  "Year": 2022 },
+ {
+  "Product": "cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 12790,
+  "Import": 160901
+,
+  "Year": 2022 },
+ {
+  "Product": "cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 459889,
+  "Import": 806292
+,
+  "Year": 2022 },
+ {
+  "Product": "cocoa ",
+  "Unit": "Net weight in KG",
+  "Export": 431472,
+  "Import": 378349
+,
+  "Year": 2022 },
+ {
+  "Product": "Preparations for infant use, for retail sale, of flour, etc",
+  "Unit": "Net weight in KG",
+  "Export": 5528654,
+  "Import": 2613620
+ },
+ {
+  "Product": "Mixes and doughs for preparation of bakers wares of 19.05",
+  "Unit": "Net weight in KG",
+  "Export": 52857,
+  "Import": 186988
+ },
+ {
+  "Product": "Prep. of milk containing veg. fats and oils, powdered or granular, 25kg",
+  "Unit": "Net weight in KG",
+  "Export": 943794,
+  "Import": 9073412
+ },
+ {
+  "Product": "Prep of milk cont. veg fats and oils, powderedgranular, 12.5kg  25kg",
+  "Unit": "Net weight in KG",
+  "Export": 520,
+  "Import": 163470
+ },
+ {
+  "Product": "Malt extract",
+  "Unit": "Net weight in KG",
+  "Export": 19448,
+  "Import": 10100892
+ },
+ {
+  "Product": "Malted beverage powder in bulk of not less than 25 kg",
+  "Unit": "Net weight in KG",
+  "Export": 6222,
+  "Import": 23080
+ },
+ {
+  "Product": "cassava",
+  "Unit": "Net weight in KG",
+  "Export": 6245121,
+  "Import": 29354
+ },
+ {
+  "Product": "1901909900 - Mail extract- Other other",
+  "Unit": "Net weight in KG",
+  "Export": 965193,
+  "Import": 648069
+ },
+ {
+  "Product": "Pasta, uncooked, containing eggs not stuffed",
+  "Unit": "Net weight in KG",
+  "Export": 266,
+  "Import": 1063864
+ },
+ {
+  "Product": "Pasta, uncooked, not containing eggs, not stuffed",
+  "Unit": "Net weight in KG",
+  "Export": 1630450,
+  "Import": 24220399
+ },
+ {
+  "Product": "Pasta, stuffed",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 823530
+ },
+ {
+  "Product": "Pasta - other, nes",
+  "Unit": "Net weight in KG",
+  "Export": 39049,
+  "Import": 46192509
+ },
+ {
+  "Product": "Couscous",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 27313
+ },
+ {
+  "Product": "Tapioca and substitutes prepared from starch in flakes, grains, etc",
+  "Unit": "Net weight in KG",
+  "Export": 595782,
+  "Import": 214090
+ },
+ {
+  "Product": "Prepared foods obtained by the swelling or roasting of cereals",
+  "Unit": "Net weight in KG",
+  "Export": 26291,
+  "Import": 1811724
+ },
+ {
+  "Product": "Oats meal in bulk of not less than 25 kg",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 124744
+ },
+ {
+  "Product": "Other Oats meal in bulk of less than 25 kg",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1099798
+ },
+ {
+  "Product": "Bulgur wheat",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 12164
+ },
+ {
+  "Product": "Maize",
+  "Unit": "Net weight in KG",
+  "Export": 58545,
+  "Import": 318840,
+  "Year": 2022
+ },
+ {
+  "Product": "Crispbread",
+  "Unit": "Net weight in KG",
+  "Export": 1507,
+  "Import": 23973
+ },
+ {
+  "Product": "Ginger",
+  "Unit": "Net weight in KG",
+  "Export": 2138,
+  "Import": 5144
+ },
+ {
+  "Product": "Sweet biscuits",
+  "Unit": "Net weight in KG",
+  "Export": 12824529,
+  "Import": 5794096
+ },
+ {
+  "Product": "Waffles and wafers",
+  "Unit": "Net weight in KG",
+  "Export": 1119060,
+  "Import": 375056
+ },
+ {
+  "Product": "Rusks, toasted bread and similar toasted products",
+  "Unit": "Net weight in KG",
+  "Export": 70,
+  "Import": 52133
+ },
+ {
+  "Product": "rice",
+  "Unit": "Net weight in KG",
+  "Export": 665027,
+  "Import": 1169036,
+  "Year": 2022
+ },
+ {
+  "Product": "Cucumbers and gherkins, preserved by vinegar or acetic acid",
+  "Unit": "Net weight in KG",
+  "Export": 3150,
+  "Import": 30120
+ },
+ {
+  "Product": "Other vegetables, fruits, etc, preserved by vinegar or acetic acid, nes",
+  "Unit": "Net weight in KG",
+  "Export": 365196,
+  "Import": 72381
+ },
+ {
+  "Product": "Tomatoes",
+  "Unit": "Net weight in KG",
+  "Export": 5113,
+  "Import": 172315,
+  "Year": 2022
+ },
+ {
+  "Product": "Tomatoes",
+  "Unit": "Net weight in KG",
+  "Export": 3384,
+  "Import": 22833657,
+  "Year": 2022
+ },
+ {
+  "Product": "Tomatoes",
+  "Unit": "Net weight in KG",
+  "Export": 93881,
+  "Import": 8835277,
+  "Year": 2022
+ },
+ {
+  "Product": "Tomatoes",
+  "Unit": "Net weight in KG",
+  "Export": 12411528,
+  "Import": 4309073,
+  "Year": 2022
+ },
+ {
+  "Product": "Tomatoes",
+  "Unit": "Net weight in KG",
+  "Export": 3033,
+  "Import": 53325,
+  "Year": 2022
+ },
+ {
+  "Product": "Mushrooms, preserved otherwise than by vinegar or acetic acid",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 137566,
+  "Year": 2022
+ },
+ {
+  "Product": "Other mushrooms prepared otherwise than by vinegar or acetic acid",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 30465,
+  "Year": 2022
+ },
+ {
+  "Product": "Potatoes, preserved other than by vinegar or acetic acid, frozen",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2934162,
+  "Year": 2022
+ },
+ {
+  "Product": "Other vegetables preserved other than by vinegar, etc, frozen, nes",
+  "Unit": "Net weight in KG",
+  "Export": 10422,
+  "Import": 17936
+ },
+ {
+  "Product": "Homogenized vegetable, preserved other than by vinegar, etc, not frozen",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 31792
+ },
+ {
+  "Product": "Potatoes, preserved other than by vinegar or acetic acid, not frozen",
+  "Unit": "Net weight in KG",
+  "Export": 7,
+  "Import": 146983
+ },
+ {
+  "Product": "Peas, preserved other than by vinegar or acetic acid, not frozen",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 85101
+ },
+ {
+  "Product": "beans",
+  "Unit": "Net weight in KG",
+  "Export": 2306,
+  "Import": 340929
+ },
+ {
+  "Product": "Beans",
+  "Unit": "Net weight in KG",
+  "Export": 1642,
+  "Import": 1115628
+ },
+ {
+  "Product": "Asparagus, preserved other than by vinegar or acetic acid, not frozen",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 413
+ },
+ {
+  "Product": "Olives, preserved other than by vinegar or acetic acid, not frozen",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 48882
+ },
+ {
+  "Product": "Sweetcorn, preserved other than by vinegar or acetic acid, not frozen",
+  "Unit": "Net weight in KG",
+  "Export": 1335,
+  "Import": 71617
+ },
+ {
+  "Product": "other veghetables and mixtures of vegetables,Bamboo shoots",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 5536
+ },
+ {
+  "Product": "other veghetables and mixtures of vegetables,not of Bamboo shoots",
+  "Unit": "Net weight in KG",
+  "Export": 311,
+  "Import": 75137
+ },
+ {
+  "Product": "Fruit, nuts, fruit-peel and other parts of plants, preserved by sugar",
+  "Unit": "Net weight in KG",
+  "Export": 43327,
+  "Import": 9362
+ },
+ {
+  "Product": "Jams, fruit jellies, marmalades, etc, homogenized",
+  "Unit": "Net weight in KG",
+  "Export": 118999,
+  "Import": 22713
+ },
+ {
+  "Product": "Jams, fruit jellies, marmalades, etc, of citrus fruit",
+  "Unit": "Net weight in KG",
+  "Export": 977,
+  "Import": 42338
+ },
+ {
+  "Product": "Other jams, fruit jellies, marmalades, etc, being cooked preparations",
+  "Unit": "Net weight in KG",
+  "Export": 24069,
+  "Import": 174492
+ },
+ {
+  "Product": "Peanut butter",
+  "Unit": "Net weight in KG",
+  "Export": 65621,
+  "Import": 143441
+ },
+ {
+  "Product": "Other prepared groundnuts, nes",
+  "Unit": "Net weight in KG",
+  "Export": 109759,
+  "Import": 147189
+ },
+ {
+  "Product": "Nuts and seeds including mixtures, preserved",
+  "Unit": "Net weight in KG",
+  "Export": 4276,
+  "Import": 55322
+ },
+ {
+  "Product": "Pineapples, prepared or preserved excl. those of 20.06 and 20.07",
+  "Unit": "Net weight in KG",
+  "Export": 37392,
+  "Import": 2897
+ },
+ {
+  "Product": "Citrus fruit, prepared or preserved excl. those of 20.06 and 20.07",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 582
+ },
+ {
+  "Product": "Pears, prepared or preserved excl. those of 20.06 and 20.07",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 4717
+ },
+ {
+  "Product": "Apricots, prepared or preserved excl. those of 20.06and 20.07",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 768
+ },
+ {
+  "Product": "Cherries, prepared or preserved excl. those of 20.06 and 20.07",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2693
+ },
+ {
+  "Product": "Peaches, prepared or preserved excl. those of 20.06 and 20.07",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 11010
+ },
+ {
+  "Product": "Strawberries, prepared or preserved excl. those of 20.06 and 20.07",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1278
+ },
+ {
+  "Product": "Palm hearts, prepared or preserved excl. those of 20.06 and 20.07",
+  "Unit": "Net weight in KG",
+  "Export": 13356,
+  "Import": 297
+ },
+ {
+  "Product": "Cranberries Vaccinium macrocarpon, Vaccinium oxycoccos, Vaccinium vitis-idaea",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 926
+ },
+ {
+  "Product": "Other, including mixtures other than those of subheading 2008.19 - Mixtures",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 10390
+ },
+ {
+  "Product": "Other fruit, etc, prepared or preserved, nes",
+  "Unit": "Net weight in KG",
+  "Export": 42091,
+  "Import": 202734
+ },
+ {
+  "Product": "Orange Juice - frozen Concentrate of weight not less than  25 kg for industrial use",
+  "Unit": "Net weight in KG",
+  "Export": 87880,
+  "Import": 292990
+ },
+ {
+  "Product": "Orange Juice - frozen Other",
+  "Unit": "Net weight in KG",
+  "Export": 114220,
+  "Import": 102782
+ },
+ {
+  "Product": "Orange Juice - Not frozen, of a Brix value not exceeding 20- Concentrate of weight not less than  25 kg for industrial use",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1225
+ },
+ {
+  "Product": "Orange Juice - Not frozen, of a Brix value not exceeding 20- Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 234762
+ },
+ {
+  "Product": "Orange Juice - Other-  Concentrate of weight not less than  25 kg for industrial use",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Orange Juice - Other Other",
+  "Unit": "Net weight in KG",
+  "Export": 1394493,
+  "Import": 574303
+ },
+ {
+  "Product": "Grapefruit including pomelo juice- Of a Brix value not exceeding 20 - Concentrate of weight not less than  25 kg for industrial use",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Grapefruit including pomelo juice- Of a Brix value not exceeding 20 - Other",
+  "Unit": "Net weight in KG",
+  "Export": 134,
+  "Import": 197337
+ },
+ {
+  "Product": "Grapefruit including pomelo juice- Other- Concentrate of weight not less than  25 kg for industrial use",
+  "Unit": "Net weight in KG",
+  "Export": 28288,
+  "Import": 120
+ },
+ {
+  "Product": "Grapefruit including pomelo juice- Other - Other",
+  "Unit": "Net weight in KG",
+  "Export": 161323,
+  "Import": 1143810
+ },
+ {
+  "Product": "Juice of any other single citrus fruit- Of a Brix value not exceeding 20 - Concentrate of weight not less than  25 kg for industrial use",
+  "Unit": "Net weight in KG",
+  "Export": 300,
+  "Import": 1300
+ },
+ {
+  "Product": "Juice of any other single citrus fruit- Of a Brix value not exceeding 20 - Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 21020
+ },
+ {
+  "Product": "Juice of any other single citrus fruit- Other- Concentrate of weight not less than  25 kg for industrial use",
+  "Unit": "Net weight in KG",
+  "Export": 347180,
+  "Import": 107
+ },
+ {
+  "Product": "Juice of any other single citrus fruit- Other- Other",
+  "Unit": "Net weight in KG",
+  "Export": 103743,
+  "Import": 182848
+ },
+ {
+  "Product": "Pineapple juice- Of a Brix value not exceeding 20- Concentrate of weight not less than  25 kg for industrial use",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2059
+ },
+ {
+  "Product": "Pineapple juice- Of a Brix value not exceeding 20- Other",
+  "Unit": "Net weight in KG",
+  "Export": 1024,
+  "Import": 387355
+ },
+ {
+  "Product": "Pineapple juice- Other - Concentrate of weight not less than  25 kg for industrial use",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 438050
+ },
+ {
+  "Product": "Pineapple juice- Other- Other",
+  "Unit": "Net weight in KG",
+  "Export": 1893341,
+  "Import": 482223
+ },
+
+ {
+  "Product": "Tomatoes",
+  "Unit": "Net weight in KG",
+  "Export": 154,
+  "Import": 44035,
+  "Year": 2022
+ },
+ {
+  "Product": "Grape juice including grape must- Of a Brix value not exceeding 30- Concentrate of weight not less than  25 kg for industrial use",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1282
+ },
+ {
+  "Product": "Grape juice including grape must- Of a Brix value not exceeding 30- Other",
+  "Unit": "Net weight in KG",
+  "Export": 4286,
+  "Import": 2983730
+ },
+ {
+  "Product": "Grape juice including grape must- Other- Concentrate of weight not less than  25 kg for industrial use",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1
+ },
+ {
+  "Product": "Grape juice including grape must- Other- Other",
+  "Unit": "Net weight in KG",
+  "Export": 600,
+  "Import": 1379479
+ },
+ {
+  "Product": "Apple juice - Of a Brix value not exceeding 20- Concentrate of weight not less than  25 kg for industrial use",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 250
+ },
+ {
+  "Product": "Apple juice - Of a Brix value not exceeding 20-  Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 816315
+ },
+ {
+  "Product": "Apple juice - Other- Concentrate of weight not less than  25 kg for industrial use",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 193623
+ },
+ {
+  "Product": "Apple juice - Other-  Other",
+  "Unit": "Net weight in KG",
+  "Export": 63630,
+  "Import": 994280
+ },
+ {
+  "Product": "Cranbery juice- Concentrate of weight not less than  25 kg for industrial use",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 366
+ },
+ {
+  "Product": "Cranbery juice-  Other",
+  "Unit": "Net weight in KG",
+  "Export": 132369,
+  "Import": 1550535
+ },
+ {
+  "Product": "Guava",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Guava",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 377406
+ },
+ {
+  "Product": "2009892900 - Tamarind juice-  Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1745
+ },
+
+ {
+  "Product": "Mango",
+  "Unit": "Net weight in KG",
+  "Export": 184482,
+  "Import": 971323
+ },
+ {
+  "Product": "2009899100 - Other juice Concentrate of weight not less than  25 kg for industrial use",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 20360
+ },
+ {
+  "Product": "2009899900 - Other juice  Other",
+  "Unit": "Net weight in KG",
+  "Export": 499426,
+  "Import": 1564117
+ },
+ {
+  "Product": "Mixtures of juices - Concentrate of weight not less than  25 kg for industrial use",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2413292
+ },
+ {
+  "Product": "Mixtures of juices - Other",
+  "Unit": "Net weight in KG",
+  "Export": 3453264,
+  "Import": 23298383
+ },
+ {
+  "Product": "coffee",
+  "Unit": "Net weight in KG",
+  "Export": 4200,
+  "Import": 114848,
+  "Year": 2022  
+ },
+ {
+  "Product": "coffee",
+  "Unit": "Net weight in KG",
+  "Export": 779498,
+  "Import": 239812,
+  "Year": 2022  
+ },
+ {
+  "Product": "Extracts, essences, concentrates and preparations of tea or matT",
+  "Unit": "Net weight in KG",
+  "Export": 23224,
+  "Import": 40572
+ },
+ {
+  "Product": "coffee",
+  "Unit": "Net weight in KG",
+  "Export": 8,
+  "Import": 249196,
+  "Year": 2022  
+ },
+ {
+  "Product": "Active yeasts",
+  "Unit": "Net weight in KG",
+  "Export": 20,
+  "Import": 677708
+ },
+ {
+  "Product": "Inactive yeasts other single-cell micro-organisms, dead",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 18588
+ },
+ {
+  "Product": "Prepared baking powders",
+  "Unit": "Net weight in KG",
+  "Export": 955,
+  "Import": 432811
+ },
+ {
+  "Product": "Soya sauce",
+  "Unit": "Net weight in KG",
+  "Export": 170,
+  "Import": 1763722
+ },
+ {
+  "Product": "Tomatoes",
+  "Unit": "Net weight in KG",
+  "Export": 6041,
+  "Import": 992062,
+  "Year": 2022
+ },
+ {
+  "Product": "Mustard flour and meal, prepared mustard",
+  "Unit": "Net weight in KG",
+  "Export": 12748,
+  "Import": 105232
+ },
+ {
+  "Product": "Nuoc - mam",
+  "Unit": "Net weight in KG",
+  "Export": 2367,
+  "Import": 75945
+ },
+ {
+  "Product": "2103909100 - Seasoning powder in packings not less than 25 kg",
+  "Unit": "Net weight in KG",
+  "Export": 78765,
+  "Import": 3790347
+ },
+ {
+  "Product": "2103909900 - Seasoning powder in packings less than 25 kg",
+  "Unit": "Net weight in KG",
+  "Export": 4185055,
+  "Import": 15958874
+ },
+ {
+  "Product": "Preparations in blocks or loaves form",
+  "Unit": "Net weight in KG",
+  "Export": 7377609,
+  "Import": 2292753
+ },
+ {
+  "Product": "Other soups and broths",
+  "Unit": "Net weight in KG",
+  "Export": 685329,
+  "Import": 335784
+ },
+ {
+  "Product": "Homogenized composite food preparations",
+  "Unit": "Net weight in KG",
+  "Export": 1520,
+  "Import": 47506
+ },
+ {
+  "Product": "cocoa",
+  "Unit": "Net weight in KG",
+  "Export": 6179028,
+  "Import": 491875
+,
+  "Year": 2022 },
+ {
+  "Product": "Protein concentrates",
+  "Unit": "Net weight in KG",
+  "Export": 68,
+  "Import": 34199
+ },
+ {
+  "Product": "Textured protein substances",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 191607
+ },
+ {
+  "Product": "Syrups containing added flavouring and or colouring matter",
+  "Unit": "Net weight in KG",
+  "Export": 32009,
+  "Import": 407584
+ },
+ {
+  "Product": "2106909100 - Food supplements",
+  "Unit": "Net weight in KG",
+  "Export": 13791,
+  "Import": 93106
+ },
+ {
+  "Product": "2106909200 - Extracts, essences and flavouring products of a kind used in the  food or drink industries",
+  "Unit": "Net weight in KG",
+  "Export": 342,
+  "Import": 5503924
+ },
+ {
+  "Product": "2106909300 - Protein concentrates and textured protein substances - other- Of the type used for bread making",
+  "Unit": "Net weight in KG",
+  "Export": 153,
+  "Import": 160910
+ },
+ {
+  "Product": "2106909400 - Powders for the instant preparation of drinks",
+  "Unit": "Net weight in KG",
+  "Export": 12582,
+  "Import": 3193973
+ },
+ {
+  "Product": "2106909500 - Preparation for herbal tea",
+  "Unit": "Net weight in KG",
+  "Export": 32743,
+  "Import": 97071
+ },
+ {
+  "Product": "2106909600 - Food supplements",
+  "Unit": "Net weight in KG",
+  "Export": 18395,
+  "Import": 2430591
+ },
+ {
+  "Product": "2106909900 - Food preparations not elsewhere specified or included- Other- Other",
+  "Unit": "Net weight in KG",
+  "Export": 139487,
+  "Import": 22997299
+ },
+ {
+  "Product": "Mineral Waters.",
+  "Unit": "Net weight in KG",
+  "Export": 10475389,
+  "Import": 1062613
+ },
+ {
+  "Product": "Aerated waters",
+  "Unit": "Net weight in KG",
+  "Export": 70,
+  "Import": 66352
+ },
+ {
+  "Product": "Other unsweetened watersice and snow",
+  "Unit": "Net weight in KG",
+  "Export": 259,
+  "Import": 23959
+ },
+ {
+  "Product": "Waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured",
+  "Unit": "Net weight in KG",
+  "Export": 16074945,
+  "Import": 24364014
+ },
+ {
+  "Product": "Non-alcoholic beer",
+  "Unit": "Net weight in KG",
+  "Export": 297747,
+  "Import": 488191
+ },
+ {
+  "Product": "Beverages containing high doses of caffeine of the kind Energy drinks",
+  "Unit": "Net weight in KG",
+  "Export": 30827072,
+  "Import": 19650718
+ },
+ {
+  "Product": "Other non-alcoholic beverages",
+  "Unit": "Net weight in KG",
+  "Export": 4945307,
+  "Import": 20414199
+ },
+ {
+  "Product": "2202999010 - NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "2202999090 - NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Beer made from malt- in containers of 50 centilitres or less",
+  "Unit": "Net weight in KG",
+  "Export": 789919,
+  "Import": 8272577
+ },
+ {
+  "Product": "Beer made from malt- in containers of more than 50 centilitres",
+  "Unit": "Net weight in KG",
+  "Export": 105070,
+  "Import": 899177
+ },
+ {
+  "Product": "Champagne and sparkling wine",
+  "Unit": "Net weight in KG",
+  "Export": 982884,
+  "Import": 1743926
+ },
+ {
+  "Product": "Wine not sparkling grape must with by alcohol in- 2L containers",
+  "Unit": "Net weight in KG",
+  "Export": 6354155,
+  "Import": 12238313
+ },
+ {
+  "Product": "--  In containers holding more than 2 l but not more than 10 l",
+  "Unit": "Net weight in KG",
+  "Export": 6481,
+  "Import": 106399
+ },
+ {
+  "Product": "Wine in containers holding 200 l or more for industry",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 5520
+ },
+ {
+  "Product": "Other",
+  "Unit": "Net weight in KG",
+  "Export": 86835,
+  "Import": 183868
+ },
+ {
+  "Product": "Other grape must",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 3075
+ },
+ {
+  "Product": "Vermouth and other wine of fresh grapes, flavoured- 2L containers",
+  "Unit": "Net weight in KG",
+  "Export": 30727,
+  "Import": 99210
+ },
+ {
+  "Product": "Vermouth and other wine of fresh grapes, flavoured- 2L containers",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 8885
+ },
+ {
+  "Product": "Other beer not made from malt",
+  "Unit": "Net weight in KG",
+  "Export": 335123,
+  "Import": 6984986
+ },
+ {
+  "Product": "2206001010 - NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "2206001090 - NA",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "2206009100 - Palm Wine",
+  "Unit": "Net weight in KG",
+  "Export": 185453,
+  "Import": 5000
+ },
+ {
+  "Product": "2206009900 - other fermented beverages other.",
+  "Unit": "Net weight in KG",
+  "Export": 2602,
+  "Import": 212981
+ },
+ {
+  "Product": "Undenatured ethyl alcohol of an alcoholic strength by volume of 80 vol. or higher- For medical, pharmaceutical or scientific purposes",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 79721
+ },
+ {
+  "Product": "Undenatured ethyl alcohol of an alcoholic strength by volume of 80 vol. or higher- Other",
+  "Unit": "Net weight in KG",
+  "Export": 497000,
+  "Import": 50119335
+ },
+ {
+  "Product": "Ethyl alcohol and other denatured spirits of any strength",
+  "Unit": "Net weight in KG",
+  "Export": 92199,
+  "Import": 166600
+ },
+ {
+  "Product": "Brandy",
+  "Unit": "Net weight in KG",
+  "Export": 137892,
+  "Import": 780562
+ },
+ {
+  "Product": "Spirits obtained by distilling grape wine or grape marc- Other",
+  "Unit": "Net weight in KG",
+  "Export": 216775,
+  "Import": 278810
+ },
+ {
+  "Product": "Whiskeys",
+  "Unit": "Net weight in KG",
+  "Export": 4137468,
+  "Import": 5681745
+ },
+ {
+  "Product": "Rum and taffia",
+  "Unit": "Net weight in KG",
+  "Export": 3028501,
+  "Import": 3721202
+ },
+ {
+  "Product": "Gin and geneva",
+  "Unit": "Net weight in KG",
+  "Export": 3039083,
+  "Import": 465479
+ },
+ {
+  "Product": "Vodka",
+  "Unit": "Net weight in KG",
+  "Export": 2030205,
+  "Import": 6085899
+ },
+ {
+  "Product": "Liqueurs and cordials",
+  "Unit": "Net weight in KG",
+  "Export": 274085,
+  "Import": 1083016
+ },
+ {
+  "Product": "Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80 vol spirits, liqueurs and other spirituous beverages- Other",
+  "Unit": "Net weight in KG",
+  "Export": 675302,
+  "Import": 698991
+ },
+ {
+  "Product": "Alcohol vinegar",
+  "Unit": "Net weight in KG",
+  "Export": 593250,
+  "Import": 38442
+ },
+ {
+  "Product": "Other vinegar, nes",
+  "Unit": "Net weight in KG",
+  "Export": 14,
+  "Import": 189877
+ },
+ {
+  "Product": "Flours, meats and pellets, of meat unfit for human consumption greaves",
+  "Unit": "Net weight in KG",
+  "Export": 91960,
+  "Import": 73950
+ },
+ {
+  "Product": "Flours, meals and pellets of fish, etc, unfit for human consumption.",
+  "Unit": "Net weight in KG",
+  "Export": 1109135,
+  "Import": 521003
+ },
+ {
+  "Product": "maize",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 945017,
+  "Year": 2022
+ },
+ {
+  "Product": "wheat",
+  "Unit": "Net weight in KG",
+  "Export": 21125767,
+  "Import": 2655142
+ },
+ {
+  "Product": "other cereals",
+  "Unit": "Net weight in KG",
+  "Export": 1824396,
+  "Import": 0
+ },
+ {
+  "Product": "leguminous plants",
+  "Unit": "Net weight in KG",
+  "Export": 89,
+  "Import": 0
+ },
+ {
+  "Product": "Residues from manufacture of starch and similar residues",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Beet pulp, bagasse and other waste of sugar manufacture",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Brewing or distilling dregs and waste",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 28
+ },
+ {
+  "Product": "Oil-cake and other solid residues, of soya-bean",
+  "Unit": "Net weight in KG",
+  "Export": 440136,
+  "Import": 92868103
+ },
+ {
+  "Product": "Oil-cake and other solid residues, of ground-nut",
+  "Unit": "Net weight in KG",
+  "Export": 282760,
+  "Import": 1
+ },
+ {
+  "Product": "Oil-cake and other solid residues of cotton seeds",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 980000
+ },
+ {
+  "Product": "Oil-cake and other solid residues of linseed",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Oil-cake and other solid residues of sunflower seeds",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 186
+ },
+ {
+  "Product": "Oil-cake and other solid residues of rape or colza seeds, other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1097
+ },
+ {
+  "Product": "coconut",
+  "Unit": "Net weight in KG",
+  "Export": 45,
+  "Import": 0
+ },
+ {
+  "Product": "Oil-cake and other solid residues of palm nuts and kernels",
+  "Unit": "Net weight in KG",
+  "Export": 4922358,
+  "Import": 1219657
+ },
+ {
+  "Product": "Oil-cake and residues, of other vegetable fats and oils",
+  "Unit": "Net weight in KG",
+  "Export": 24886067,
+  "Import": 1181
+ },
+ {
+  "Product": "Wine lees argol",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 60320
+ },
+ {
+  "Product": "Vegetable Materials and Vegetable Waste not elsewhere specified or include",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Dog or cat food, put up for retail sale",
+  "Unit": "Net weight in KG",
+  "Export": 456,
+  "Import": 3594851
+ },
+ {
+  "Product": "Preparations containing added vitamins",
+  "Unit": "Net weight in KG",
+  "Export": 17362,
+  "Import": 17417514
+ },
+ {
+  "Product": "Other preparations used in animal feed, nes",
+  "Unit": "Net weight in KG",
+  "Export": 1312639,
+  "Import": 45041049
+ },
+ {
+  "Product": "Tobacco, not stemmedstripped",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Tobacco, partly or wholly stemmedstripped",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2
+ },
+ {
+  "Product": "Tobacco refuse",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Cigars, cheroots and cigarillos containing tobacco",
+  "Unit": "Net weight in KG",
+  "Export": 21,
+  "Import": 1390
+ },
+ {
+  "Product": "Cigarettes containing tobacco",
+  "Unit": "Net weight in KG",
+  "Export": 17717,
+  "Import": 2833713
+ },
+ {
+  "Product": "Cigars, cigarillos, cigarettes, etc, not containing tobacco",
+  "Unit": "Net weight in KG",
+  "Export": 5,
+  "Import": 132
+ },
+ {
+  "Product": "Water pipe tobacco specified in Sub heading Note 1  to this chapter",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 2830
+ },
+ {
+  "Product": "Smoking tobacco, whether or not containing tobacco substitutes in any proportion - Other",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 121
+ },
+ {
+  "Product": "Homogenized or reconstituted tobacco",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 0
+ },
+ {
+  "Product": "Expanded tobacco",
+  "Unit": "Net weight in KG",
+  "Export": 0,
+  "Import": 1088
+ },
+ {
+  "Product": "Other manufactured tobacco and manufactured tobacco substitutes homogenised or reconstituted tobacco tobacco extracts and essences- Other-  Other- Other",
+  "Unit": "Net weight in KG",
+  "Export": 100,
+  "Import": 16509
+ },
+ {
+  "Product": "Denatured salt",
+  "Unit": "Net weight in KG",
+  "Export": 260,
+  "Import": 49610498
+ },
+ {
+  "Product": "Salt for human consumption including table salt",
+  "Unit": "Net weight in KG",
+  "Export": 51629693,
+  "Import": 21141352
+ },
+ {
+  "Product": "Compressed salt used in animal feeding",
+  "Unit": "Net weight in KG",
+  "Export": 100,
+  "Import": 10012
+ },
+ {
+  "Product": "Other salt, nes",
+  "Unit": "Net weight in KG",
+  "Export": 1651485,
+  "Import": 4978239
+ }
+]
+}

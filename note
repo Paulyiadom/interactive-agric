@@ -1,0 +1,260 @@
+using flexbox, i want a layout  4 div ,first header div at the top, it should have two div inside one for search bar and other for horizontal list of button, the second one on the left with 3 divs inside , the third div should be the largest inside the large div place the map inside and the last div should also have 3 divs inside
+
+inside the header div should have two div {search div and button tab div} , the first one should have a search bar when a user search for a crop or live stock,  create a pop up modal box with flexbox (inside the model box, on the right should show a mini map indicating the region where the crops are grown{example if user search papper or cow , on the mini map if it is northern or ashanti region color the region red with the total percentage they grown on it},  at the right side list the region name and sub list the town that cultivate the crops.     
+
+
+the second DIV button tab div, should be under the search bar , make horizontal scrollable nav of crops and live stock, when the user click on any of the button it should show on the first map not the mini map or the model box but the very first map, the region the grow it, the percentage 
+
+
+
+
+
+    
+    <div class="app-body modal-content">
+<span class="close-btn">&times;</span>
+  <div class="main-content">
+			<section class="service-section">
+				<h2>Service</h2>
+				<div class="tiles">
+					<article class="tile">
+						<div class="tile-header">
+							<i class="ph-lightning-light"></i>
+							<h3>
+								<span>Electricity</span>
+								<span>UrkEnergo LTD.</span>
+							</h3>
+						</div>
+						<a href="#">
+							<span>Go to service</span>
+							<span class="icon-button">
+								<i class="ph-caret-right-bold"></i>
+							</span>
+						</a>
+					</article>
+					<article class="tile">
+						<div class="tile-header">
+							<i class="ph-fire-simple-light"></i>
+							<h3>
+								<span>Heating Gas</span>
+								<span>Gazprom UA</span>
+							</h3>
+						</div>
+						<a href="#">
+							<span>Go to service</span>
+							<span class="icon-button">
+								<i class="ph-caret-right-bold"></i>
+							</span>
+						</a>
+					</article>
+					<article class="tile">
+						<div class="tile-header">
+							<i class="ph-file-light"></i>
+							<h3>
+								<span>Tax online</span>
+								<span>Kharkov 62 str.</span>
+							</h3>
+						</div>
+						<a href="#">
+							<span>Go to service</span>
+							<span class="icon-button">
+								<i class="ph-caret-right-bold"></i>
+							</span>
+						</a>
+					</article>
+				</div>
+			</section>
+			
+		</div>
+  <div class="side-content"></div>
+</div>
+
+
+:root {
+	--c-gray-900: #000000;
+	--c-gray-800: #1f1f1f;
+	--c-gray-700: #2e2e2e;
+	--c-gray-600: #313131;
+	--c-gray-500: #969593;
+	--c-gray-400: #a6a6a6;
+	--c-gray-300: #bdbbb7;
+	--c-gray-200: #f1f1f1;
+	--c-gray-100: #ffffff;
+
+	--c-green-500: #45ffbc;
+	--c-olive-500: #e3ffa8;
+
+	--c-white: var(--c-gray-100);
+
+	--c-text-primary: var(--c-gray-100);
+	--c-text-secondary: var(--c-gray-200);
+	--c-text-tertiary: var(--c-gray-500);
+}
+
+
+
+
+.app-body {
+    height: 100%;
+    display: grid;
+    grid-template-columns: minmax(max-content, 1fr) minmax(min-content, 400px);
+    column-gap: 4rem;
+    padding-top: 2.5rem;
+  }
+  
+  .service-section > h2 {
+       font-size: 1.5rem;
+       margin-bottom: 1.25rem;
+  }
+  .tiles {
+       display: grid;
+       grid-template-columns: repeat(3, 1fr);
+       column-gap: 1rem;
+       row-gap: 1rem;
+       margin-top: 1.25rem;
+  }
+  .tile {
+       padding: .7rem;
+       border-radius: 8px;
+       background-color: var(--c-olive-500);
+       color: var(--c-gray-900);
+       min-height: 100px;
+       display: flex;
+       flex-direction: column;
+       justify-content: space-between;
+       position: relative;
+       transition: 0.25s ease;
+  }
+  .tile:hover {
+       transform: translateY(-5px);
+  }
+  .tile:nth-child(2) {
+       background-color: var(--c-green-500);
+  }
+   .tile:nth-child(2):focus-within {
+       box-shadow: 0 0 0 2px var(--c-gray-800), 0 0 0 4px var(--c-green-500);
+  }
+   .tile:nth-child(3) {
+       background-color: var(--c-gray-300);
+  }
+   .tile:nth-child(3):focus-within {
+       box-shadow: 0 0 0 2px var(--c-gray-800), 0 0 0 4px var(--c-gray-300);
+  }
+   .tile a {
+       text-decoration: none;
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+       font-weight: 600;
+  }
+   .tile a:focus {
+       box-shadow: none;
+  }
+   .tile a:after {
+       content: "";
+       display: block;
+       position: absolute;
+       top: 0;
+       left: 0;
+       right: 0;
+       bottom: 0;
+  }
+   .tile-header {
+       display: flex;
+       align-items: center;
+  }
+   .tile-header h3 {
+       display: flex;
+       flex-direction: column;
+       line-height: 1.375;
+       margin-left: 0.5rem;
+  }
+   .tile-header h3 span:first-child {
+       font-weight: 600;
+  }
+   .tile-header h3 span:last-child {
+       font-size: 0.825em;
+       font-weight: 200;
+  }
+   
+   @media (max-width: 700px) {
+       .tiles {
+           grid-template-columns: repeat(1, 1fr);
+      }
+  }
+  
+  
+  @media (max-width: 1200px) {
+    .app-body {
+      grid-template-columns: 1fr;
+    }
+    .app-body > * {
+      margin-bottom: 3.5rem;
+    }
+  }
+  
+
+  <div class="app-container">
+    <span class="close">close</span>
+    <div class="title-info">
+      <h2 class="region-info">information about region A</h2>
+      <div class="service-info">
+        <div class="box">1</div>
+        <div class="box">2</div>
+        <div class="box">3</div>
+        <div class="box">4</div>
+      </div>
+    </div>
+    <div class="app-body">
+      <div class="side-nav">
+        <button>a</button>
+        <button>b</button>
+        <button>c</button>
+        <button>d</button>
+      </div>
+    </div>
+    <div class="body-content">
+      <div class="search">
+        <input type="text" />
+        <button>search</button>
+        <button class="filter">filter</button>
+      </div>
+      <div class="table-contenet">
+        <table>
+          <thead>
+            <tr>
+              <th>Town</th>
+              <th>Crops Grown</th>
+              <th>Farm Land Size</th>
+              <th>Crop Production</th>
+            </tr>
+          </thead>
+          
+      </div>
+    </div>
+  </div>
+    
+
+
+
+  <div class="region-content">
+    <div class="box region-info">
+      <div class="info">region info 1</div>
+      <div class="info">region info 2</div>
+      <div class="info">region info 3</div>
+      <div class="info">region info 4</div>
+    </div>
+    <div class="diplay-info">
+      <div class="box left-Nav"></div>
+      <div class="box center-content">3</div>
+      <div class="box right-content">4</div>
+    </div>
+  </div>
+
+  i want to add one thing to the map. i have product.json file in the data directory, it include  live stock and region where the live stock is grown or has more population, what i want is 
+  1. create a search with placeholder "search for a crops or livestock.." if what the user search matches the json items , indicate it on the map with the mapColor, if not alert the user that not found or something nice
+  !Import indicate the result on the map with the mapColor,
+  
+  2. check the json file for livestock or crops with high number after summing the region, choose 5 and create button, the function of the button is, when someone i click on it it will it will indicate on the map.
+  
+  example , Assuming after summing the total region pig is amout the top 5, when i click on the pig, Western,"Central","Greater Accra",
+  "Volta":,"Upper East","Eastern","Ashanti","Brong Ahafo","Northern","Upper West"  and these region will use the mapColor to show on the map 

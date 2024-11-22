@@ -1,0 +1,30 @@
+[
+    {
+        "ITEM": "Staple crops",
+        "TotalFoodReserve": "15067"
+    },
+    {
+        "ITEM": "Cattle",
+        "TotalFoodReserve": "2238857"
+    },
+    {
+        "ITEM": "Chickens",
+        "TotalFoodReserve": "88666"
+    },
+    {
+        "ITEM": "Goats",
+        "TotalFoodReserve": "8659280"
+    },
+    {
+        "ITEM": "Horses",
+        "TotalFoodReserve": "3352"
+    },
+    {
+        "ITEM": "Sheep",
+        "TotalFoodReserve": "5845718"
+    },
+    {
+        "ITEM": "pigs",
+        "TotalFoodReserve": "846058"
+    }
+]

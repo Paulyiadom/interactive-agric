@@ -1,0 +1,244 @@
+{
+    "base":[
+        {
+            "Year": 2016,
+            "Production": "Avocados",
+            "Value": 8949.59
+        },
+        {
+            "Year": 2016,
+            "Production": "Bananas",
+            "Value": 87505
+        },
+        {
+            "Year": 2016,
+            "Production": "Beans",
+            "Value": 167940.95
+        },
+        {
+            "Year": 2016,
+            "Production": "Cassava",
+            "Value": 17798217
+        },
+        {
+            "Year": 2016,
+            "Production": "peppers",
+            "Value": 229295.58
+        },
+        {
+            "Year": 2016,
+            "Production": "Cocoa",
+            "Value": 858720
+        },
+        {
+            "Year": 2016,
+            "Production": "Coconuts",
+            "Value": 463526.91
+        },
+        {
+            "Year": 2016,
+            "Production": "Coffee",
+            "Value": 736
+        },
+        {
+            "Year": 2016,
+            "Production": "Cow peas",
+            "Value": 206380
+        },
+        {
+            "Year": 2016,
+            "Production": "Cucumbers",
+            "Value": 130.31
+        },
+        {
+            "Year": 2016,
+            "Production": "cattle",
+            "Value": 30751.95
+        },
+        {
+            "Year": 2016,
+            "Production": "pigs",
+            "Value": 30281.12
+        },
+        {
+            "Year": 2016,
+            "Production": "Game meat",
+            "Value": 72696.69
+        },
+        {
+            "Year": 2016,
+            "Production": "Ginger",
+            "Value": 96.27
+        },
+        {
+            "Year": 2016,
+            "Production": "Groundnut oil",
+            "Value": 57421.77
+        },
+        {
+            "Year": 2016,
+            "Production": "Groundnuts",
+            "Value": 425824.82
+        },
+        {
+            "Year": 2016,
+            "Production": "eggs",
+            "Value": 1203763.45
+        },
+        {
+            "Year": 2016,
+            "Production": "Kola nuts",
+            "Value": 23299.01
+        },
+        {
+            "Year": 2016,
+            "Production": "Lemons",
+            "Value": 46853.54
+        },
+        {
+            "Year": 2016,
+            "Production": "Maize",
+            "Value": 1721910.12
+        },
+        {
+            "Year": 2016,
+            "Production": "Mangoes",
+            "Value": 99358
+        },
+        {
+            "Year": 2016,
+            "Production": "chickens",
+            "Value": 59108
+        },
+        {
+            "Year": 2016,
+            "Production": "sheep",
+            "Value": 24850.24
+        },
+        {
+            "Year": 2016,
+            "Production": "Millet",
+            "Value": 159017.27
+        },
+        {
+            "Year": 2016,
+            "Production": "Oats",
+            "Value": 40.81
+        },
+        {
+            "Year": 2016,
+            "Production": "Palm Oil",
+            "Value": 2497000
+        },
+        {
+            "Year": 2016,
+            "Production": "Okra",
+            "Value": 66360
+        },
+        {
+            "Year": 2016,
+            "Production": "Onions",
+            "Value": 143982
+        },
+        {
+            "Year": 2016,
+            "Production": "Oranges",
+            "Value": 690130
+        },
+        {
+            "Year": 2016,
+            "Production": "beans",
+            "Value": 24724.86
+        },
+        {
+            "Year": 2016,
+            "Production": "fruits",
+            "Value": 67752.6
+        },
+        {
+            "Year": 2016,
+            "Production": "vegetables",
+            "Value": 11144.79
+        },
+        {
+            "Year": 2016,
+            "Production": "palm friut",
+            "Value": 236697.2
+        },
+        {
+            "Year": 2016,
+            "Production": "Papayas",
+            "Value": 5561
+        },
+        {
+            "Year": 2016,
+            "Production": "Pepper ",
+            "Value": 3682.67
+        },
+        {
+            "Year": 2016,
+            "Production": "Pineapples",
+            "Value": 661500
+        },
+        {
+            "Year": 2016,
+            "Production": "Plantains",
+            "Value": 4000424
+        },
+        {
+            "Year": 2016,
+            "Production": "cattle",
+            "Value": 3145.09
+        },
+        {
+            "Year": 2016,
+            "Production": "goats",
+            "Value": 36910.85
+        },
+        {
+            "Year": 2016,
+            "Production": "sheep",
+            "Value": 7771.04
+        },
+        {
+            "Year": 2016,
+            "Production": "cattle",
+            "Value": 44059.27
+        },
+        {
+            "Year": 2016,
+            "Production": "Rice",
+            "Value": 687678.93
+        },
+        {
+            "Year": 2016,
+            "Production": "Sorghum",
+            "Value": 229604.44
+        },
+        {
+            "Year": 2016,
+            "Production": "Soya beans",
+            "Value": 143220
+        },
+        {
+            "Year": 2016,
+            "Production": "Sugar cane",
+            "Value": 150620.66
+        },
+        {
+            "Year": 2016,
+            "Production": "Sweet potatoes",
+            "Value": 138295.28
+        },
+        {
+            "Year": 2016,
+            "Production": "Tomatoes",
+            "Value": 366772
+        },
+        {
+            "Year": 2016,
+            "Production": "yam",
+            "Value": 7440354.5
+        }
+    ]
+}

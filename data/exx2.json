@@ -1,0 +1,6560 @@
+[
+    {
+        "Year": "2021",
+        "Items": "Horses, Pure-bred breeding animals",
+        "Export": "201746",
+        "Import": "31352"
+    },
+    {
+        "Year": "2021",
+        "Items": "Horses, Other",
+        "Export": "0",
+        "Import": "2410"
+    },
+    {
+        "Year": "2021",
+        "Items": "Asses, Pure-bred breeding animals",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Asses, Other",
+        "Export": "3000",
+        "Import": "2005"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other",
+        "Export": "48558",
+        "Import": "47989"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cattle, Pure-bred breeding animals",
+        "Export": "9430",
+        "Import": "188363"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cattle, Other",
+        "Export": "603027",
+        "Import": "10000258"
+    },
+    {
+        "Year": "2021",
+        "Items": "Buffalo, Pure-bred breeding animals",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Buffalo, Other",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live bovine animals, other than cattle and buffalo",
+        "Export": "0",
+        "Import": "77740"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live pure-bred breeding swine",
+        "Export": "0",
+        "Import": "2782"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live swine weighing 50kg excl. pure-bred breeding",
+        "Export": "0",
+        "Import": "385"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live sheep- pure bred breeding animals",
+        "Export": "750",
+        "Import": "21935"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sheep- other",
+        "Export": "1050",
+        "Import": "1939119"
+    },
+    {
+        "Year": "2021",
+        "Items": "Goat, Pure-bred breeding animals",
+        "Export": "0",
+        "Import": "10110"
+    },
+    {
+        "Year": "2021",
+        "Items": "Goat, Other",
+        "Export": "0",
+        "Import": "29514"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live poultry fowls of the species Gallus domesticus, 185g, Breeders",
+        "Export": "0",
+        "Import": "397575"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live poultry, fowls of the species Gallus domesticus, 185g, Other",
+        "Export": "0",
+        "Import": "31479"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live poultry, 185g, Turkeys",
+        "Export": "0",
+        "Import": "2595"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live poultry Ducks, 185g",
+        "Export": "0",
+        "Import": "638"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live poultry Geese, 185g",
+        "Export": "0",
+        "Import": "433"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live poultry Guinea fowls, 185g",
+        "Export": "0",
+        "Import": "4815"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other fowls of the species Gallus domesticus",
+        "Export": "0",
+        "Import": "752"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other live poultry, other than fowls of the species Gallus domesticus",
+        "Export": "0",
+        "Import": "583"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mamals, Primates",
+        "Export": "31",
+        "Import": "99"
+    },
+    {
+        "Year": "2021",
+        "Items": "Camels and other camelids Camelidae",
+        "Export": "0",
+        "Import": "12589"
+    },
+    {
+        "Year": "2021",
+        "Items": "Rabbits and hares",
+        "Export": "0",
+        "Import": "853"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mamals, other",
+        "Export": "62",
+        "Import": "5832"
+    },
+    {
+        "Year": "2021",
+        "Items": "Reptiles including snakes and turtles",
+        "Export": "15312",
+        "Import": "92"
+    },
+    {
+        "Year": "2021",
+        "Items": "Birds, of prey",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Birds, Psittaciformes including parrots, parakeets, macaws",
+        "Export": "0",
+        "Import": "293"
+    },
+    {
+        "Year": "2021",
+        "Items": "Ostriches emus Dromaius novaehollandiae",
+        "Export": "77448",
+        "Import": "570"
+    },
+    {
+        "Year": "2021",
+        "Items": "Birds, other",
+        "Export": "0",
+        "Import": "1020"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other live animals excluding mammals, reptiles, birds or insects",
+        "Export": "0",
+        "Import": "50"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live animals, other, nes",
+        "Export": "2577",
+        "Import": "74731"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled bovine carcasses and half carcasses",
+        "Export": "0",
+        "Import": "2214"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled unboned bovine meat excl. carcasses",
+        "Export": "0",
+        "Import": "16954"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled boneless bovine meat",
+        "Export": "134",
+        "Import": "110099"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen bovine carcasses and half carcasses",
+        "Export": "0",
+        "Import": "27351"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen unboned bovine meat excl. carcasses",
+        "Export": "30",
+        "Import": "833020"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen boneless bovine meat",
+        "Export": "108",
+        "Import": "13267790"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled swine carcasses and half carcasses",
+        "Export": "2",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled unboned hams, shoulders and cuts thereof of swine",
+        "Export": "0",
+        "Import": "24157"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled swine meat, nes unboned",
+        "Export": "0",
+        "Import": "45593"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen swine carcasses and half carcasses",
+        "Export": "0",
+        "Import": "320037"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen unboned hams, shoulders and cuts thereof of swine",
+        "Export": "0",
+        "Import": "136755"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen swine meat, nes",
+        "Export": "35",
+        "Import": "1046738"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled lamb carcasses and half carcasses",
+        "Export": "0",
+        "Import": "30111"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled sheep carcasses and half carcasses excl. lamb",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled unboned meat of sheep",
+        "Export": "0",
+        "Import": "171109"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled boneless meat of sheep",
+        "Export": "0",
+        "Import": "5740"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen lamb carcasses and half carcasses",
+        "Export": "0",
+        "Import": "911246"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen sheep carcasses and half carcasses excl.lamb",
+        "Export": "0",
+        "Import": "16178"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen unboned meat of sheep",
+        "Export": "0",
+        "Import": "784396"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen boned meat of sheep",
+        "Export": "0",
+        "Import": "337460"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh, chilled or frozen goat meat",
+        "Export": "2",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Meat of horses, asses, mules or hinnies, fresh, chilled or frozen",
+        "Export": "0",
+        "Import": "10"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled edible bovine offal",
+        "Export": "0",
+        "Import": "43340"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen bovine tongues",
+        "Export": "0",
+        "Import": "58580"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen bovine livers",
+        "Export": "0",
+        "Import": "306508"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen edible bovine offal excl. tongues and livers",
+        "Export": "0",
+        "Import": "20815900"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled edible swine offal",
+        "Export": "40",
+        "Import": "534600"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen swine livers",
+        "Export": "74",
+        "Import": "112625"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen edible swine offal excl. livers",
+        "Export": "2",
+        "Import": "4338057"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen edible offal of sheep, goats, horses...",
+        "Export": "0",
+        "Import": "4852149"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled whole fowl Gallus Domesticus - eg chicken - not cut",
+        "Export": "0",
+        "Import": "359940"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen whole fowl Gallus Domesticus - eg chicken - not cut",
+        "Export": "0",
+        "Import": "9327710"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled cuts and offal of fowl Gallus Domesticus - eg chicken",
+        "Export": "0",
+        "Import": "207411"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen cuts and offal of fowl Gallus Domesticus - eg chicken",
+        "Export": "0",
+        "Import": "245327904"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled whole turkeys",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen whole turkeys",
+        "Export": "0",
+        "Import": "9601"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled cuts and offal of turkeys",
+        "Export": "0",
+        "Import": "59581"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen cuts and offal of turkeys",
+        "Export": "0",
+        "Import": "5965580"
+    },
+    {
+        "Year": "2021",
+        "Items": "Meat and edible offal, of Duck, Not cut in pieces, fresh or chilled",
+        "Export": "0",
+        "Import": "50"
+    },
+    {
+        "Year": "2021",
+        "Items": "Meat and edible offal, of Duck, Not cut in pieces, frozen",
+        "Export": "0",
+        "Import": "2178"
+    },
+    {
+        "Year": "2021",
+        "Items": "Meat and edible offal, of Duck, Fatty livers, fresh or chilled",
+        "Export": "0",
+        "Import": "2"
+    },
+    {
+        "Year": "2021",
+        "Items": "Meat and edible offal, of Duck, Other, fresh or chilled",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Meat and edible offal, of Duck, Other, frozen",
+        "Export": "0",
+        "Import": "7332"
+    },
+    {
+        "Year": "2021",
+        "Items": "Meat and edible offal, of Geese, Other, frozen",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Meat and edible offal Of guinea fowls",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh, chilled or frozen meat and edible offal of rabbits or hares",
+        "Export": "0",
+        "Import": "119"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh, chilled or frozen meat of primate",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh, chilled or frozen meat of whales, dolphins and porpoises",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other meat and edible meat offal, Of camels and other camelids camelidae, fresh, chilled, frozen",
+        "Export": "0",
+        "Import": "2100"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh, chilled or frozen meat and edible offal, nes",
+        "Export": "0",
+        "Import": "530"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, dried or smoked.",
+        "Export": "0",
+        "Import": "1005"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other Pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, dried or smoked.",
+        "Export": "200",
+        "Import": "222"
+    },
+    {
+        "Year": "2021",
+        "Items": "Unboned swine hams, shoulders and cuts thereof, salted... or smoked",
+        "Export": "0",
+        "Import": "397320"
+    },
+    {
+        "Year": "2021",
+        "Items": "Bellies and cuts thereof of swine, salted... or smoked",
+        "Export": "0",
+        "Import": "7070"
+    },
+    {
+        "Year": "2021",
+        "Items": "Meat of swine, salted... or smoked, nes",
+        "Export": "0",
+        "Import": "623419"
+    },
+    {
+        "Year": "2021",
+        "Items": "Meat of bovine animals, salted... or smoked",
+        "Export": "0",
+        "Import": "114046"
+    },
+    {
+        "Year": "2021",
+        "Items": "Meat of primate, salted... or smoked",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Meat of whales, dolphins and porposes, salted... or smoked",
+        "Export": "0",
+        "Import": "32"
+    },
+    {
+        "Year": "2021",
+        "Items": "Meat of reptiles, salted... or smoked",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other meat, salted... or smoked, nes",
+        "Export": "51",
+        "Import": "4823435"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live fish, Freshwater, Ornamental fish",
+        "Export": "64924",
+        "Import": "876"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live fish, Other Ornamental fish",
+        "Export": "27728",
+        "Import": "288"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other live fish, Trout, Young fish fingerling",
+        "Export": "90936",
+        "Import": "40"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other live fish, Trout, other",
+        "Export": "554",
+        "Import": "2200"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other live fish, Eels Anguilla spp., Young fish fingerling",
+        "Export": "0",
+        "Import": "319"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other live fish, Other Eels Anguilla spp.",
+        "Export": "723",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other live fish, Carp, Young fish fingerling",
+        "Export": "0",
+        "Import": "215"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other live fish, Other Carp",
+        "Export": "4701",
+        "Import": "99"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other live fish, Atlantic and Pacific bluefin tunas Thunnus thynnus, Thunnus orientalis, Young fish fingerling",
+        "Export": "535",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other live fish, Other Atlantic and Pacific bluefin tunas Thunnus thynnus, Thunnus orientalis",
+        "Export": "16",
+        "Import": "25"
+    },
+    {
+        "Year": "2021",
+        "Items": "Young fish fish fingerlings",
+        "Export": "0",
+        "Import": "200"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other live fish, Young fish fingerling",
+        "Export": "0",
+        "Import": "450"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other live fish, Other",
+        "Export": "4048",
+        "Import": "5370"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled trout",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Salmonidae, excluding livers and roes, Pacific salmon",
+        "Export": "0",
+        "Import": "16642"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Salmonidae, excluding livers and roes, Atlantic salmon Salmo salar and Danube salmon Hucho hucho",
+        "Export": "120",
+        "Import": "21610"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled salmonidae excl. 0302.11 and 0302.12",
+        "Export": "0",
+        "Import": "186995"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled halibut",
+        "Export": "0",
+        "Import": "46"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Flat fish, excluding livers and roes, Turbots Psetta maxima.",
+        "Export": "162",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled flat fish excl. halibut, plaice and sole",
+        "Export": "0",
+        "Import": "847"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled albacore or longfinned tunas",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled yellowfin tunas",
+        "Export": "5749163",
+        "Import": "200"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled skipjack or stripe-bellied bonito",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Bigeye tunas Thunnus obesus",
+        "Export": "0",
+        "Import": "54365"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled tunas, nes",
+        "Export": "966894",
+        "Import": "32079"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Herrings Clupea harengus, Clupea pallasii, excluding livers and roes",
+        "Export": "5",
+        "Import": "326400"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Anchovies Engraulis spp., excluding livers and roes",
+        "Export": "13",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Sardines Sardina pilchardus, Sardinops spp., sardinella Sardinella spp., brisling or sprats Sprattus sprattus, excluding livers and roes",
+        "Export": "183",
+        "Import": "1600064"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Mackerel Scomber scombrus, Scomber australasicus, Scomber japonicas, excluding livers and roes",
+        "Export": "50",
+        "Import": "2304966"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Jack and horse mackerel Trachurus spp., excluding livers and roes",
+        "Export": "0",
+        "Import": "816587"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04.Herrings , anchovies, sardines, sardinell, mackerel , Indian mackerels, seerfishes, jack and horse mackerel exc edible fish offal subheading 0302.91-0302.99 , Other",
+        "Export": "2100",
+        "Import": "79242"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Cod Gadus morhua, Gadus ogac, Gadus macrocephalus, excluding livers and roes",
+        "Export": "0",
+        "Import": "540120"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Haddock Melanogrammus aeglefinus, excluding livers and roes",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Coalfish Pollachius virens, excluding livers and roes",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Hake Merluccius spp., Urophycis spp., excluding livers and roes",
+        "Export": "0",
+        "Import": "417996"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Alaska Pollack Theraga chalcogramma, excluding livers and roes",
+        "Export": "1119",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04.,Blue whitings Micromesistius poutassou, Micromesistius australis, excluding livers and roes",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Other, excluding livers and roes",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Tilapias Oreochromis spp., excluding livers and roes",
+        "Export": "4000",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Catfish Pangasius spp., Silurus spp., Clarias spp., lctalurus spp., excluding livers and roes",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Carp Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, excluding livers and roes",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04., Other, excluding livers and roes",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other fish, excluding livers and roes- Dogfish and other sharks",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other fish, excluding livers and roes- Seabass Dicentrarchus spp.",
+        "Export": "0",
+        "Import": "146"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other fish, excluding livers and roes- Seabream Sparidae",
+        "Export": "0",
+        "Import": "79744"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other fish, excluding livers and roes- Other",
+        "Export": "0",
+        "Import": "8082"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04. Livers, roes, milt, fish fins, heads, tails, maws and other edible fish offal-Other",
+        "Export": "88",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sockeye salmon red salmon",
+        "Export": "2",
+        "Import": "1"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04., Other Pacific salmon Oncor hynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus, excluding l",
+        "Export": "0",
+        "Import": "149200"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04., Atlantic salmon Salmo salar and Danube salmon Hucho hucho, excluding livers and roes",
+        "Export": "100",
+        "Import": "28594"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04., Trout Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, etc, excluding livers and roes",
+        "Export": "200",
+        "Import": "1775942"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other salmon",
+        "Export": "114",
+        "Import": "58154"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04., Tilapias Oreochromis spp., excluding livers and roes",
+        "Export": "0",
+        "Import": "2451321"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04., Catfish Pangasius spp., Silurus spp., Clarias spp., ictalurus spp., excluding livers and roes",
+        "Export": "100",
+        "Import": "835779"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04., Carp Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, etc, excluding livers and roes",
+        "Export": "59472",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04., Eels Anguilla spp., excluding livers and roes",
+        "Export": "0",
+        "Import": "28000"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen salmonidae excl. pacific, atlantic, danube salmon and trout",
+        "Export": "0",
+        "Import": "151869"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen plaice",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen sole",
+        "Export": "0",
+        "Import": "53"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04., Flat fish excluding livers and roes, Turbots Psetta maxima, Schphthalmidae",
+        "Export": "0",
+        "Import": "102"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen flat fish excl. halibut, plaice and sole",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen albacore or longfinned tunas",
+        "Export": "0",
+        "Import": "61183"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen yellowfin tunas",
+        "Export": "7502547",
+        "Import": "9642401"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen skipjack or stripe-bellied bonito",
+        "Export": "6131510",
+        "Import": "7123421"
+    },
+    {
+        "Year": "2021",
+        "Items": "Bigeye tunas Thunnus obesus",
+        "Export": "332720",
+        "Import": "896105"
+    },
+    {
+        "Year": "2021",
+        "Items": "Bluefin tunas Thunnus thynnus",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Southern bluefin tunas Thunnus maccoyii",
+        "Export": "0",
+        "Import": "5"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen tunas, nes",
+        "Export": "19183945",
+        "Import": "2950548"
+    },
+    {
+        "Year": "2021",
+        "Items": "Herrings Clupea harengus, Clupea pallasii",
+        "Export": "1130",
+        "Import": "12532652"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04., Sardines Sardina pilchardus, Sardinops spp., sardinella Sardinella spp., brisling or sprats Sprattus sprattus, excluding livers and roes",
+        "Export": "0",
+        "Import": "59481812"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04., Mackerel Scomber scombrus, Scomber australasicus, Scomber japonicus, excluding livers and roes",
+        "Export": "1083",
+        "Import": "91793038"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04., Jack and horse mackerel Trachurus spp., excluding livers and roes",
+        "Export": "0",
+        "Import": "51876737"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04., Cobia Rachycentron canadum, excluding livers and roes",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04., Swordfish Xiphias gladius, excluding livers and roes",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04. Herrings, anchovies Eagraulis spp., sardines Sardina pilchardus, Sardinops spp., sardinella Sardinella spp., brisling or sprats Sprattus sprattus, mackerel Other",
+        "Export": "126",
+        "Import": "5499000"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04., Cod Gadus morhua, Gadus ogac, Gadus macrocephalus, excluding livers and roes",
+        "Export": "1986",
+        "Import": "938"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04.,Haddock Melanogrammus aeglefinus, excluding livers and roes",
+        "Export": "0",
+        "Import": "64560"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04., Coalfish Pollachius virens, excluding livers and roes",
+        "Export": "0",
+        "Import": "506820"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04., Hake Merluccius spp., Urophycis spp., excluding livers and roes",
+        "Export": "0",
+        "Import": "5126044"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04., Alaska Pollack Theraga chalcogramma, excluding livers and roes",
+        "Export": "0",
+        "Import": "261760"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04., Blue whitings Micromesistius poutassou, Micromesistius australis, excluding livers and roes",
+        "Export": "0",
+        "Import": "5354612"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, frozen, excluding fish fillets and other fish meat of heading 03.04., Other, excluding livers and roes",
+        "Export": "7704",
+        "Import": "304103"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other fish, excluding livers and roes- Dogfish and other sharks",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other fish, excluding livers and roes- Toothfish Dissostichus spp.",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other fish, excluding livers and roes- Seabass Dicentrarchus spp.",
+        "Export": "0",
+        "Import": "895"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other fish, excluding livers and roes- Other",
+        "Export": "19252",
+        "Import": "16421839"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other fish, excluding edible fish offal of subheading 0303.91 to 0303.99 Livers, roes and milt",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other fish, excluding edible fish offal of subheading 0303.91 to 0303.99 Shark fins",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other fish, excluding edible fish offal of subheading 0303.91 to 0303.99- OTHER",
+        "Export": "0",
+        "Import": "74"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish fillets and other fish meat whether or not minced, fresh, chilled or frozen, Tilapias Oreochromis spp.",
+        "Export": "0",
+        "Import": "779"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish fillets and other fish meat whether or not minced, fresh, chilled or frozen, Other",
+        "Export": "0",
+        "Import": "3411"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled fillets of other fish- Pacific salmon Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus, Atlantic salmon Salmo salar and D",
+        "Export": "0",
+        "Import": "8150"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled fillets of other fish- Trout Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled fillets of other fish- Flat fish Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae and Citharidae",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled fillets of other fish- Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, merluccidae, Moridae and Muraenolepididae",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled fillets of other fish- Toothfish Dissostichus spp.",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled fillets of other fish Rays and skates Rajidae",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh or chilled fillets of other fish- Other",
+        "Export": "500",
+        "Import": "10789"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other, fresh or chilled- Tilapias Oreochromis spp., catfish Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp., carp Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypopthalmichthys spp., Cirrhinus spp., Mylopharyngodon",
+        "Export": "40",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other, fresh or chilled- Salmonidae",
+        "Export": "0",
+        "Import": "171"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other, fresh or chilled- Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other, fresh or chilled- Swordfish Xiphias gladius",
+        "Export": "100",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other, fresh or chilled- Other",
+        "Export": "300",
+        "Import": "54300"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen fillets of Tilapias Oreochromis spp.",
+        "Export": "1083",
+        "Import": "698"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen fillets of Catfish Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.",
+        "Export": "0",
+        "Import": "29224"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen fillets of Nile Perch Lates niloticus",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen fillets of Other",
+        "Export": "0",
+        "Import": "7125"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen fillets of Cord Gadius morhua, Gadus ogac, Gadus macrocephalus",
+        "Export": "0",
+        "Import": "5949"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen fillets of Haddock Melanogrammus aeglefinus",
+        "Export": "0",
+        "Import": "601"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen fillets of Coalfish Pollachius virens",
+        "Export": "0",
+        "Import": "101"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen fillets of Hake Merluccius spp., Urophycis spp.",
+        "Export": "0",
+        "Import": "27777"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen fillets of Alaska Pollack Theraga chalcogramma",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen fillets of Other fish",
+        "Export": "100",
+        "Import": "24666"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen fillets of other fish - Pacific salmon Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Onchrhynchus masou and Oncorhynchus rhodurus, Atlantic salmon Salmo salar and Danube sal",
+        "Export": "0",
+        "Import": "5082"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen fillets of other fish -Trout Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen fillets of other fish - Flat fish Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae and Citharidae",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen fillets of other fish -Swordfish Xiphias gladius",
+        "Export": "0",
+        "Import": "129"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen fillets of other fish -Toothfish Dissostichus spp.",
+        "Export": "0",
+        "Import": "70"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen fillets of other fish -Herrings Clupea harengus, Clupea pallasii",
+        "Export": "0",
+        "Import": "11200"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen fillets of other fish -Tunas of the genus Thunnus, skipjack or stripe-bellied bonito Euthynnus Katsuwonus pelamis",
+        "Export": "24080",
+        "Import": "1598"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen fillets of other fish -- Dogfish, other sharks, rays and skates Rajidae",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen fillets of other fish - Other",
+        "Export": "0",
+        "Import": "111167"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other - Swordfish Xiphias gladius",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other -Toothfish Dissostichus spp.",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other, frozen- Tilapias Oreochromis spp., catfish Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp., carp , eels",
+        "Export": "108",
+        "Import": "66"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other, frozen- Alaska Pollack Theraga chalcogramma",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other, frozen- Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae, other than Alaska Pollack Theraga chalcogramma",
+        "Export": "34",
+        "Import": "358"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dogfish and other sharks",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Rays and skates Rajidae",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other",
+        "Export": "0",
+        "Import": "1112"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish meal fit for human consumption",
+        "Export": "503532",
+        "Import": "59549"
+    },
+    {
+        "Year": "2021",
+        "Items": "Livers and roes, dried, smoked, salted or in brine",
+        "Export": "1430",
+        "Import": "10"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, dried, salted or in brine smoked fish, whether or not cooked before or during the smoking process flours, meals and pellets of fish, fit for human consumption- Tilapias, catfish, Clarias spp., Ictalurus spp., carp , eels",
+        "Export": "87992",
+        "Import": "17630"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, dried, salted or in brine smoked fish, whether or not cooked before or during the smoking process flours, meals and pellets of fish, fit for human consumption- Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, etc",
+        "Export": "10210",
+        "Import": "5100"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, dried, salted or in brine smoked fish, whether or not cooked before or during the smoking process flours, meals and pellets of fish, fit for human consumption- Other",
+        "Export": "56219",
+        "Import": "1293357"
+    },
+    {
+        "Year": "2021",
+        "Items": "Smoked pacific, atlantic and danube salmon incl. fillets",
+        "Export": "0",
+        "Import": "2918"
+    },
+    {
+        "Year": "2021",
+        "Items": "Smoked herrings incl. fillets",
+        "Export": "7762",
+        "Import": "27780"
+    },
+    {
+        "Year": "2021",
+        "Items": "Smoked fish, including fillets, other than edible fish offal - Trout Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster",
+        "Export": "2062",
+        "Import": "23010"
+    },
+    {
+        "Year": "2021",
+        "Items": "Smoked fish, including fillets, other than edible fish offal - Tilapias Oreochromis spp., catfish, carp, eels Anguilla spp",
+        "Export": "2623",
+        "Import": "149"
+    },
+    {
+        "Year": "2021",
+        "Items": "Smoked fish excl. salmon and herrings",
+        "Export": "30259",
+        "Import": "52335"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dried cod, not smoked",
+        "Export": "648",
+        "Import": "86"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dried fish, other than edible fish offal, whether or not salted but not smoked Tilapias, catfish",
+        "Export": "12783",
+        "Import": "344"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dried fish, other than edible fish offal, salted or not but not smoked- Fish families Bregmacerotidae, Euclihthyidae, Gadidae, Macouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepidae, other than cod Gadus morhua, G. ogac, G. macrocephalus",
+        "Export": "120",
+        "Import": "158"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dried fish, other than edible fish offal, whether or not salted but not smokedHerrings Clupea harengus, Clupea pallasii, anchovies Eagraulis spp., sardines Sardina pilchardus, Sardinops spp., sardinella",
+        "Export": "2651",
+        "Import": "830"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dried fish, not smoked excl. cod",
+        "Export": "38918",
+        "Import": "296055"
+    },
+    {
+        "Year": "2021",
+        "Items": "Herrings salted or in brine but not dried or smoked",
+        "Export": "746",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cod salted or in brine but not dried or smoked",
+        "Export": "140",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Anchovies salted or in brine but not dried or smoked",
+        "Export": "297",
+        "Import": "38"
+    },
+    {
+        "Year": "2021",
+        "Items": "Smoked fish, including fillets, other than edible fish offal - Tilapias Oreochromis spp., catfish Pangasius spp., Silurus spp., Clarias spp., Ictalrurus spp., carp , eels Anguilla",
+        "Export": "394",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish salted or in brine but not dried or smoked - other, nes",
+        "Export": "6379",
+        "Import": "96"
+    },
+    {
+        "Year": "2021",
+        "Items": "Shark fins",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish heads, tails and maws -Cod head",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish heads, tails and maws - Other",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish fins, heads, tails, maws and other edible fish offal - Other",
+        "Export": "0",
+        "Import": "37"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen rock lobster and other sea crawfish",
+        "Export": "0",
+        "Import": "1732"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen lobsters",
+        "Export": "620",
+        "Import": "1307"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen crabs",
+        "Export": "0",
+        "Import": "1380"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen- Norway lobsters Nephrops norvegicus",
+        "Export": "0",
+        "Import": "129"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen- Cold-water shimps and prawns Pandalus spp., Crangon crangon",
+        "Export": "76",
+        "Import": "31"
+    },
+    {
+        "Year": "2021",
+        "Items": "Frozen- Other shrimps and prawns",
+        "Export": "127",
+        "Import": "184577"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Flours, meals and pellets",
+        "Export": "12731",
+        "Import": "73088"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other",
+        "Export": "987",
+        "Import": "4296"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live, fresh or chilled Rock lobster and other sea crawfish Palinurus spp., Panulirus spp., Jasus spp.",
+        "Export": "450",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live, fresh or chilled Lobsters Homarus spp.",
+        "Export": "70172",
+        "Import": "2714"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live, fresh or chilled Crabs",
+        "Export": "0",
+        "Import": "467"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live, fresh or chilled Norway lobsters Nephrops norvegicus",
+        "Export": "495",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live, fresh or chilled Cold-water shrimps and prawns Pandalus spp., Crangon crangon",
+        "Export": "0",
+        "Import": "263"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live, fresh or chilled Other shrimps and prawns",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live, fresh or chilled Other, including flours, meals and pellets of crustaceans, fit for human consumption- Flours, meals and pellets",
+        "Export": "810",
+        "Import": "72"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live, fresh or chilled Other, including flours, meals and pellets of crustaceans, fit for human consumption- Other",
+        "Export": "1700",
+        "Import": "74"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live, fresh or chilled Other, Rock lobster and other sea crawfish Palinurus spp., Panulirus spp., Jasus spp.",
+        "Export": "248",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live, fresh or chilled Other- Lobsters Homarus spp",
+        "Export": "1718",
+        "Import": "51"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live, fresh or chilled Other - Crabs",
+        "Export": "0",
+        "Import": "568"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live, fresh or chilled Other- Norway lobsters Nephrops norvegicus",
+        "Export": "420",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live, fresh or chilled Other- Shrimps and prawns",
+        "Export": "0",
+        "Import": "25164"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other, including flours, meals and pellets of crustaceans, fit for human consumption- Flours, meals and pellets",
+        "Export": "23010",
+        "Import": "4483"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other, including flours, meals and pellets of crustaceans, fit for human consumption- Other",
+        "Export": "36554",
+        "Import": "1850"
+    },
+    {
+        "Year": "2021",
+        "Items": "Oysters - Live, fresh or chilled",
+        "Export": "0",
+        "Import": "1992"
+    },
+    {
+        "Year": "2021",
+        "Items": "Oysters Frozen",
+        "Export": "0",
+        "Import": "252"
+    },
+    {
+        "Year": "2021",
+        "Items": "Oysters - Other",
+        "Export": "20",
+        "Import": "384"
+    },
+    {
+        "Year": "2021",
+        "Items": "Scallops, live, fresh or chilled",
+        "Export": "0",
+        "Import": "1153"
+    },
+    {
+        "Year": "2021",
+        "Items": "Molluscs in shell or not, live, fresh, chilled, dried, salted or in brine, smoked molluscs in shell or not, cooked or not before or during smoking, pellets of molluscs, fit for consumption, Scallops, of genera Pecten, Chlamys or Placopecten, Frozen",
+        "Export": "27",
+        "Import": "108"
+    },
+    {
+        "Year": "2021",
+        "Items": "Scallops excl. live, fresh or chilled",
+        "Export": "0",
+        "Import": "100"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mussels, live, fresh or chilled",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mussels Mytilus spp., Perna spp. Frozen",
+        "Export": "1560",
+        "Import": "776"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mussels excl. live, fresh or chilled",
+        "Export": "0",
+        "Import": "2477"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cuttle fish and squid Live, fresh or chilled",
+        "Export": "0",
+        "Import": "225"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cuttle fish and squid, Frozen",
+        "Export": "1984472",
+        "Import": "52089"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cuttle fish and squid excl. live, fresh or chilled",
+        "Export": "1196051",
+        "Import": "20429"
+    },
+    {
+        "Year": "2021",
+        "Items": "Octopus live, fresh or chilled",
+        "Export": "101879",
+        "Import": "9170"
+    },
+    {
+        "Year": "2021",
+        "Items": "Octopus Octopus spp. - Frozen",
+        "Export": "493531",
+        "Import": "84960"
+    },
+    {
+        "Year": "2021",
+        "Items": "Octopus excl. live, fresh or chilled",
+        "Export": "2023",
+        "Import": "2000"
+    },
+    {
+        "Year": "2021",
+        "Items": "Snails other than sea snails",
+        "Export": "3471",
+        "Import": "230742"
+    },
+    {
+        "Year": "2021",
+        "Items": "Clams, cockles and ark shells families Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae, Tridacnidae and Veneridae - Frozen",
+        "Export": "0",
+        "Import": "167"
+    },
+    {
+        "Year": "2021",
+        "Items": "Clams, cockles and ark shells- Other",
+        "Export": "12",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other abalone Haliotis spp.",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Aquatic invertibrates, nes, live, fresh or chilled",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine smoked molluscs, whether or not cooked before or during the smoking processOther, including flours, meals and pellets, fit for human consumption. Frozen",
+        "Export": "1560",
+        "Import": "66"
+    },
+    {
+        "Year": "2021",
+        "Items": "Aquatic invertibrates, nes excl. live, fresh or chilled",
+        "Export": "0",
+        "Import": "704"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sea cucumbers Stichopus japonicas, Holothurioidea - Live, fresh or chilled",
+        "Export": "0",
+        "Import": "66"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sea cucumbers Stichopus japonicas, Holothurioidea - Other",
+        "Export": "0",
+        "Import": "350"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sea urchins Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echichinus esculentus - Live, fresh or chilled",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "MilkCream, not concentrated, not sweetened, fat 1",
+        "Export": "35283",
+        "Import": "322616"
+    },
+    {
+        "Year": "2021",
+        "Items": "MilkCream, not concentrated, not sweetened, fat 1 but 6",
+        "Export": "7990",
+        "Import": "2637124"
+    },
+    {
+        "Year": "2021",
+        "Items": "Milk and cream, not concentrated nor containing added sugar or other sweetening matter- Of a fat content, by weight, exceeding 6 but not exceeding 10",
+        "Export": "207",
+        "Import": "286425"
+    },
+    {
+        "Year": "2021",
+        "Items": "Milk and cream, not concentrated nor containing added sugar or other sweetening matter- Of a fat content, by weight, exceeding 10",
+        "Export": "717",
+        "Import": "182104"
+    },
+    {
+        "Year": "2021",
+        "Items": "MilkCream, sweetened, solid, fat 1.5, pkg 25kg",
+        "Export": "28470",
+        "Import": "11476664"
+    },
+    {
+        "Year": "2021",
+        "Items": "MilkCream, sweetened, solid, fat 1.5, pkg 25kg, for pharmacist",
+        "Export": "25",
+        "Import": "2000"
+    },
+    {
+        "Year": "2021",
+        "Items": "MilkCream, sweetened, solid, fat1.5, pkg25kg - other, nes",
+        "Export": "140037",
+        "Import": "271761"
+    },
+    {
+        "Year": "2021",
+        "Items": "MilkCream, not sweetened, solid, fat 1.5, pkg 25kg",
+        "Export": "350758",
+        "Import": "942557"
+    },
+    {
+        "Year": "2021",
+        "Items": "MilkCream, not sweetened, solid, fat 1.5, pkg 25kg, for pharmacist",
+        "Export": "0",
+        "Import": "42"
+    },
+    {
+        "Year": "2021",
+        "Items": "MilkCream, not sweetened, solid, fat 1.5, pkg 25kg - other, nes",
+        "Export": "21922",
+        "Import": "501133"
+    },
+    {
+        "Year": "2021",
+        "Items": "MilkCream, pkg 25 kg - other, nes",
+        "Export": "4165",
+        "Import": "678884"
+    },
+    {
+        "Year": "2021",
+        "Items": "MilkCream, pkg 25 kg, for pharmacist - other, nes",
+        "Export": "0",
+        "Import": "921"
+    },
+    {
+        "Year": "2021",
+        "Items": "MilkCream, pkg 25 kg - other, nes",
+        "Export": "540",
+        "Import": "266125"
+    },
+    {
+        "Year": "2021",
+        "Items": "Milk and cream, not concentrated nor containing added sugar or other sweetening matter- Other, In packings not less than 25 kg",
+        "Export": "1336",
+        "Import": "6856147"
+    },
+    {
+        "Year": "2021",
+        "Items": "In packings of less than 25 kg",
+        "Export": "2576300",
+        "Import": "1959130"
+    },
+    {
+        "Year": "2021",
+        "Items": "MilkCream, not solid - other, nes",
+        "Export": "118480",
+        "Import": "13466460"
+    },
+    {
+        "Year": "2021",
+        "Items": "Yogurt- nature",
+        "Export": "6203019",
+        "Import": "183839"
+    },
+    {
+        "Year": "2021",
+        "Items": "Yogurt- containing added fruit",
+        "Export": "145",
+        "Import": "225328"
+    },
+    {
+        "Year": "2021",
+        "Items": "Yogurt- containing added cocoa",
+        "Export": "109",
+        "Import": "217"
+    },
+    {
+        "Year": "2021",
+        "Items": "Yogurt - other, nes",
+        "Export": "402",
+        "Import": "1123580"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Butter milk - In powder form",
+        "Export": "624",
+        "Import": "113873"
+    },
+    {
+        "Year": "2021",
+        "Items": "Butter milk - Other",
+        "Export": "98",
+        "Import": "2090"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other Butter milk - In powder form",
+        "Export": "514",
+        "Import": "733"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other Butter milk -Other",
+        "Export": "1220",
+        "Import": "13397"
+    },
+    {
+        "Year": "2021",
+        "Items": "Whey",
+        "Export": "50330",
+        "Import": "7733846"
+    },
+    {
+        "Year": "2021",
+        "Items": "Products consisting of natural milk constituents, nes",
+        "Export": "12004",
+        "Import": "44956"
+    },
+    {
+        "Year": "2021",
+        "Items": "Butter",
+        "Export": "185673",
+        "Import": "527848"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dairy spreads",
+        "Export": "0",
+        "Import": "2420"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other- Butter fat and butter oil",
+        "Export": "953129",
+        "Import": "5135"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other- Butter fat and butter oil, Other",
+        "Export": "249493",
+        "Import": "421746"
+    },
+    {
+        "Year": "2021",
+        "Items": "Unfermented fresh cheese, and curd",
+        "Export": "0",
+        "Import": "129845"
+    },
+    {
+        "Year": "2021",
+        "Items": "Grated or powdered cheese",
+        "Export": "5",
+        "Import": "200892"
+    },
+    {
+        "Year": "2021",
+        "Items": "Processed cheese, not grated or powdered",
+        "Export": "0",
+        "Import": "152527"
+    },
+    {
+        "Year": "2021",
+        "Items": "Blue-veined cheese",
+        "Export": "0",
+        "Import": "1589"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cheese, nes",
+        "Export": "30",
+        "Import": "1237955"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fertilised eggs for incubation- Of fowls of the species Gallus domesticus",
+        "Export": "0",
+        "Import": "16886"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fertilised eggs for incubation- Other",
+        "Export": "0",
+        "Import": "928"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other fresh eggs - Of fowls of the species Gallus domesticus",
+        "Export": "25",
+        "Import": "5681"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other fresh eggs - Other",
+        "Export": "250",
+        "Import": "13493"
+    },
+    {
+        "Year": "2021",
+        "Items": "Others- Not Fertilised eggs for incubation, not Other fresh eggs",
+        "Export": "0",
+        "Import": "254"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dried egg yolks",
+        "Export": "2",
+        "Import": "4879"
+    },
+    {
+        "Year": "2021",
+        "Items": "Egg yolks excl. dried",
+        "Export": "0",
+        "Import": "1663"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dried birds eggs, not in shell",
+        "Export": "0",
+        "Import": "26218"
+    },
+    {
+        "Year": "2021",
+        "Items": "Birds eggs, not in shell excl. dried",
+        "Export": "348",
+        "Import": "514"
+    },
+    {
+        "Year": "2021",
+        "Items": "Natural honey",
+        "Export": "4841",
+        "Import": "70239"
+    },
+    {
+        "Year": "2021",
+        "Items": "Edible products of animal origin, nes",
+        "Export": "0",
+        "Import": "392"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Human hair and waste, unworked",
+        "Export": "32855",
+        "Import": "67080"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pigs, hogs, or boars bristles or hair",
+        "Export": "0",
+        "Import": "3880"
+    },
+    {
+        "Year": "2021",
+        "Items": "Badger and other brush making hair",
+        "Export": "70",
+        "Import": "787"
+    },
+    {
+        "Year": "2021",
+        "Items": "Guts, bladders and stomachs of animals excl. fish",
+        "Export": "0",
+        "Import": "53545791"
+    },
+    {
+        "Year": "2021",
+        "Items": "Raw feathers for stuffing down",
+        "Export": "0",
+        "Import": "515"
+    },
+    {
+        "Year": "2021",
+        "Items": "Skins and parts of birds excl. feathers for stuffing down",
+        "Export": "0",
+        "Import": "165"
+    },
+    {
+        "Year": "2021",
+        "Items": "Bones and horn-cores excl. ossein...",
+        "Export": "15315",
+        "Import": "254"
+    },
+    {
+        "Year": "2021",
+        "Items": "The tusks of the elephant",
+        "Export": "0",
+        "Import": "1"
+    },
+    {
+        "Year": "2021",
+        "Items": "Ivory including powder and waste - other, nes",
+        "Export": "77",
+        "Import": "240"
+    },
+    {
+        "Year": "2021",
+        "Items": "Tortoise-shell, whalebone and whalebone-hair, etc, unworked",
+        "Export": "30780",
+        "Import": "153"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coral shells of molluscs, crustaceans, unworked",
+        "Export": "6730",
+        "Import": "1354"
+    },
+    {
+        "Year": "2021",
+        "Items": "Ambergris, castoreum, civet and musk cantharides etc",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Bovine semen",
+        "Export": "10",
+        "Import": "52"
+    },
+    {
+        "Year": "2021",
+        "Items": "Products offish, etc dead animals of chapter 3",
+        "Export": "33",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Animal products, nes dead animals of chapter 1",
+        "Export": "409",
+        "Import": "16"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dormant bulbs, tubers... rhizomes",
+        "Export": "200",
+        "Import": "3542"
+    },
+    {
+        "Year": "2021",
+        "Items": "Bulbs, tubers... rhizomes in growth or flower chicory plants and roots",
+        "Export": "563",
+        "Import": "758"
+    },
+    {
+        "Year": "2021",
+        "Items": "Unrooted cuttings and slips",
+        "Export": "0",
+        "Import": "786"
+    },
+    {
+        "Year": "2021",
+        "Items": "Edible fruits or nut trees, shrubs and bushes",
+        "Export": "286151",
+        "Import": "341"
+    },
+    {
+        "Year": "2021",
+        "Items": "Roses",
+        "Export": "0",
+        "Import": "871"
+    },
+    {
+        "Year": "2021",
+        "Items": "Live plants - other, nes",
+        "Export": "55379",
+        "Import": "83856"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh cut flowers and buds Roses",
+        "Export": "10",
+        "Import": "20867"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh cut flowers and budsCarnations",
+        "Export": "0",
+        "Import": "1129"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh cut flowers and budsOrchids",
+        "Export": "0",
+        "Import": "1852"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh cut flowers and budsChrysanthemums",
+        "Export": "15",
+        "Import": "7983"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh Lillies Lilium spp.",
+        "Export": "0",
+        "Import": "528"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other",
+        "Export": "412302",
+        "Import": "39583"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dried, dyed, bleached or otherwise prepared cut flowers and buds",
+        "Export": "1107",
+        "Import": "2153"
+    },
+    {
+        "Year": "2021",
+        "Items": "Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens, being goods of a kind suitable for bouquets, fresh, dried, dyed, bleached, impregnated or otherwise prepared- Fresh",
+        "Export": "7025",
+        "Import": "2436"
+    },
+    {
+        "Year": "2021",
+        "Items": "Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens, being goods of a kind suitable for bouquets, fresh, dried, dyed, bleached, impregnated or otherwise prepared- Other",
+        "Export": "44624",
+        "Import": "40930"
+    },
+    {
+        "Year": "2021",
+        "Items": "Seed potatoes",
+        "Export": "10",
+        "Import": "342"
+    },
+    {
+        "Year": "2021",
+        "Items": "Potatoes, fresh or chilled - other, nes",
+        "Export": "1666",
+        "Import": "2826195"
+    },
+    {
+        "Year": "2021",
+        "Items": "Tomatoes - fresh or chilled",
+        "Export": "440",
+        "Import": "4762264"
+    },
+    {
+        "Year": "2021",
+        "Items": "Onions and shallots, fresh or chilled",
+        "Export": "1782446",
+        "Import": "19867411"
+    },
+    {
+        "Year": "2021",
+        "Items": "Garlic, fresh or chilled",
+        "Export": "5158",
+        "Import": "6559982"
+    },
+    {
+        "Year": "2021",
+        "Items": "Leeks and alliaceous vegetables - other, nes",
+        "Export": "7692",
+        "Import": "11896"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cauliflowers and headed broccoli, fresh or chilled",
+        "Export": "0",
+        "Import": "54258"
+    },
+    {
+        "Year": "2021",
+        "Items": "Brussels sprouts, fresh or chilled",
+        "Export": "0",
+        "Import": "4623"
+    },
+    {
+        "Year": "2021",
+        "Items": "White and red cabbages, kohlrabi, kale...etc, fresh or chilled",
+        "Export": "0",
+        "Import": "129629"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cabbage lettuce, fresh or chilled",
+        "Export": "0",
+        "Import": "26073"
+    },
+    {
+        "Year": "2021",
+        "Items": "Lettuce, fresh or chilled, excl. cabbage lettuce",
+        "Export": "0",
+        "Import": "48957"
+    },
+    {
+        "Year": "2021",
+        "Items": "Witloof chicory, fresh or chilled",
+        "Export": "0",
+        "Import": "1364"
+    },
+    {
+        "Year": "2021",
+        "Items": "Chicory, fresh or chilled, excl. witloof",
+        "Export": "0",
+        "Import": "53"
+    },
+    {
+        "Year": "2021",
+        "Items": "Carrots and turnips, fresh or chilled",
+        "Export": "0",
+        "Import": "3032511"
+    },
+    {
+        "Year": "2021",
+        "Items": "Beetroot...radishes and other similar edible roots, fresh or chilled",
+        "Export": "0",
+        "Import": "21934"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cucumbers and gherkins, fresh or chilled",
+        "Export": "0",
+        "Import": "5040"
+    },
+    {
+        "Year": "2021",
+        "Items": "Peas, fresh or chilled",
+        "Export": "0",
+        "Import": "15275"
+    },
+    {
+        "Year": "2021",
+        "Items": "Beans, fresh or chilled",
+        "Export": "427226",
+        "Import": "1271265"
+    },
+    {
+        "Year": "2021",
+        "Items": "Leguminous vegetables, fresh or chilled, nes",
+        "Export": "10407",
+        "Import": "248"
+    },
+    {
+        "Year": "2021",
+        "Items": "Asparagus, fresh or chilled",
+        "Export": "1466",
+        "Import": "6695"
+    },
+    {
+        "Year": "2021",
+        "Items": "Aubergines, fresh or chilled",
+        "Export": "155404",
+        "Import": "59890"
+    },
+    {
+        "Year": "2021",
+        "Items": "Celery, fresh or chilled",
+        "Export": "0",
+        "Import": "32097"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mushrooms, fresh or chilled",
+        "Export": "35",
+        "Import": "33011"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other mushrooms",
+        "Export": "2200",
+        "Import": "24673"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fruits of genus capiscum or pimenta, fresh or chilled",
+        "Export": "0",
+        "Import": "92568"
+    },
+    {
+        "Year": "2021",
+        "Items": "Spinach, fresh or chilled",
+        "Export": "222760",
+        "Import": "6339"
+    },
+    {
+        "Year": "2021",
+        "Items": "Globe artichokes",
+        "Export": "2",
+        "Import": "2051"
+    },
+    {
+        "Year": "2021",
+        "Items": "Olives",
+        "Export": "248",
+        "Import": "5011"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pumpkins, squash and gourds Cucurbita spp.",
+        "Export": "6755",
+        "Import": "4120"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sweet corn",
+        "Export": "2184",
+        "Import": "40992"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other, not sweetcorn",
+        "Export": "13318",
+        "Import": "13230"
+    },
+    {
+        "Year": "2021",
+        "Items": "Potatoes, frozen",
+        "Export": "650",
+        "Import": "382884"
+    },
+    {
+        "Year": "2021",
+        "Items": "Shelled or unshelled peas, frozen",
+        "Export": "0",
+        "Import": "88279"
+    },
+    {
+        "Year": "2021",
+        "Items": "Shelled or unshelled beans, frozen",
+        "Export": "0",
+        "Import": "120590"
+    },
+    {
+        "Year": "2021",
+        "Items": "Leguminous vegetables, shelled or unshelled, frozen, nes",
+        "Export": "649",
+        "Import": "4946"
+    },
+    {
+        "Year": "2021",
+        "Items": "Spinach, frozen",
+        "Export": "202",
+        "Import": "31391"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sweet corn, frozen",
+        "Export": "1073",
+        "Import": "64380"
+    },
+    {
+        "Year": "2021",
+        "Items": "Vegetables, frozen, nes",
+        "Export": "437812",
+        "Import": "174966"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mixtures of vegetables, frozen",
+        "Export": "11368",
+        "Import": "141230"
+    },
+    {
+        "Year": "2021",
+        "Items": "Olives provisionally preserved, not for immediate consumption",
+        "Export": "0",
+        "Import": "23910"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cucumbers and gherkins provisionally preserved",
+        "Export": "0",
+        "Import": "1240"
+    },
+    {
+        "Year": "2021",
+        "Items": "provisionally preserved ,Mushrooms of the genus Agaricus",
+        "Export": "0",
+        "Import": "25568"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other",
+        "Export": "0",
+        "Import": "1021"
+    },
+    {
+        "Year": "2021",
+        "Items": "Vegetables and mixture of vegetables provisionally preserved - other, nes",
+        "Export": "36494",
+        "Import": "14948"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dried onions",
+        "Export": "13351",
+        "Import": "52137"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mushrooms of the genus Agaricus",
+        "Export": "0",
+        "Import": "1894"
+    },
+    {
+        "Year": "2021",
+        "Items": "Wood ears",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Jelly fungi",
+        "Export": "0",
+        "Import": "93"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other mushrooms",
+        "Export": "1",
+        "Import": "6279"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dried vegetables, nes",
+        "Export": "13211",
+        "Import": "19164"
+    },
+    {
+        "Year": "2021",
+        "Items": "Peas Pisum sativum - Seeds",
+        "Export": "56",
+        "Import": "102565"
+    },
+    {
+        "Year": "2021",
+        "Items": "Peas Pisum sativum - Other",
+        "Export": "100",
+        "Import": "11995"
+    },
+    {
+        "Year": "2021",
+        "Items": "Chickpeas garbanzos - Seeds",
+        "Export": "0",
+        "Import": "10012"
+    },
+    {
+        "Year": "2021",
+        "Items": "Chickpeas garbanzos - Other",
+        "Export": "0",
+        "Import": "36449"
+    },
+    {
+        "Year": "2021",
+        "Items": "Beans of the species Vigna mungo L. Hepper or Vigna quine L. Wilczek - Seeds",
+        "Export": "43415",
+        "Import": "2419"
+    },
+    {
+        "Year": "2021",
+        "Items": "Beans of the species Vigna mungo L. Hepper or Vigna quine L. Wilczek - Other",
+        "Export": "1563",
+        "Import": "4440"
+    },
+    {
+        "Year": "2021",
+        "Items": "Small red Adzuki beans Phaseolus or Vigna angularis- Seeds",
+        "Export": "2",
+        "Import": "272"
+    },
+    {
+        "Year": "2021",
+        "Items": "Small red Adzuki beans Phaseolus or Vigna angularis- Other",
+        "Export": "1921",
+        "Import": "174"
+    },
+    {
+        "Year": "2021",
+        "Items": "Kidney beans, including white pea beans Phaseolus vulgaris - Seeds",
+        "Export": "0",
+        "Import": "3040"
+    },
+    {
+        "Year": "2021",
+        "Items": "Kidney beans, including white pea beans Phaseolus vulgaris - Other",
+        "Export": "350",
+        "Import": "57378"
+    },
+    {
+        "Year": "2021",
+        "Items": "Bambara beans Vigna subterranean or Voandzeia substerranea - Seeds",
+        "Export": "1386",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Bambara beans Vigna subterranean or Voandzeia substerranea - Other",
+        "Export": "18429",
+        "Import": "18"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cow peas Vigna unguiculata - Seeds",
+        "Export": "0",
+        "Import": "32541"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cow peas Vigna unguiculata - Other",
+        "Export": "40",
+        "Import": "377371"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dried beans, shelled, nes",
+        "Export": "11794",
+        "Import": "36224"
+    },
+    {
+        "Year": "2021",
+        "Items": "Lentils - Seeds",
+        "Export": "0",
+        "Import": "7049"
+    },
+    {
+        "Year": "2021",
+        "Items": "Lentils - Other",
+        "Export": "0",
+        "Import": "28481"
+    },
+    {
+        "Year": "2021",
+        "Items": "Broad beans Vicia faba var. Major and horse beans Vicia faba var. quine, Vicia faba var. Minor - Seeds",
+        "Export": "1307500",
+        "Import": "343"
+    },
+    {
+        "Year": "2021",
+        "Items": "Broad beans Vicia faba var. Major and horse beans Vicia faba var. quine, Vicia faba var. Minor - Other",
+        "Export": "0",
+        "Import": "1122"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pigeon peas Cajanus cajan - Seeds",
+        "Export": "0",
+        "Import": "1378"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pigeon peas Cajanus cajan -Other",
+        "Export": "0",
+        "Import": "752"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dried leguminous vegetables, shelled, nes",
+        "Export": "478",
+        "Import": "68956"
+    },
+    {
+        "Year": "2021",
+        "Items": "Manioc, fresh or dried",
+        "Export": "501312",
+        "Import": "1200"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sweet potatoes, fresh or dried",
+        "Export": "23345",
+        "Import": "65263"
+    },
+    {
+        "Year": "2021",
+        "Items": "Yams Dioscorea spp.",
+        "Export": "22778652",
+        "Import": "48438"
+    },
+    {
+        "Year": "2021",
+        "Items": "Taro Colocasia spp.",
+        "Export": "418",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Yautia Xanthosoma spp.",
+        "Export": "856",
+        "Import": "50"
+    },
+    {
+        "Year": "2021",
+        "Items": "Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets sago pith- Other",
+        "Export": "367",
+        "Import": "35118"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coconuts, dessicated",
+        "Export": "7998579",
+        "Import": "65688"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coconuts - In the inner shell endocarp",
+        "Export": "935393",
+        "Import": "77526"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coconuts, not dessicated",
+        "Export": "25495901",
+        "Import": "121312"
+    },
+    {
+        "Year": "2021",
+        "Items": "Brazil nuts, in shell",
+        "Export": "202",
+        "Import": "241"
+    },
+    {
+        "Year": "2021",
+        "Items": "Brazil nuts, shelled",
+        "Export": "120",
+        "Import": "512"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cashew nuts, in shell",
+        "Export": "245706263",
+        "Import": "995"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cashew nuts, shelled",
+        "Export": "58320014",
+        "Import": "18568"
+    },
+    {
+        "Year": "2021",
+        "Items": "Almonds in shell, fresh or dried",
+        "Export": "0",
+        "Import": "2981"
+    },
+    {
+        "Year": "2021",
+        "Items": "Almonds without shells, fresh or dried",
+        "Export": "0",
+        "Import": "67490"
+    },
+    {
+        "Year": "2021",
+        "Items": "Hazlenuts in shell, fresh or dried",
+        "Export": "3708",
+        "Import": "384"
+    },
+    {
+        "Year": "2021",
+        "Items": "Hazlenuts without shells, fresh or dried",
+        "Export": "118",
+        "Import": "730"
+    },
+    {
+        "Year": "2021",
+        "Items": "Walnuts in shell, fresh or dried",
+        "Export": "70",
+        "Import": "2966"
+    },
+    {
+        "Year": "2021",
+        "Items": "Walnuts without shells, fresh or dried",
+        "Export": "0",
+        "Import": "4748"
+    },
+    {
+        "Year": "2021",
+        "Items": "Chestnuts Castanea spp. - In shell",
+        "Export": "0",
+        "Import": "2616"
+    },
+    {
+        "Year": "2021",
+        "Items": "Chestnuts Castanea spp. - Shelled",
+        "Export": "0",
+        "Import": "3489"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pistachios - In shell",
+        "Export": "0",
+        "Import": "1521"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pistachios - Shelled",
+        "Export": "0",
+        "Import": "541"
+    },
+    {
+        "Year": "2021",
+        "Items": "Macadamia nuts - In shell",
+        "Export": "0",
+        "Import": "10"
+    },
+    {
+        "Year": "2021",
+        "Items": "Macadamia nuts - Shelled",
+        "Export": "0",
+        "Import": "143"
+    },
+    {
+        "Year": "2021",
+        "Items": "Kola nuts Cola spp.",
+        "Export": "1411215",
+        "Import": "465002"
+    },
+    {
+        "Year": "2021",
+        "Items": "Areca nuts",
+        "Export": "0",
+        "Import": "64"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other nuts, fresh or dried, whether or not shelled or peeled- Other",
+        "Export": "33722",
+        "Import": "50254"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Plantains - Fresh",
+        "Export": "199504",
+        "Import": "28"
+    },
+    {
+        "Year": "2021",
+        "Items": "Plantains - Dried",
+        "Export": "362254",
+        "Import": "71"
+    },
+    {
+        "Year": "2021",
+        "Items": "Bananas, including plantain, fresh or dried Other Fresh",
+        "Export": "73975795",
+        "Import": "325"
+    },
+    {
+        "Year": "2021",
+        "Items": "Bananas, including plantain, fresh or dried Other dried",
+        "Export": "271223",
+        "Import": "6"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dates, fresh or dried",
+        "Export": "0",
+        "Import": "280938"
+    },
+    {
+        "Year": "2021",
+        "Items": "Figs, fresh or dried",
+        "Export": "0",
+        "Import": "2146"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pineapples, fresh or dried",
+        "Export": "8278708",
+        "Import": "113379"
+    },
+    {
+        "Year": "2021",
+        "Items": "Avocados, fresh or dried",
+        "Export": "5289",
+        "Import": "3146"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mangoes",
+        "Export": "11007306",
+        "Import": "14722189"
+    },
+    {
+        "Year": "2021",
+        "Items": "Guavas, mangoes and mangosteens - other, nes",
+        "Export": "10370",
+        "Import": "14643"
+    },
+    {
+        "Year": "2021",
+        "Items": "Oranges, fresh or dried",
+        "Export": "4834614",
+        "Import": "333631"
+    },
+    {
+        "Year": "2021",
+        "Items": "Citrus fruit, fresh or dried, Mandarins including tangerines and satsumas, clementines, wilkings and similar citrus hybrids, Mandarins including tangerines and satsumas",
+        "Export": "9320",
+        "Import": "533168"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mandarins including tangerines and satsumas clementines, wilkings and similar citrus hybrids- Clementines",
+        "Export": "0",
+        "Import": "100812"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mandarins including tangerines and satsumas clementines, wilkings and similar citrus hybrids- Other",
+        "Export": "0",
+        "Import": "66713"
+    },
+    {
+        "Year": "2021",
+        "Items": "Grapefruit, fresh or dried",
+        "Export": "190",
+        "Import": "50016"
+    },
+    {
+        "Year": "2021",
+        "Items": "Lemons and limes, fresh or dried",
+        "Export": "53878",
+        "Import": "126404"
+    },
+    {
+        "Year": "2021",
+        "Items": "Citrus fruit, fresh or dried, nes",
+        "Export": "30",
+        "Import": "55310"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fresh grapes",
+        "Export": "0",
+        "Import": "1799087"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dried grapes",
+        "Export": "0",
+        "Import": "20832"
+    },
+    {
+        "Year": "2021",
+        "Items": "Melons, fresh - other, nes",
+        "Export": "9778",
+        "Import": "17256"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other",
+        "Export": "0",
+        "Import": "6434"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pawpaws papayas, fresh",
+        "Export": "563589",
+        "Import": "40"
+    },
+    {
+        "Year": "2021",
+        "Items": "Apples, fresh",
+        "Export": "74",
+        "Import": "12777618"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pears",
+        "Export": "4077",
+        "Import": "419931"
+    },
+    {
+        "Year": "2021",
+        "Items": "Quinces",
+        "Export": "0",
+        "Import": "26"
+    },
+    {
+        "Year": "2021",
+        "Items": "Apricots, fresh",
+        "Export": "0",
+        "Import": "1340"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sour cherries Prunus cerasus",
+        "Export": "0",
+        "Import": "532"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cherries - Other",
+        "Export": "0",
+        "Import": "2631"
+    },
+    {
+        "Year": "2021",
+        "Items": "Peaches, including nectarines, fresh",
+        "Export": "0",
+        "Import": "8894"
+    },
+    {
+        "Year": "2021",
+        "Items": "Plums and sloes, fresh",
+        "Export": "0",
+        "Import": "55277"
+    },
+    {
+        "Year": "2021",
+        "Items": "Strawberries, fresh",
+        "Export": "396",
+        "Import": "39331"
+    },
+    {
+        "Year": "2021",
+        "Items": "Raspberries, blackberries, mulberries and loganberries, fresh",
+        "Export": "510",
+        "Import": "14743"
+    },
+    {
+        "Year": "2021",
+        "Items": "Black, white or red currants and gooseberries, fresh",
+        "Export": "101",
+        "Import": "3669"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cranberries, milberries...etc, fresh",
+        "Export": "466",
+        "Import": "17463"
+    },
+    {
+        "Year": "2021",
+        "Items": "Kiwi fruit, fresh",
+        "Export": "97",
+        "Import": "62487"
+    },
+    {
+        "Year": "2021",
+        "Items": "Durian",
+        "Export": "0",
+        "Import": "1427"
+    },
+    {
+        "Year": "2021",
+        "Items": "Persimmons",
+        "Export": "0",
+        "Import": "1081"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fruit, fresh - other, nes",
+        "Export": "1777721",
+        "Import": "343021"
+    },
+    {
+        "Year": "2021",
+        "Items": "Strawberries, frozen",
+        "Export": "376",
+        "Import": "35459"
+    },
+    {
+        "Year": "2021",
+        "Items": "Raspberries, blackberries...etc, frozen",
+        "Export": "595",
+        "Import": "4517"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fruit and nuts, frozen - other, nes",
+        "Export": "8521",
+        "Import": "25773"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cherries, provisionally preserved, not for immediate consumption",
+        "Export": "0",
+        "Import": "398"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fruit and nuts, provisionally preserved, not for immediate consumption",
+        "Export": "50",
+        "Import": "694"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dried apricots",
+        "Export": "0",
+        "Import": "1631"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dried prunes",
+        "Export": "0",
+        "Import": "1388"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dried apples",
+        "Export": "0",
+        "Import": "127"
+    },
+    {
+        "Year": "2021",
+        "Items": "Tamarind",
+        "Export": "320246",
+        "Import": "1420"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fruit, drief, not of hdg 08.01 to 08.06 - other, nes",
+        "Export": "926",
+        "Import": "7940"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mixtures of dried fruit and nuts, nes",
+        "Export": "177275",
+        "Import": "18733"
+    },
+    {
+        "Year": "2021",
+        "Items": "Peel of citrus fruit or melons, fresh,frozen, dried...etc.",
+        "Export": "259250",
+        "Import": "403"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, unroasted, undecaf, arabica, cherry-red",
+        "Export": "14",
+        "Import": "9881"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, not roasted Not decaffeinated Arabica- Extra-prima, prima, superior",
+        "Export": "13",
+        "Import": "1425"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, not roasted Not decaffeinated Arabica- Normal, small, very small sized",
+        "Export": "2",
+        "Import": "1138"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, unroasted, undecaf, arabica - other, nes",
+        "Export": "13672",
+        "Import": "29897"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, unroasted, undecaf, robusta, cherry-red",
+        "Export": "151270",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, not roasted Not decaffeinated Robusta - Extra-prima, prima, superior excellent grade zero",
+        "Export": "0",
+        "Import": "3"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, not roasted Not decaffeinated Robusta - Extra prima, normal excellent, small, very small sized grade four",
+        "Export": "70",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, not roasted Not decaffeinated Robusta- Extra prima, prima, superior - Grade one",
+        "Export": "0",
+        "Import": "1414"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, not roasted Not decaffeinated Robusta- Extra prima, prima, superior - Grade two",
+        "Export": "0",
+        "Import": "16"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, not roasted Not decaffeinated Robusta- Extra prima, prima, superior - Grade three",
+        "Export": "0",
+        "Import": "605"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, not roasted Not decaffeinated Robusta- Normal, small, very small sized - Grade one",
+        "Export": "0",
+        "Import": "1"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, not roasted Not decaffeinated Robusta- Normal, small, very small sized - Other",
+        "Export": "0",
+        "Import": "11"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, unroasted, undecaf, robusta, normal, small, very small sized",
+        "Export": "0",
+        "Import": "5301"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, not roasted Not decaffeinated Robusta- Normal, small, very small sized - black coffee",
+        "Export": "0",
+        "Import": "1902"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, unroasted, undecaf, robusta - other, nes",
+        "Export": "3",
+        "Import": "248"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, not roasted Not decaffeinated Arabusta- Extra-prima, prima, superior",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, not roasted Not decaffeinated Arabusta- Normal, small, very small sized",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, unroasted, undecaf, arabusta, extra-prima, prima, superior",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, not roasted Not decaffeinated Liberica- Extra-prima, prima, superior",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, not roasted Not decaffeinated Liberica- Normal, small, very small sized",
+        "Export": "0",
+        "Import": "176"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, unroasted, undecaf, cherry-red - other, nes",
+        "Export": "0",
+        "Import": "1757"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, not roasted Not decaffeinated Other types- Extra-prima, prima, superior",
+        "Export": "0",
+        "Import": "50"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, not roasted Not decaffeinated Other types- Normal, small, very small sized",
+        "Export": "0",
+        "Import": "70"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, unroasted, undecaf, extra-prima, prima, superior - other, nes",
+        "Export": "0",
+        "Import": "1966"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, unroasted, decaf, robusta",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, unroasted, decaf - other, nes",
+        "Export": "0",
+        "Import": "2108"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, roasted, undecaf, uncrushed",
+        "Export": "30",
+        "Import": "5146"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, roasted, undecaf, crushed",
+        "Export": "0",
+        "Import": "34418"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee, not roasted decaffeinated uncrushed",
+        "Export": "0",
+        "Import": "1745"
+    },
+    {
+        "Year": "2021",
+        "Items": "Crushed",
+        "Export": "0",
+        "Import": "1852"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coffee - other, nes",
+        "Export": "135",
+        "Import": "44850"
+    },
+    {
+        "Year": "2021",
+        "Items": "Green tea in immediate packings",
+        "Export": "514",
+        "Import": "144173"
+    },
+    {
+        "Year": "2021",
+        "Items": "Green tea, nes",
+        "Export": "55383",
+        "Import": "234595"
+    },
+    {
+        "Year": "2021",
+        "Items": "Black tea fermented and partly fermented tea in immediate packings",
+        "Export": "136196",
+        "Import": "624224"
+    },
+    {
+        "Year": "2021",
+        "Items": "Black tea fermented and partly fermented tea, nes",
+        "Export": "5177",
+        "Import": "806065"
+    },
+    {
+        "Year": "2021",
+        "Items": "MatT",
+        "Export": "0",
+        "Import": "20026"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dried pepper excl. crushed or ground",
+        "Export": "133332",
+        "Import": "127808"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pepper, crushed or ground",
+        "Export": "45911",
+        "Import": "854808"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fruits of the genus Capsicum or of the genus Pimenta- Dried, neither crushed nor ground",
+        "Export": "17579",
+        "Import": "3807"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fruits of the genus Capsicum or of the genus Pimenta- Crushed or ground.",
+        "Export": "2500",
+        "Import": "274265"
+    },
+    {
+        "Year": "2021",
+        "Items": "Vanilla, Neither crushed nor ground",
+        "Export": "256",
+        "Import": "325"
+    },
+    {
+        "Year": "2021",
+        "Items": "Vanilla, Crushed or ground.",
+        "Export": "0",
+        "Import": "4742"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cinnamon and cinnamon-tree flowers, neither crushed and ground",
+        "Export": "0",
+        "Import": "49352"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other",
+        "Export": "0",
+        "Import": "4928"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cinnamon and cinnamon-tree flowers, crushed or ground",
+        "Export": "3",
+        "Import": "20212"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cloves whole fruit, cloves and stems, Neither crushed nor ground",
+        "Export": "315",
+        "Import": "163503"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cloves whole fruit, cloves and stems, Crushed or ground.",
+        "Export": "20",
+        "Import": "63233"
+    },
+    {
+        "Year": "2021",
+        "Items": "Nutmeg - Neither crushed nor ground",
+        "Export": "865",
+        "Import": "125073"
+    },
+    {
+        "Year": "2021",
+        "Items": "Nutmeg - Crushed or ground",
+        "Export": "0",
+        "Import": "177169"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mace Neither crushed nor ground",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mace Crushed or ground",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cardamoms - Neither crushed nor ground",
+        "Export": "0",
+        "Import": "753"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cardamoms - Crushed or ground",
+        "Export": "0",
+        "Import": "243"
+    },
+    {
+        "Year": "2021",
+        "Items": "Seeds of coriander- Neither crushed nor ground",
+        "Export": "0",
+        "Import": "43059"
+    },
+    {
+        "Year": "2021",
+        "Items": "Seeds of coriander- Crushed or ground",
+        "Export": "0",
+        "Import": "29621"
+    },
+    {
+        "Year": "2021",
+        "Items": "Seeds of cumin - Neither crushed nor ground",
+        "Export": "3",
+        "Import": "14089"
+    },
+    {
+        "Year": "2021",
+        "Items": "Seeds of cumin - Crushed or ground",
+        "Export": "0",
+        "Import": "2494"
+    },
+    {
+        "Year": "2021",
+        "Items": "Seeds of anise, badian, caraway or fennel juniper berries - Neither crushed nor ground",
+        "Export": "84",
+        "Import": "160453"
+    },
+    {
+        "Year": "2021",
+        "Items": "Seeds of anise, badian, caraway or fennel juniper berries - Crushed or ground",
+        "Export": "0",
+        "Import": "11731"
+    },
+    {
+        "Year": "2021",
+        "Items": "Ginger, Neither crushed nor ground",
+        "Export": "17361",
+        "Import": "5968"
+    },
+    {
+        "Year": "2021",
+        "Items": "Ginger, Crushed or ground",
+        "Export": "10503",
+        "Import": "31945"
+    },
+    {
+        "Year": "2021",
+        "Items": "Saffron",
+        "Export": "0",
+        "Import": "268"
+    },
+    {
+        "Year": "2021",
+        "Items": "Turmeric curcuma",
+        "Export": "8008",
+        "Import": "11927"
+    },
+    {
+        "Year": "2021",
+        "Items": "Spice mixtures",
+        "Export": "4551",
+        "Import": "131298"
+    },
+    {
+        "Year": "2021",
+        "Items": "Spices - other, nes",
+        "Export": "395768",
+        "Import": "1013733"
+    },
+    {
+        "Year": "2021",
+        "Items": "Durum wheat , Seed",
+        "Export": "0",
+        "Import": "3500"
+    },
+    {
+        "Year": "2021",
+        "Items": "Durum wheat, Other",
+        "Export": "185",
+        "Import": "467580"
+    },
+    {
+        "Year": "2021",
+        "Items": "Wheat and meslin Other Seed",
+        "Export": "1845",
+        "Import": "140885"
+    },
+    {
+        "Year": "2021",
+        "Items": "Wheat and meslin Other other",
+        "Export": "12",
+        "Import": "72725691"
+    },
+    {
+        "Year": "2021",
+        "Items": "Rye, Seed",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Rye, Other",
+        "Export": "0",
+        "Import": "10875"
+    },
+    {
+        "Year": "2021",
+        "Items": "Barley, Seed",
+        "Export": "0",
+        "Import": "424"
+    },
+    {
+        "Year": "2021",
+        "Items": "Barley, Other",
+        "Export": "0",
+        "Import": "107"
+    },
+    {
+        "Year": "2021",
+        "Items": "Oats, Seed",
+        "Export": "0",
+        "Import": "50"
+    },
+    {
+        "Year": "2021",
+        "Items": "Oats, Other",
+        "Export": "47876",
+        "Import": "18339"
+    },
+    {
+        "Year": "2021",
+        "Items": "Maize seed",
+        "Export": "770",
+        "Import": "840495"
+    },
+    {
+        "Year": "2021",
+        "Items": "Maize excl. seed",
+        "Export": "1631",
+        "Import": "63975904"
+    },
+    {
+        "Year": "2021",
+        "Items": "Rice in the husk paddy or rough, seed",
+        "Export": "61",
+        "Import": "9088"
+    },
+    {
+        "Year": "2021",
+        "Items": "Rice in husk paddy or rough - other, nes",
+        "Export": "75",
+        "Import": "181837"
+    },
+    {
+        "Year": "2021",
+        "Items": "Rice, husked brown",
+        "Export": "1878",
+        "Import": "79380"
+    },
+    {
+        "Year": "2021",
+        "Items": "Rice, semi-milled or wholly milled rice, pck 5kg or bulk",
+        "Export": "58675",
+        "Import": "272410428"
+    },
+    {
+        "Year": "2021",
+        "Items": "Rice, semi-milled or wholly milled rice, pck 5kg",
+        "Export": "11",
+        "Import": "103864794"
+    },
+    {
+        "Year": "2021",
+        "Items": "Rice, broken",
+        "Export": "277895",
+        "Import": "405109914"
+    },
+    {
+        "Year": "2021",
+        "Items": "Grain Sorghum, Seed",
+        "Export": "0",
+        "Import": "3125"
+    },
+    {
+        "Year": "2021",
+        "Items": "Grain Sorghum, Other",
+        "Export": "18757",
+        "Import": "352"
+    },
+    {
+        "Year": "2021",
+        "Items": "Buckwheat",
+        "Export": "0",
+        "Import": "5191"
+    },
+    {
+        "Year": "2021",
+        "Items": "Millet Seed",
+        "Export": "857",
+        "Import": "485600"
+    },
+    {
+        "Year": "2021",
+        "Items": "Millet, Other",
+        "Export": "235235",
+        "Import": "263096"
+    },
+    {
+        "Year": "2021",
+        "Items": "Canary seed",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fonio Digitaria spp.",
+        "Export": "58000",
+        "Import": "1200"
+    },
+    {
+        "Year": "2021",
+        "Items": "Quinoa Chenopodium quinoa",
+        "Export": "0",
+        "Import": "5294"
+    },
+    {
+        "Year": "2021",
+        "Items": "Triticale",
+        "Export": "1550",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cereals - other, nes",
+        "Export": "367322",
+        "Import": "1894"
+    },
+    {
+        "Year": "2021",
+        "Items": "Wheat or meslin flour",
+        "Export": "21194396",
+        "Import": "68964483"
+    },
+    {
+        "Year": "2021",
+        "Items": "Maize corn flour",
+        "Export": "658730",
+        "Import": "61640"
+    },
+    {
+        "Year": "2021",
+        "Items": "Flour of millet or sorghum",
+        "Export": "51025",
+        "Import": "9074"
+    },
+    {
+        "Year": "2021",
+        "Items": "Flour of other cereals, nes",
+        "Export": "187518",
+        "Import": "94627"
+    },
+    {
+        "Year": "2021",
+        "Items": "Groats andmeal of wheat",
+        "Export": "1184",
+        "Import": "9907"
+    },
+    {
+        "Year": "2021",
+        "Items": "Groats and meal of maize corn",
+        "Export": "663374",
+        "Import": "88536"
+    },
+    {
+        "Year": "2021",
+        "Items": "Groats and meal of other cereals, nes",
+        "Export": "26427",
+        "Import": "23166"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pellets",
+        "Export": "0",
+        "Import": "25785"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cereal grains, rolled or flaked of oats",
+        "Export": "0",
+        "Import": "4178200"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cereal grains, rolled or flaked of other cereal, nes",
+        "Export": "511868",
+        "Import": "8157"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cereal grains, worked but not rolled or flaked, of oats",
+        "Export": "7677",
+        "Import": "2769630"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cereal grains, worked but not rolled or flaked, of maize corn",
+        "Export": "2087891",
+        "Import": "635479"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cereal grains, worked but not rolled or flaked, of other cereal, nes",
+        "Export": "430",
+        "Import": "543599107"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cereal germ, whole, rolled, flaked or ground",
+        "Export": "49977",
+        "Import": "809"
+    },
+    {
+        "Year": "2021",
+        "Items": "Potato flour and meal",
+        "Export": "23",
+        "Import": "11473"
+    },
+    {
+        "Year": "2021",
+        "Items": "Potato flakes",
+        "Export": "0",
+        "Import": "26228"
+    },
+    {
+        "Year": "2021",
+        "Items": "Flour and meal of the dried leguminous vegetables of 0713",
+        "Export": "4701",
+        "Import": "32697"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cassava Flour and powder",
+        "Export": "1933079",
+        "Import": "38425"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cassava MealDough",
+        "Export": "2314405",
+        "Import": "6651"
+    },
+    {
+        "Year": "2021",
+        "Items": "Flour and meal of yam",
+        "Export": "18603",
+        "Import": "2346"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cocoyam flour",
+        "Export": "30405",
+        "Import": "4399"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other, not Cocoyam flour",
+        "Export": "56486",
+        "Import": "3183"
+    },
+    {
+        "Year": "2021",
+        "Items": "Plantain flour",
+        "Export": "103840",
+        "Import": "182983"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other, not plantain flour",
+        "Export": "7529",
+        "Import": "38952"
+    },
+    {
+        "Year": "2021",
+        "Items": "Malt not roasted",
+        "Export": "71816",
+        "Import": "19911222"
+    },
+    {
+        "Year": "2021",
+        "Items": "Roasted malt",
+        "Export": "48457",
+        "Import": "2336386"
+    },
+    {
+        "Year": "2021",
+        "Items": "Wheat starch, Pharmaceutical grade",
+        "Export": "0",
+        "Import": "15025"
+    },
+    {
+        "Year": "2021",
+        "Items": "Wheat starch Other",
+        "Export": "1539",
+        "Import": "12938"
+    },
+    {
+        "Year": "2021",
+        "Items": "Maize corn starch - Pharmaceutical grade",
+        "Export": "3626",
+        "Import": "555442"
+    },
+    {
+        "Year": "2021",
+        "Items": "Maize corn starch - Other",
+        "Export": "93257",
+        "Import": "5342552"
+    },
+    {
+        "Year": "2021",
+        "Items": "Potato starch - Pharmaceutical grade",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Potato starch - Other",
+        "Export": "1000",
+        "Import": "250883"
+    },
+    {
+        "Year": "2021",
+        "Items": "Manioc cassava starch - Pharmaceutical grade",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Manioc cassava starch - Other",
+        "Export": "76438",
+        "Import": "1083052"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other starches - Pharmaceutical grade",
+        "Export": "1",
+        "Import": "59804"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other starches - Other",
+        "Export": "5",
+        "Import": "2185"
+    },
+    {
+        "Year": "2021",
+        "Items": "Wheat gluten",
+        "Export": "0",
+        "Import": "24708"
+    },
+    {
+        "Year": "2021",
+        "Items": "Soya beans, whether or not broken Seed",
+        "Export": "12913679",
+        "Import": "3438"
+    },
+    {
+        "Year": "2021",
+        "Items": "Soya beans, whether or not broken Other",
+        "Export": "10133994",
+        "Import": "429398"
+    },
+    {
+        "Year": "2021",
+        "Items": "Ground-nuts, not roasted or otherwise cooked, whether or not shelled or broken Seed",
+        "Export": "27",
+        "Import": "58425"
+    },
+    {
+        "Year": "2021",
+        "Items": "Ground-nuts, not roasted or otherwise cooked- Other- In shell Used for manufacturing oil",
+        "Export": "0",
+        "Import": "10800"
+    },
+    {
+        "Year": "2021",
+        "Items": "Ground-nuts, not roasted or otherwise cooked- Other- In shell Other",
+        "Export": "210155",
+        "Import": "26890"
+    },
+    {
+        "Year": "2021",
+        "Items": "Ground-nuts, not roasted or otherwise cooked- Other- shelled whether or not broken- Used for manufacturing oil",
+        "Export": "100",
+        "Import": "3175"
+    },
+    {
+        "Year": "2021",
+        "Items": "Ground-nuts, not roasted or otherwise cooked Other- whether or not shelled or broken- Other- Other",
+        "Export": "24151",
+        "Import": "12806"
+    },
+    {
+        "Year": "2021",
+        "Items": "Linseed",
+        "Export": "0",
+        "Import": "4179"
+    },
+    {
+        "Year": "2021",
+        "Items": "Rape or colza seeds low erucic acid",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sunflower seeds",
+        "Export": "0",
+        "Import": "32509"
+    },
+    {
+        "Year": "2021",
+        "Items": "Palm nuts and kernels",
+        "Export": "602110",
+        "Import": "4776187"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cotton seeds",
+        "Export": "101662",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cotton seeds, Other",
+        "Export": "104035",
+        "Import": "1258"
+    },
+    {
+        "Year": "2021",
+        "Items": "Castor oil seeds",
+        "Export": "2",
+        "Import": "1"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sesamum seeds",
+        "Export": "5399249",
+        "Import": "49172"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mustard seeds",
+        "Export": "20",
+        "Import": "1713"
+    },
+    {
+        "Year": "2021",
+        "Items": "Safflower seeds",
+        "Export": "0",
+        "Import": "52"
+    },
+    {
+        "Year": "2021",
+        "Items": "Melon seeds",
+        "Export": "43704",
+        "Import": "23755"
+    },
+    {
+        "Year": "2021",
+        "Items": "Poppy seeds",
+        "Export": "0",
+        "Import": "149"
+    },
+    {
+        "Year": "2021",
+        "Items": "Shea nuts karate nuts",
+        "Export": "74774227",
+        "Import": "156954785"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other seeds not Shea nuts karate nuts",
+        "Export": "5894524",
+        "Import": "55581"
+    },
+    {
+        "Year": "2021",
+        "Items": "Soya bean flour and meal",
+        "Export": "971058",
+        "Import": "197454"
+    },
+    {
+        "Year": "2021",
+        "Items": "Flours and meal of oil seeds or oleaginous fruit - other, nes",
+        "Export": "26597",
+        "Import": "120936"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sugar beet seed",
+        "Export": "50000",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Lucerne alfalfa seed, of a kind used for sowing",
+        "Export": "0",
+        "Import": "38"
+    },
+    {
+        "Year": "2021",
+        "Items": "Clover seed, of a kind used for sowing",
+        "Export": "102",
+        "Import": "409"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fescue seed, of a kind used for sowing",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Rye grass seed, of a kind used for sowing",
+        "Export": "0",
+        "Import": "12"
+    },
+    {
+        "Year": "2021",
+        "Items": "Seeds of forage plants, of a kind used for sowing - other, nes",
+        "Export": "1852857",
+        "Import": "1062"
+    },
+    {
+        "Year": "2021",
+        "Items": "Seeds of herbaceous plants, of a kind used for sowing",
+        "Export": "0",
+        "Import": "1662"
+    },
+    {
+        "Year": "2021",
+        "Items": "Vegetable seed, of a kind used for sowing",
+        "Export": "1452",
+        "Import": "63565"
+    },
+    {
+        "Year": "2021",
+        "Items": "Seeds, fruit and spores, of a kind used for sowing - other, nes",
+        "Export": "26750",
+        "Import": "49501"
+    },
+    {
+        "Year": "2021",
+        "Items": "Hop cones excl. ground, powdered or pellets, fresh or dried",
+        "Export": "20",
+        "Import": "90"
+    },
+    {
+        "Year": "2021",
+        "Items": "Hop cones, ground, powdered or in pellets lupulin",
+        "Export": "0",
+        "Import": "30853"
+    },
+    {
+        "Year": "2021",
+        "Items": "Ginseng roots, of a kind used in perfumery, pharmacy...etc",
+        "Export": "20",
+        "Import": "1032"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coca leaf",
+        "Export": "1712",
+        "Import": "42"
+    },
+    {
+        "Year": "2021",
+        "Items": "Poppy straw",
+        "Export": "548",
+        "Import": "14"
+    },
+    {
+        "Year": "2021",
+        "Items": "Plants and parts of plants including seeds and fruits, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered.- Ephedra",
+        "Export": "20806",
+        "Import": "1070"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pyrethrum",
+        "Export": "40",
+        "Import": "18330"
+    },
+    {
+        "Year": "2021",
+        "Items": "Bark and wood used pharmacy and medicine",
+        "Export": "73099",
+        "Import": "5684"
+    },
+    {
+        "Year": "2021",
+        "Items": "Plants or parts, of a kind used in perfumery, pharmacy, etc - other, nes",
+        "Export": "163693",
+        "Import": "174900"
+    },
+    {
+        "Year": "2021",
+        "Items": "Seaweeds and other algae - Fit for human consumption",
+        "Export": "70",
+        "Import": "3120"
+    },
+    {
+        "Year": "2021",
+        "Items": "Seaweeds and other algae - Other",
+        "Export": "55",
+        "Import": "777"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sugar beet, fresh, dried, chilled or frozen",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sugar cane, fresh, dried, chilled or frozen",
+        "Export": "0",
+        "Import": "100"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sugar cane",
+        "Export": "145",
+        "Import": "7250"
+    },
+    {
+        "Year": "2021",
+        "Items": "Vegetable products used primarily for human consumption,freshdried, nes",
+        "Export": "2487",
+        "Import": "1170"
+    },
+    {
+        "Year": "2021",
+        "Items": "Corn husks",
+        "Export": "64526",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cereal straw and husks, unprepared, whether or not chopped, ground, pressed or in the form of pellets.- Other",
+        "Export": "1500",
+        "Import": "589"
+    },
+    {
+        "Year": "2021",
+        "Items": "Lucerne alfalfa meal and pellets",
+        "Export": "0",
+        "Import": "2"
+    },
+    {
+        "Year": "2021",
+        "Items": "Forage products - other, nes",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Natural gum arabic",
+        "Export": "0",
+        "Import": "1236"
+    },
+    {
+        "Year": "2021",
+        "Items": "Natural gums, resins, gum-resins and balsams excl. gum arabic",
+        "Export": "565",
+        "Import": "54598"
+    },
+    {
+        "Year": "2021",
+        "Items": "Opium",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Liquorice sap and extract",
+        "Export": "0",
+        "Import": "3311"
+    },
+    {
+        "Year": "2021",
+        "Items": "Hop extract",
+        "Export": "0",
+        "Import": "22027"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sap and extract of pryrethrum and roots of plants containing rotenone",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Vegetable saps and extracts - other, nes",
+        "Export": "291921",
+        "Import": "123535"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pectic substances, pectinates and pectates",
+        "Export": "0",
+        "Import": "504"
+    },
+    {
+        "Year": "2021",
+        "Items": "Agar-agar",
+        "Export": "0",
+        "Import": "1916"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mucilages and thickeners of locust beans, bean seeds and guar seeds",
+        "Export": "32021",
+        "Import": "40700"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mucilages and thickeners, derived from vegetable products, nes",
+        "Export": "10000",
+        "Import": "14606"
+    },
+    {
+        "Year": "2021",
+        "Items": "Bamboos",
+        "Export": "21517",
+        "Import": "5495"
+    },
+    {
+        "Year": "2021",
+        "Items": "Rattans",
+        "Export": "650",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Vegetable materials for plaiting, excl. bamboos and rattans",
+        "Export": "1108",
+        "Import": "400"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cotton linters",
+        "Export": "169125",
+        "Import": "4784"
+    },
+    {
+        "Year": "2021",
+        "Items": "Hard seeds, pips, hulls and nuts of a kind used for carving",
+        "Export": "125853",
+        "Import": "648000"
+    },
+    {
+        "Year": "2021",
+        "Items": "Vegetable products - other, nes",
+        "Export": "21502",
+        "Import": "6334038"
+    },
+    {
+        "Year": "2021",
+        "Items": "Lard",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other pig fat",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pig fat including lard and poultry fat, other than that of heading 02.09 or 15.03- Other",
+        "Export": "100",
+        "Import": "4"
+    },
+    {
+        "Year": "2021",
+        "Items": "Tallow",
+        "Export": "0",
+        "Import": "118"
+    },
+    {
+        "Year": "2021",
+        "Items": "Lard stearin, lardoil, oleostearin, oleo-oil and tallow oil",
+        "Export": "2906340",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish-liver oils and their fractions",
+        "Export": "0",
+        "Import": "300"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish fats, oils and fractions excl. fish liver oils",
+        "Export": "112300",
+        "Import": "264487"
+    },
+    {
+        "Year": "2021",
+        "Items": "Marine mammal fats, oils and their liquid fractions",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Wool Grease and Fatty Substances Derived therefrom Incl Lanolin",
+        "Export": "0",
+        "Import": "139377"
+    },
+    {
+        "Year": "2021",
+        "Items": "Animal fats and oils and their fractions - other, nes",
+        "Export": "0",
+        "Import": "1293"
+    },
+    {
+        "Year": "2021",
+        "Items": "Crude soya-bean oil",
+        "Export": "0",
+        "Import": "916"
+    },
+    {
+        "Year": "2021",
+        "Items": "Soya-bean oil excl. crude and fractions",
+        "Export": "0",
+        "Import": "5470847"
+    },
+    {
+        "Year": "2021",
+        "Items": "Crude ground-nut oil",
+        "Export": "0",
+        "Import": "7"
+    },
+    {
+        "Year": "2021",
+        "Items": "Groundnut oilexcl crude fractionsin packings 5litres for retail sale",
+        "Export": "130",
+        "Import": "3428"
+    },
+    {
+        "Year": "2021",
+        "Items": "Groundnut oil excl. crude fractions - other, nes",
+        "Export": "1042",
+        "Import": "33035"
+    },
+    {
+        "Year": "2021",
+        "Items": "Olive oil and its fractions, whether or not refined, but not chemically modified- Virgin Put up for retail sale in packings with a net content of 5 litres or less",
+        "Export": "15593",
+        "Import": "66168"
+    },
+    {
+        "Year": "2021",
+        "Items": "Olive oil and its fractions, whether or not refined, but not chemically modified- Virgin Other",
+        "Export": "154",
+        "Import": "236869"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Olive oil fractions, pkg 5 litres put up for retail sale",
+        "Export": "0",
+        "Import": "191719"
+    },
+    {
+        "Year": "2021",
+        "Items": "Olive oil and its fractions - other, nes",
+        "Export": "132372",
+        "Import": "907840"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other oils and their fractions, obtained solely from olives- Put up for retail sale in packings with a net content of 5 litres or less",
+        "Export": "95339",
+        "Import": "287"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other oils and their fractions, obtained solely from olives- Other",
+        "Export": "0",
+        "Import": "8642"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Palm oil and its fractions, whether or not refined, but not chemically modified Crude oil",
+        "Export": "37139229",
+        "Import": "22975960"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other Palm oil and its fractions, whether or not refined, but not chemically modified, not fit for human consumption whether or not deodorised",
+        "Export": "227338",
+        "Import": "2914436"
+    },
+    {
+        "Year": "2021",
+        "Items": "Palm oil and its fractions, whether or not refined, but not chemically modified- Other Put up for retail sale in packings with a net content of 5 litres or less",
+        "Export": "8741522",
+        "Import": "3973470"
+    },
+    {
+        "Year": "2021",
+        "Items": "Palm oil and its fractions, whether or not refined, but not chemically modified- Other Other",
+        "Export": "44628838",
+        "Import": "128318345"
+    },
+    {
+        "Year": "2021",
+        "Items": "Crude sunflower-seed and safflower oil",
+        "Export": "0",
+        "Import": "233276"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sunflower-seed and safflower oil excl. crude and fractions",
+        "Export": "13",
+        "Import": "14686262"
+    },
+    {
+        "Year": "2021",
+        "Items": "Crude cotton-seed oil and fractions",
+        "Export": "0",
+        "Import": "638"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cotton-seed oil excl. crude and fractions",
+        "Export": "5",
+        "Import": "15995"
+    },
+    {
+        "Year": "2021",
+        "Items": "Crude coconut copra oil and fractions",
+        "Export": "160967",
+        "Import": "55778"
+    },
+    {
+        "Year": "2021",
+        "Items": "Coconut copra oil excl. crude and fractions",
+        "Export": "42424",
+        "Import": "35425"
+    },
+    {
+        "Year": "2021",
+        "Items": "Palm kernel or babassu oil and fractions thereof - Crude oil",
+        "Export": "4262860",
+        "Import": "62800"
+    },
+    {
+        "Year": "2021",
+        "Items": "Palm kernel or babassu oil excl. crude and fractions",
+        "Export": "115696",
+        "Import": "1155909"
+    },
+    {
+        "Year": "2021",
+        "Items": "Low erucic acid rape or colza oil, crude",
+        "Export": "0",
+        "Import": "195"
+    },
+    {
+        "Year": "2021",
+        "Items": "Low erucic acid rape or colza oil, other",
+        "Export": "6250",
+        "Import": "85958"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other vegetable oil of hdg 1514, crude, nes",
+        "Export": "90736",
+        "Import": "2851"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other vegetable oil of hdg 1514, nes",
+        "Export": "25353",
+        "Import": "100024"
+    },
+    {
+        "Year": "2021",
+        "Items": "Linseed oil and fractions, crude",
+        "Export": "1860",
+        "Import": "372"
+    },
+    {
+        "Year": "2021",
+        "Items": "Linseed oil and fractions, refined",
+        "Export": "30",
+        "Import": "506278"
+    },
+    {
+        "Year": "2021",
+        "Items": "Maize corn oil and fractions, crude",
+        "Export": "2",
+        "Import": "109"
+    },
+    {
+        "Year": "2021",
+        "Items": "Maize corn oil and fractions, refined",
+        "Export": "0",
+        "Import": "15686"
+    },
+    {
+        "Year": "2021",
+        "Items": "Castor oil and its fractions",
+        "Export": "1188",
+        "Import": "80861"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sesame oil and fractions",
+        "Export": "1486280",
+        "Import": "226059"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Shea karite oil and fractions, crude",
+        "Export": "40207408",
+        "Import": "6000523"
+    },
+    {
+        "Year": "2021",
+        "Items": "Shea karite oil and fractions, refined",
+        "Export": "2254463",
+        "Import": "4647628"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fixed vegetable fats fractions - other, nes",
+        "Export": "5494060",
+        "Import": "97651"
+    },
+    {
+        "Year": "2021",
+        "Items": "Animal fats and oils and fractions, hydrogenated, etc",
+        "Export": "0",
+        "Import": "3220"
+    },
+    {
+        "Year": "2021",
+        "Items": "Vegetable fats and oils and their fractions - Hydrogenated vegetable fats",
+        "Export": "2942",
+        "Import": "368607"
+    },
+    {
+        "Year": "2021",
+        "Items": "Vegetable fats and oils and their fractions - Other",
+        "Export": "281844",
+        "Import": "1624130"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Margarine excl. liquid",
+        "Export": "6533965",
+        "Import": "32496310"
+    },
+    {
+        "Year": "2021",
+        "Items": "Food preparations of vegetable fats - other, nes",
+        "Export": "41928",
+        "Import": "1224442"
+    },
+    {
+        "Year": "2021",
+        "Items": "Edible preparations of fats and oils - other, nes",
+        "Export": "164",
+        "Import": "3375805"
+    },
+    {
+        "Year": "2021",
+        "Items": "Animal or vegetable fats and oils... chemically modified, nes",
+        "Export": "249275",
+        "Import": "21700"
+    },
+    {
+        "Year": "2021",
+        "Items": "Glycerol, crude glycerol waters and glycerol lyes.",
+        "Export": "402",
+        "Import": "208"
+    },
+    {
+        "Year": "2021",
+        "Items": "Vegetable waxes excl. triglycerides",
+        "Export": "0",
+        "Import": "46"
+    },
+    {
+        "Year": "2021",
+        "Items": "Beeswax and other insect waxes",
+        "Export": "0",
+        "Import": "1340"
+    },
+    {
+        "Year": "2021",
+        "Items": "Beeswax, other insect waxes and spermaceti",
+        "Export": "0",
+        "Import": "3529"
+    },
+    {
+        "Year": "2021",
+        "Items": "Degras residues of fatty substances or animal or vegetable waxes",
+        "Export": "70460",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sausages and similar products of meat, of liver",
+        "Export": "0",
+        "Import": "2078319"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sausages and similar products of meat - other, nes",
+        "Export": "6",
+        "Import": "7403214"
+    },
+    {
+        "Year": "2021",
+        "Items": "Homogenized preparations of meat, meat offalor blood",
+        "Export": "0",
+        "Import": "15339"
+    },
+    {
+        "Year": "2021",
+        "Items": "Preparations of animal liver",
+        "Export": "0",
+        "Import": "1348"
+    },
+    {
+        "Year": "2021",
+        "Items": "Preparations of turkey meat",
+        "Export": "0",
+        "Import": "15435"
+    },
+    {
+        "Year": "2021",
+        "Items": "Preparations of fowls of gallus domesticus - eg chicken",
+        "Export": "0",
+        "Import": "273043"
+    },
+    {
+        "Year": "2021",
+        "Items": "Preparations of other poultry, nes",
+        "Export": "0",
+        "Import": "58438"
+    },
+    {
+        "Year": "2021",
+        "Items": "Preparations of swine, hams and cuts",
+        "Export": "0",
+        "Import": "50159"
+    },
+    {
+        "Year": "2021",
+        "Items": "Preparations of swine, shoulders and cuts",
+        "Export": "0",
+        "Import": "1835"
+    },
+    {
+        "Year": "2021",
+        "Items": "Preparations of swine meat, including mixtures, nes",
+        "Export": "0",
+        "Import": "14824"
+    },
+    {
+        "Year": "2021",
+        "Items": "Canned beef Corned Beef",
+        "Export": "214",
+        "Import": "4656088"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other prepared or preserved meat, meat offal or blood Of bovine animals - Other",
+        "Export": "67",
+        "Import": "74754"
+    },
+    {
+        "Year": "2021",
+        "Items": "Preparations of meat incl.preparations of blood of any animal, nes",
+        "Export": "7",
+        "Import": "59670"
+    },
+    {
+        "Year": "2021",
+        "Items": "Extracts and juices of meat, fish and aquatic invertebrates",
+        "Export": "0",
+        "Import": "1014"
+    },
+    {
+        "Year": "2021",
+        "Items": "Salmon, prepared or preserved, not minced",
+        "Export": "49116",
+        "Import": "1579"
+    },
+    {
+        "Year": "2021",
+        "Items": "Herrings, prepared or preserved, not minced",
+        "Export": "64",
+        "Import": "2445"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sardines in 14 club cans of height of 30 mm or less",
+        "Export": "25649",
+        "Import": "11290698"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sardines, sardinella and brisling or sprats - other, nes",
+        "Export": "5988",
+        "Import": "1656968"
+    },
+    {
+        "Year": "2021",
+        "Items": "Tuna, skipjack and atlantic bonito, prepared or preserved, not minced",
+        "Export": "26566640",
+        "Import": "815272"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mackerel, prepared or preserved, not minced",
+        "Export": "10570",
+        "Import": "17591673"
+    },
+    {
+        "Year": "2021",
+        "Items": "Anchovies, prepared or preserved, not minced",
+        "Export": "0",
+        "Import": "661"
+    },
+    {
+        "Year": "2021",
+        "Items": "Eels",
+        "Export": "0",
+        "Import": "26"
+    },
+    {
+        "Year": "2021",
+        "Items": "Prepared or preserved fish caviar and caviar substitutes prepared from fish eggs.- Fish, whole or in pieces, but not minced -- Shark fins",
+        "Export": "4",
+        "Import": "60"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, prepared or preserved, not minced - other, nes",
+        "Export": "30",
+        "Import": "36187"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fish, prepared or preserved - other, nes",
+        "Export": "21487",
+        "Import": "18787"
+    },
+    {
+        "Year": "2021",
+        "Items": "Caviar",
+        "Export": "0",
+        "Import": "973"
+    },
+    {
+        "Year": "2021",
+        "Items": "Caviar substitutes",
+        "Export": "0",
+        "Import": "114"
+    },
+    {
+        "Year": "2021",
+        "Items": "Crab, prepared or preserved",
+        "Export": "0",
+        "Import": "586"
+    },
+    {
+        "Year": "2021",
+        "Items": "Shrimps and prawns - Not in airtight container",
+        "Export": "99",
+        "Import": "779"
+    },
+    {
+        "Year": "2021",
+        "Items": "Shrimps and prawns - Other",
+        "Export": "4673",
+        "Import": "19224"
+    },
+    {
+        "Year": "2021",
+        "Items": "Lobster, prepared or preserved",
+        "Export": "0",
+        "Import": "14"
+    },
+    {
+        "Year": "2021",
+        "Items": "Crustaceans, prepared or preserved - other, nes",
+        "Export": "0",
+        "Import": "8"
+    },
+    {
+        "Year": "2021",
+        "Items": "Oysters",
+        "Export": "0",
+        "Import": "2550"
+    },
+    {
+        "Year": "2021",
+        "Items": "Scallops, including queen scallops",
+        "Export": "0",
+        "Import": "552"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mussels",
+        "Export": "0",
+        "Import": "612"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cuttle fish and squid",
+        "Export": "0",
+        "Import": "9174"
+    },
+    {
+        "Year": "2021",
+        "Items": "Octopus",
+        "Export": "0",
+        "Import": "16"
+    },
+    {
+        "Year": "2021",
+        "Items": "Clams, cockles and arkshells",
+        "Export": "0",
+        "Import": "23"
+    },
+    {
+        "Year": "2021",
+        "Items": "Abalone",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Snails, other than sea snails",
+        "Export": "1861",
+        "Import": "61"
+    },
+    {
+        "Year": "2021",
+        "Items": "Molluscs - Other",
+        "Export": "0",
+        "Import": "6"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sea cucumbers",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Jellyfish",
+        "Export": "0",
+        "Import": "291"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other aquatic invertebrates - Other",
+        "Export": "0",
+        "Import": "2"
+    },
+    {
+        "Year": "2021",
+        "Items": "Beet sugar, raw, no added flavouring or colouring, solid",
+        "Export": "0",
+        "Import": "823"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cane sugar specified in Subheading Note 2 to this Chapter",
+        "Export": "0",
+        "Import": "1646"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other cane sugar - Meant for sugar refinery",
+        "Export": "1429",
+        "Import": "3748"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other cane sugar - Other",
+        "Export": "71",
+        "Import": "182942"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sugar, cont. added flavouring or colouring in powder, a other",
+        "Export": "17",
+        "Import": "2206257"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sugar, added flavouring or colouring in powder, crystal or granule form",
+        "Export": "0",
+        "Import": "51032"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sugar, in powder, crystal or granule form - other, nes",
+        "Export": "10461694",
+        "Import": "315764096"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sugar - other, nes",
+        "Export": "256",
+        "Import": "5921161"
+    },
+    {
+        "Year": "2021",
+        "Items": "Lactose and syrup containing 99 or more by weight of lactose",
+        "Export": "0",
+        "Import": "155326"
+    },
+    {
+        "Year": "2021",
+        "Items": "Lactose and syrup containing less than 99 by weight of lactose",
+        "Export": "4784",
+        "Import": "313343"
+    },
+    {
+        "Year": "2021",
+        "Items": "Maple sugar and maple syrup",
+        "Export": "0",
+        "Import": "2263451"
+    },
+    {
+        "Year": "2021",
+        "Items": "Glucose and glucose syrup, containing 20 fructose",
+        "Export": "55210",
+        "Import": "7064046"
+    },
+    {
+        "Year": "2021",
+        "Items": "Glucose and glucose syrup, containing 20 but 50 fructose",
+        "Export": "0",
+        "Import": "1381434"
+    },
+    {
+        "Year": "2021",
+        "Items": "Chemically pure fructose",
+        "Export": "0",
+        "Import": "4"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other fructose and fructose syrup, containing 50 fructose",
+        "Export": "1",
+        "Import": "12628409"
+    },
+    {
+        "Year": "2021",
+        "Items": "Artificial honey, caramel and other sugars incl. invert sugar, nes",
+        "Export": "72000",
+        "Import": "4026759"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cane molasses resulting from the extraction or refining of sugar",
+        "Export": "0",
+        "Import": "40618"
+    },
+    {
+        "Year": "2021",
+        "Items": "Molasses resulting from the extraction or refining of sugar excl. cane",
+        "Export": "0",
+        "Import": "3223"
+    },
+    {
+        "Year": "2021",
+        "Items": "Chewing gum",
+        "Export": "12365",
+        "Import": "3521928"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sugar confectionery incl. white chocolate, not containing cocoa, nes",
+        "Export": "152586",
+        "Import": "14210124"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cocoa beans, superior quality raw beans",
+        "Export": "455975549",
+        "Import": "12"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cocoa beans, standard quality raw beans",
+        "Export": "84",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cocoa beans, roasted",
+        "Export": "162000",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cocoa beans, broken",
+        "Export": "114031",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Broken",
+        "Export": "52000",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cocoa shells, husks, skins and other cocoa waste",
+        "Export": "19602384",
+        "Import": "124750"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cocoa paste, not defatted",
+        "Export": "130603673",
+        "Import": "20089"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cocoa paste, wholly or partly defatted",
+        "Export": "30011503",
+        "Import": "300"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fat and oil of cocoa",
+        "Export": "606880",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Natural cocoa butter",
+        "Export": "51474666",
+        "Import": "476"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other butter of cocoa and deodorised cocoa",
+        "Export": "8120256",
+        "Import": "37"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cocoa powder,no sugar or sweeting matter in packaging with content 2kg",
+        "Export": "11023219",
+        "Import": "5270"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cocoa powder no sugar or other sweeting matter otherwise presented",
+        "Export": "28613451",
+        "Import": "42068"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cocoa powder, containing added sugar or other sweetening matter",
+        "Export": "7142633",
+        "Import": "46471"
+    },
+    {
+        "Year": "2021",
+        "Items": "Chocolate, etc, containing cocoa, in blocks, slabs or bars 2kg",
+        "Export": "79323",
+        "Import": "288449"
+    },
+    {
+        "Year": "2021",
+        "Items": "Chocolate, etc, containing cocoa, in blocks, slabs or bars, filled",
+        "Export": "44817",
+        "Import": "213588"
+    },
+    {
+        "Year": "2021",
+        "Items": "Chocolate and other food preparations containing cocoa- not filled- Chocolate",
+        "Export": "15642",
+        "Import": "242621"
+    },
+    {
+        "Year": "2021",
+        "Items": "Chocolate and other food preparations containing cocoa- not filled- Other",
+        "Export": "12790",
+        "Import": "160901"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other confectionery containing cocoa and chocolate",
+        "Export": "459889",
+        "Import": "806292"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other food preparations containing cocoa and chocolate",
+        "Export": "431472",
+        "Import": "378349"
+    },
+    {
+        "Year": "2021",
+        "Items": "Preparations for infant use, for retail sale, of flour, etc",
+        "Export": "5528654",
+        "Import": "2613620"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mixes and doughs for preparation of bakers wares of 19.05",
+        "Export": "52857",
+        "Import": "186988"
+    },
+    {
+        "Year": "2021",
+        "Items": "Prep. of milk containing veg. fats and oils, powdered or granular, 25kg",
+        "Export": "943794",
+        "Import": "9073412"
+    },
+    {
+        "Year": "2021",
+        "Items": "Prep of milk cont. veg fats and oils, powderedgranular, 12.5kg 25kg",
+        "Export": "520",
+        "Import": "163470"
+    },
+    {
+        "Year": "2021",
+        "Items": "Malt extract",
+        "Export": "19448",
+        "Import": "10100892"
+    },
+    {
+        "Year": "2021",
+        "Items": "Malted beverage powder in bulk of not less than 25 kg",
+        "Export": "6222",
+        "Import": "23080"
+    },
+    {
+        "Year": "2021",
+        "Items": "Food prep. of cassava of HD 11.06 inc Gari but excl prod. of 19.03",
+        "Export": "6245121",
+        "Import": "29354"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mail extract- Other other",
+        "Export": "965193",
+        "Import": "648069"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pasta, uncooked, containing eggs not stuffed",
+        "Export": "266",
+        "Import": "1063864"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pasta, uncooked, not containing eggs, not stuffed",
+        "Export": "1630450",
+        "Import": "24220399"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pasta, stuffed",
+        "Export": "0",
+        "Import": "823530"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pasta - other, nes",
+        "Export": "39049",
+        "Import": "46192509"
+    },
+    {
+        "Year": "2021",
+        "Items": "Couscous",
+        "Export": "0",
+        "Import": "27313"
+    },
+    {
+        "Year": "2021",
+        "Items": "Tapioca and substitutes prepared from starch in flakes, grains, etc",
+        "Export": "595782",
+        "Import": "214090"
+    },
+    {
+        "Year": "2021",
+        "Items": "Prepared foods obtained by the swelling or roasting of cereals",
+        "Export": "26291",
+        "Import": "1811724"
+    },
+    {
+        "Year": "2021",
+        "Items": "Oats meal in bulk of not less than 25 kg",
+        "Export": "0",
+        "Import": "124744"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other Oats meal in bulk of less than 25 kg",
+        "Export": "0",
+        "Import": "1099798"
+    },
+    {
+        "Year": "2021",
+        "Items": "Bulgur wheat",
+        "Export": "0",
+        "Import": "12164"
+    },
+    {
+        "Year": "2021",
+        "Items": "Prepared cereals in grain form excl. maize",
+        "Export": "58545",
+        "Import": "318840"
+    },
+    {
+        "Year": "2021",
+        "Items": "Crispbread",
+        "Export": "1507",
+        "Import": "23973"
+    },
+    {
+        "Year": "2021",
+        "Items": "Gingerbread and the like",
+        "Export": "2138",
+        "Import": "5144"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sweet biscuits",
+        "Export": "12824529",
+        "Import": "5794096"
+    },
+    {
+        "Year": "2021",
+        "Items": "Waffles and wafers",
+        "Export": "1119060",
+        "Import": "375056"
+    },
+    {
+        "Year": "2021",
+        "Items": "Rusks, toasted bread and similar toasted products",
+        "Export": "70",
+        "Import": "52133"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other bread, etc, nes communion wafers, rice paper, etc",
+        "Export": "665027",
+        "Import": "1169036"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cucumbers and gherkins, preserved by vinegar or acetic acid",
+        "Export": "3150",
+        "Import": "30120"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other vegetables, fruits, etc, preserved by vinegar or acetic acid, nes",
+        "Export": "365196",
+        "Import": "72381"
+    },
+    {
+        "Year": "2021",
+        "Items": "Tomatoes, whole or in pieces, preserved other than by vinegar, etc",
+        "Export": "5113",
+        "Import": "172315"
+    },
+    {
+        "Year": "2021",
+        "Items": "Tomato paste or concentrates, not put up for retail sale- Triple concentrate",
+        "Export": "3384",
+        "Import": "22833657"
+    },
+    {
+        "Year": "2021",
+        "Items": "Tomato paste or concentrates, not put up for retail sale- Other",
+        "Export": "93881",
+        "Import": "8835277"
+    },
+    {
+        "Year": "2021",
+        "Items": "Tomato paste or concentrates, put up for retail sale",
+        "Export": "12411528",
+        "Import": "4309073"
+    },
+    {
+        "Year": "2021",
+        "Items": "Tomatoes,preseved otherwise than by vinegar or acetic acid nes",
+        "Export": "3033",
+        "Import": "53325"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mushrooms, preserved otherwise than by vinegar or acetic acid",
+        "Export": "0",
+        "Import": "137566"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other mushrooms prepared otherwise than by vinegar or acetic acid",
+        "Export": "0",
+        "Import": "30465"
+    },
+    {
+        "Year": "2021",
+        "Items": "Potatoes, preserved other than by vinegar or acetic acid, frozen",
+        "Export": "0",
+        "Import": "2934162"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other vegetables preserved other than by vinegar, etc, frozen, nes",
+        "Export": "10422",
+        "Import": "17936"
+    },
+    {
+        "Year": "2021",
+        "Items": "Homogenized vegetable, preserved other than by vinegar, etc, not frozen",
+        "Export": "0",
+        "Import": "31792"
+    },
+    {
+        "Year": "2021",
+        "Items": "Potatoes, preserved other than by vinegar or acetic acid, not frozen",
+        "Export": "7",
+        "Import": "146983"
+    },
+    {
+        "Year": "2021",
+        "Items": "Peas, preserved other than by vinegar or acetic acid, not frozen",
+        "Export": "0",
+        "Import": "85101"
+    },
+    {
+        "Year": "2021",
+        "Items": "Shelled beans, preserved other than by vinegar, etc, not frozen",
+        "Export": "2306",
+        "Import": "340929"
+    },
+    {
+        "Year": "2021",
+        "Items": "Beans, unshelled, preserved other than by vinegar, etc, not frozen",
+        "Export": "1642",
+        "Import": "1115628"
+    },
+    {
+        "Year": "2021",
+        "Items": "Asparagus, preserved other than by vinegar or acetic acid, not frozen",
+        "Export": "0",
+        "Import": "413"
+    },
+    {
+        "Year": "2021",
+        "Items": "Olives, preserved other than by vinegar or acetic acid, not frozen",
+        "Export": "0",
+        "Import": "48882"
+    },
+    {
+        "Year": "2021",
+        "Items": "Sweetcorn, preserved other than by vinegar or acetic acid, not frozen",
+        "Export": "1335",
+        "Import": "71617"
+    },
+    {
+        "Year": "2021",
+        "Items": "other veghetables and mixtures of vegetables,Bamboo shoots",
+        "Export": "0",
+        "Import": "5536"
+    },
+    {
+        "Year": "2021",
+        "Items": "other veghetables and mixtures of vegetables,not of Bamboo shoots",
+        "Export": "311",
+        "Import": "75137"
+    },
+    {
+        "Year": "2021",
+        "Items": "Fruit, nuts, fruit-peel and other parts of plants, preserved by sugar",
+        "Export": "43327",
+        "Import": "9362"
+    },
+    {
+        "Year": "2021",
+        "Items": "Jams, fruit jellies, marmalades, etc, homogenized",
+        "Export": "118999",
+        "Import": "22713"
+    },
+    {
+        "Year": "2021",
+        "Items": "Jams, fruit jellies, marmalades, etc, of citrus fruit",
+        "Export": "977",
+        "Import": "42338"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other jams, fruit jellies, marmalades, etc, being cooked preparations",
+        "Export": "24069",
+        "Import": "174492"
+    },
+    {
+        "Year": "2021",
+        "Items": "Peanut butter",
+        "Export": "65621",
+        "Import": "143441"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other prepared groundnuts, nes",
+        "Export": "109759",
+        "Import": "147189"
+    },
+    {
+        "Year": "2021",
+        "Items": "Nuts and seeds including mixtures, preserved",
+        "Export": "4276",
+        "Import": "55322"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pineapples, prepared or preserved excl. those of 20.06 and 20.07",
+        "Export": "37392",
+        "Import": "2897"
+    },
+    {
+        "Year": "2021",
+        "Items": "Citrus fruit, prepared or preserved excl. those of 20.06 and 20.07",
+        "Export": "0",
+        "Import": "582"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pears, prepared or preserved excl. those of 20.06 and 20.07",
+        "Export": "0",
+        "Import": "4717"
+    },
+    {
+        "Year": "2021",
+        "Items": "Apricots, prepared or preserved excl. those of 20.06and 20.07",
+        "Export": "0",
+        "Import": "768"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cherries, prepared or preserved excl. those of 20.06 and 20.07",
+        "Export": "0",
+        "Import": "2693"
+    },
+    {
+        "Year": "2021",
+        "Items": "Peaches, prepared or preserved excl. those of 20.06 and 20.07",
+        "Export": "0",
+        "Import": "11010"
+    },
+    {
+        "Year": "2021",
+        "Items": "Strawberries, prepared or preserved excl. those of 20.06 and 20.07",
+        "Export": "0",
+        "Import": "1278"
+    },
+    {
+        "Year": "2021",
+        "Items": "Palm hearts, prepared or preserved excl. those of 20.06 and 20.07",
+        "Export": "13356",
+        "Import": "297"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cranberries Vaccinium macrocarpon, Vaccinium oxycoccos, Vaccinium vitis-idaea",
+        "Export": "0",
+        "Import": "926"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other, including mixtures other than those of subheading 2008.19 - Mixtures",
+        "Export": "0",
+        "Import": "10390"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other fruit, etc, prepared or preserved, nes",
+        "Export": "42091",
+        "Import": "202734"
+    },
+    {
+        "Year": "2021",
+        "Items": "Orange Juice - frozen Concentrate of weight not less than 25 kg for industrial use",
+        "Export": "87880",
+        "Import": "292990"
+    },
+    {
+        "Year": "2021",
+        "Items": "Orange Juice - frozen Other",
+        "Export": "114220",
+        "Import": "102782"
+    },
+    {
+        "Year": "2021",
+        "Items": "Orange Juice - Not frozen, of a Brix value not exceeding 20- Concentrate of weight not less than 25 kg for industrial use",
+        "Export": "0",
+        "Import": "1225"
+    },
+    {
+        "Year": "2021",
+        "Items": "Orange Juice - Not frozen, of a Brix value not exceeding 20- Other",
+        "Export": "0",
+        "Import": "234762"
+    },
+    {
+        "Year": "2021",
+        "Items": "Orange Juice - Other- Concentrate of weight not less than 25 kg for industrial use",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Orange Juice - Other Other",
+        "Export": "1394493",
+        "Import": "574303"
+    },
+    {
+        "Year": "2021",
+        "Items": "Grapefruit including pomelo juice- Of a Brix value not exceeding 20 - Concentrate of weight not less than 25 kg for industrial use",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Grapefruit including pomelo juice- Of a Brix value not exceeding 20 - Other",
+        "Export": "134",
+        "Import": "197337"
+    },
+    {
+        "Year": "2021",
+        "Items": "Grapefruit including pomelo juice- Other- Concentrate of weight not less than 25 kg for industrial use",
+        "Export": "28288",
+        "Import": "120"
+    },
+    {
+        "Year": "2021",
+        "Items": "Grapefruit including pomelo juice- Other - Other",
+        "Export": "161323",
+        "Import": "1143810"
+    },
+    {
+        "Year": "2021",
+        "Items": "Juice of any other single citrus fruit- Of a Brix value not exceeding 20 - Concentrate of weight not less than 25 kg for industrial use",
+        "Export": "300",
+        "Import": "1300"
+    },
+    {
+        "Year": "2021",
+        "Items": "Juice of any other single citrus fruit- Of a Brix value not exceeding 20 - Other",
+        "Export": "0",
+        "Import": "21020"
+    },
+    {
+        "Year": "2021",
+        "Items": "Juice of any other single citrus fruit- Other- Concentrate of weight not less than 25 kg for industrial use",
+        "Export": "347180",
+        "Import": "107"
+    },
+    {
+        "Year": "2021",
+        "Items": "Juice of any other single citrus fruit- Other- Other",
+        "Export": "103743",
+        "Import": "182848"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pineapple juice- Of a Brix value not exceeding 20- Concentrate of weight not less than 25 kg for industrial use",
+        "Export": "0",
+        "Import": "2059"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pineapple juice- Of a Brix value not exceeding 20- Other",
+        "Export": "1024",
+        "Import": "387355"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pineapple juice- Other - Concentrate of weight not less than 25 kg for industrial use",
+        "Export": "0",
+        "Import": "438050"
+    },
+    {
+        "Year": "2021",
+        "Items": "Pineapple juice- Other- Other",
+        "Export": "1893341",
+        "Import": "482223"
+    },
+    {
+        "Year": "2021",
+        "Items": "Tomato juice- Concentrate of weight not less than 25 kg for industrial use",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Tomato juice- Other",
+        "Export": "154",
+        "Import": "44035"
+    },
+    {
+        "Year": "2021",
+        "Items": "Grape juice including grape must- Of a Brix value not exceeding 30- Concentrate of weight not less than 25 kg for industrial use",
+        "Export": "0",
+        "Import": "1282"
+    },
+    {
+        "Year": "2021",
+        "Items": "Grape juice including grape must- Of a Brix value not exceeding 30- Other",
+        "Export": "4286",
+        "Import": "2983730"
+    },
+    {
+        "Year": "2021",
+        "Items": "Grape juice including grape must- Other- Concentrate of weight not less than 25 kg for industrial use",
+        "Export": "0",
+        "Import": "1"
+    },
+    {
+        "Year": "2021",
+        "Items": "Grape juice including grape must- Other- Other",
+        "Export": "600",
+        "Import": "1379479"
+    },
+    {
+        "Year": "2021",
+        "Items": "Apple juice - Of a Brix value not exceeding 20- Concentrate of weight not less than 25 kg for industrial use",
+        "Export": "0",
+        "Import": "250"
+    },
+    {
+        "Year": "2021",
+        "Items": "Apple juice - Of a Brix value not exceeding 20- Other",
+        "Export": "0",
+        "Import": "816315"
+    },
+    {
+        "Year": "2021",
+        "Items": "Apple juice - Other- Concentrate of weight not less than 25 kg for industrial use",
+        "Export": "0",
+        "Import": "193623"
+    },
+    {
+        "Year": "2021",
+        "Items": "Apple juice - Other- Other",
+        "Export": "63630",
+        "Import": "994280"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cranbery juice- Concentrate of weight not less than 25 kg for industrial use",
+        "Export": "0",
+        "Import": "366"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cranbery juice- Other",
+        "Export": "132369",
+        "Import": "1550535"
+    },
+    {
+        "Year": "2021",
+        "Items": "Guava juice- Concentrate of weight not less than 25 kg for industrial use",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Guava juice- Other",
+        "Export": "0",
+        "Import": "377406"
+    },
+    {
+        "Year": "2021",
+        "Items": "Tamarind juice- Other",
+        "Export": "0",
+        "Import": "1745"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mango juice- Concentrate of weight not less than 25 kg for industrial use",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mango juice- Other",
+        "Export": "184482",
+        "Import": "971323"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other juice Concentrate of weight not less than 25 kg for industrial use",
+        "Export": "0",
+        "Import": "20360"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other juice Other",
+        "Export": "499426",
+        "Import": "1564117"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mixtures of juices - Concentrate of weight not less than 25 kg for industrial use",
+        "Export": "0",
+        "Import": "2413292"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mixtures of juices - Other",
+        "Export": "3453264",
+        "Import": "23298383"
+    },
+    {
+        "Year": "2021",
+        "Items": "Extracts, essences, concentrates and preparations of coffee",
+        "Export": "4200",
+        "Import": "114848"
+    },
+    {
+        "Year": "2021",
+        "Items": "Preparations with the basis of extracts, a or with a basis of coffee",
+        "Export": "779498",
+        "Import": "239812"
+    },
+    {
+        "Year": "2021",
+        "Items": "Extracts, essences, concentrates and preparations of tea or matT",
+        "Export": "23224",
+        "Import": "40572"
+    },
+    {
+        "Year": "2021",
+        "Items": "Roasted coffee substitutes incl. chicory, etc",
+        "Export": "8",
+        "Import": "249196"
+    },
+    {
+        "Year": "2021",
+        "Items": "Active yeasts",
+        "Export": "20",
+        "Import": "677708"
+    },
+    {
+        "Year": "2021",
+        "Items": "Inactive yeasts other single-cell micro-organisms, dead",
+        "Export": "0",
+        "Import": "18588"
+    },
+    {
+        "Year": "2021",
+        "Items": "Prepared baking powders",
+        "Export": "955",
+        "Import": "432811"
+    },
+    {
+        "Year": "2021",
+        "Items": "Soya sauce",
+        "Export": "170",
+        "Import": "1763722"
+    },
+    {
+        "Year": "2021",
+        "Items": "Tomato ketchup and other tomato sauces",
+        "Export": "6041",
+        "Import": "992062"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mustard flour and meal, prepared mustard",
+        "Export": "12748",
+        "Import": "105232"
+    },
+    {
+        "Year": "2021",
+        "Items": "Nuoc - mam",
+        "Export": "2367",
+        "Import": "75945"
+    },
+    {
+        "Year": "2021",
+        "Items": "Seasoning powder in packings not less than 25 kg",
+        "Export": "78765",
+        "Import": "3790347"
+    },
+    {
+        "Year": "2021",
+        "Items": "Seasoning powder in packings less than 25 kg",
+        "Export": "4185055",
+        "Import": "15958874"
+    },
+    {
+        "Year": "2021",
+        "Items": "Preparations in blocks or loaves form",
+        "Export": "7377609",
+        "Import": "2292753"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other soups and broths",
+        "Export": "685329",
+        "Import": "335784"
+    },
+    {
+        "Year": "2021",
+        "Items": "Homogenized composite food preparations",
+        "Export": "1520",
+        "Import": "47506"
+    },
+    {
+        "Year": "2021",
+        "Items": "Ice cream and other edible ice, whether or not containing cocoa",
+        "Export": "6179028",
+        "Import": "491875"
+    },
+    {
+        "Year": "2021",
+        "Items": "Protein concentrates",
+        "Export": "68",
+        "Import": "34199"
+    },
+    {
+        "Year": "2021",
+        "Items": "Textured protein substances",
+        "Export": "0",
+        "Import": "191607"
+    },
+    {
+        "Year": "2021",
+        "Items": "Syrups containing added flavouring and or colouring matter",
+        "Export": "32009",
+        "Import": "407584"
+    },
+    {
+        "Year": "2021",
+        "Items": "Food supplements",
+        "Export": "13791",
+        "Import": "93106"
+    },
+    {
+        "Year": "2021",
+        "Items": "Extracts, essences and flavouring products of a kind used in the food or drink industries",
+        "Export": "342",
+        "Import": "5503924"
+    },
+    {
+        "Year": "2021",
+        "Items": "Protein concentrates and textured protein substances - other- Of the type used for bread making",
+        "Export": "153",
+        "Import": "160910"
+    },
+    {
+        "Year": "2021",
+        "Items": "Powders for the instant preparation of drinks",
+        "Export": "12582",
+        "Import": "3193973"
+    },
+    {
+        "Year": "2021",
+        "Items": "Preparation for herbal tea",
+        "Export": "32743",
+        "Import": "97071"
+    },
+    {
+        "Year": "2021",
+        "Items": "Food supplements",
+        "Export": "18395",
+        "Import": "2430591"
+    },
+    {
+        "Year": "2021",
+        "Items": "Food preparations not elsewhere specified or included- Other- Other",
+        "Export": "139487",
+        "Import": "22997299"
+    },
+    {
+        "Year": "2021",
+        "Items": "Mineral Waters.",
+        "Export": "10475389",
+        "Import": "1062613"
+    },
+    {
+        "Year": "2021",
+        "Items": "Aerated waters",
+        "Export": "70",
+        "Import": "66352"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other unsweetened watersice and snow",
+        "Export": "259",
+        "Import": "23959"
+    },
+    {
+        "Year": "2021",
+        "Items": "Waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured",
+        "Export": "16074945",
+        "Import": "24364014"
+    },
+    {
+        "Year": "2021",
+        "Items": "Non-alcoholic beer",
+        "Export": "297747",
+        "Import": "488191"
+    },
+    {
+        "Year": "2021",
+        "Items": "Beverages containing high doses of caffeine of the kind Energy drinks",
+        "Export": "30827072",
+        "Import": "19650718"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other non-alcoholic beverages",
+        "Export": "4945307",
+        "Import": "20414199"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Beer made from malt- in containers of 50 centilitres or less",
+        "Export": "789919",
+        "Import": "8272577"
+    },
+    {
+        "Year": "2021",
+        "Items": "Beer made from malt- in containers of more than 50 centilitres",
+        "Export": "105070",
+        "Import": "899177"
+    },
+    {
+        "Year": "2021",
+        "Items": "Champagne and sparkling wine",
+        "Export": "982884",
+        "Import": "1743926"
+    },
+    {
+        "Year": "2021",
+        "Items": "Wine not sparkling grape must with by alcohol in- 2L containers",
+        "Export": "6354155",
+        "Import": "12238313"
+    },
+    {
+        "Year": "2021",
+        "Items": "In containers holding more than 2 l but not more than 10 l",
+        "Export": "6481",
+        "Import": "106399"
+    },
+    {
+        "Year": "2021",
+        "Items": "Wine in containers holding 200 l or more for industry",
+        "Export": "0",
+        "Import": "5520"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other",
+        "Export": "86835",
+        "Import": "183868"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other grape must",
+        "Export": "0",
+        "Import": "3075"
+    },
+    {
+        "Year": "2021",
+        "Items": "Vermouth and other wine of fresh grapes, flavoured- 2L containers",
+        "Export": "30727",
+        "Import": "99210"
+    },
+    {
+        "Year": "2021",
+        "Items": "Vermouth and other wine of fresh grapes, flavoured- 2L containers",
+        "Export": "0",
+        "Import": "8885"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other beer not made from malt",
+        "Export": "335123",
+        "Import": "6984986"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "NA",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Palm Wine",
+        "Export": "185453",
+        "Import": "5000"
+    },
+    {
+        "Year": "2021",
+        "Items": "other fermented beverages other.",
+        "Export": "2602",
+        "Import": "212981"
+    },
+    {
+        "Year": "2021",
+        "Items": "Undenatured ethyl alcohol of an alcoholic strength by volume of 80 vol. or higher- For medical, pharmaceutical or scientific purposes",
+        "Export": "0",
+        "Import": "79721"
+    },
+    {
+        "Year": "2021",
+        "Items": "Undenatured ethyl alcohol of an alcoholic strength by volume of 80 vol. or higher- Other",
+        "Export": "497000",
+        "Import": "50119335"
+    },
+    {
+        "Year": "2021",
+        "Items": "Ethyl alcohol and other denatured spirits of any strength",
+        "Export": "92199",
+        "Import": "166600"
+    },
+    {
+        "Year": "2021",
+        "Items": "Brandy",
+        "Export": "137892",
+        "Import": "780562"
+    },
+    {
+        "Year": "2021",
+        "Items": "Spirits obtained by distilling grape wine or grape marc- Other",
+        "Export": "216775",
+        "Import": "278810"
+    },
+    {
+        "Year": "2021",
+        "Items": "Whiskeys",
+        "Export": "4137468",
+        "Import": "5681745"
+    },
+    {
+        "Year": "2021",
+        "Items": "Rum and taffia",
+        "Export": "3028501",
+        "Import": "3721202"
+    },
+    {
+        "Year": "2021",
+        "Items": "Gin and geneva",
+        "Export": "3039083",
+        "Import": "465479"
+    },
+    {
+        "Year": "2021",
+        "Items": "Vodka",
+        "Export": "2030205",
+        "Import": "6085899"
+    },
+    {
+        "Year": "2021",
+        "Items": "Liqueurs and cordials",
+        "Export": "274085",
+        "Import": "1083016"
+    },
+    {
+        "Year": "2021",
+        "Items": "Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80 vol spirits, liqueurs and other spirituous beverages- Other",
+        "Export": "675302",
+        "Import": "698991"
+    },
+    {
+        "Year": "2021",
+        "Items": "Alcohol vinegar",
+        "Export": "593250",
+        "Import": "38442"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other vinegar, nes",
+        "Export": "14",
+        "Import": "189877"
+    },
+    {
+        "Year": "2021",
+        "Items": "Flours, meats and pellets, of meat unfit for human consumption greaves",
+        "Export": "91960",
+        "Import": "73950"
+    },
+    {
+        "Year": "2021",
+        "Items": "Flours, meals and pellets of fish, etc, unfit for human consumption.",
+        "Export": "1109135",
+        "Import": "521003"
+    },
+    {
+        "Year": "2021",
+        "Items": "Brans, sharps and other residues of maize",
+        "Export": "0",
+        "Import": "945017"
+    },
+    {
+        "Year": "2021",
+        "Items": "Brans, sharps and other residues of wheat",
+        "Export": "21125767",
+        "Import": "2655142"
+    },
+    {
+        "Year": "2021",
+        "Items": "Brans, sharps and other residues of other cereals",
+        "Export": "1824396",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Brans, sharps and other residues of leguminous plants",
+        "Export": "89",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Residues from manufacture of starch and similar residues",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Beet pulp, bagasse and other waste of sugar manufacture",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Brewing or distilling dregs and waste",
+        "Export": "0",
+        "Import": "28"
+    },
+    {
+        "Year": "2021",
+        "Items": "Oil-cake and other solid residues, of soya-bean",
+        "Export": "440136",
+        "Import": "92868103"
+    },
+    {
+        "Year": "2021",
+        "Items": "Oil-cake and other solid residues, of ground-nut",
+        "Export": "282760",
+        "Import": "1"
+    },
+    {
+        "Year": "2021",
+        "Items": "Oil-cake and other solid residues of cotton seeds",
+        "Export": "0",
+        "Import": "980000"
+    },
+    {
+        "Year": "2021",
+        "Items": "Oil-cake and other solid residues of linseed",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Oil-cake and other solid residues of sunflower seeds",
+        "Export": "0",
+        "Import": "186"
+    },
+    {
+        "Year": "2021",
+        "Items": "Oil-cake and other solid residues of rape or colza seeds, other",
+        "Export": "0",
+        "Import": "1097"
+    },
+    {
+        "Year": "2021",
+        "Items": "Oil-cake and other solid residues of coconut or copra",
+        "Export": "45",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Oil-cake and other solid residues of palm nuts and kernels",
+        "Export": "4922358",
+        "Import": "1219657"
+    },
+    {
+        "Year": "2021",
+        "Items": "Oil-cake and residues, of other vegetable fats and oils",
+        "Export": "24886067",
+        "Import": "1181"
+    },
+    {
+        "Year": "2021",
+        "Items": "Wine lees argol",
+        "Export": "0",
+        "Import": "60320"
+    },
+    {
+        "Year": "2021",
+        "Items": "Vegetable Materials and Vegetable Waste not elsewhere specified or include",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Dog or cat food, put up for retail sale",
+        "Export": "456",
+        "Import": "3594851"
+    },
+    {
+        "Year": "2021",
+        "Items": "Preparations containing added vitamins",
+        "Export": "17362",
+        "Import": "17417514"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other preparations used in animal feed, nes",
+        "Export": "1312639",
+        "Import": "45041049"
+    },
+    {
+        "Year": "2021",
+        "Items": "Tobacco, not stemmedstripped",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Tobacco, partly or wholly stemmedstripped",
+        "Export": "0",
+        "Import": "2"
+    },
+    {
+        "Year": "2021",
+        "Items": "Tobacco refuse",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cigars, cheroots and cigarillos containing tobacco",
+        "Export": "21",
+        "Import": "1390"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cigarettes containing tobacco",
+        "Export": "17717",
+        "Import": "2833713"
+    },
+    {
+        "Year": "2021",
+        "Items": "Cigars, cigarillos, cigarettes, etc, not containing tobacco",
+        "Export": "5",
+        "Import": "132"
+    },
+    {
+        "Year": "2021",
+        "Items": "Water pipe tobacco specified in Sub heading Note 1 to this chapter",
+        "Export": "0",
+        "Import": "2830"
+    },
+    {
+        "Year": "2021",
+        "Items": "Smoking tobacco, whether or not containing tobacco substitutes in any proportion - Other",
+        "Export": "0",
+        "Import": "121"
+    },
+    {
+        "Year": "2021",
+        "Items": "Homogenized or reconstituted tobacco",
+        "Export": "0",
+        "Import": "0"
+    },
+    {
+        "Year": "2021",
+        "Items": "Expanded tobacco",
+        "Export": "0",
+        "Import": "1088"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other manufactured tobacco and manufactured tobacco substitutes homogenised or reconstituted tobacco tobacco extracts and essences- Other- Other- Other",
+        "Export": "100",
+        "Import": "16509"
+    },
+    {
+        "Year": "2021",
+        "Items": "Denatured salt",
+        "Export": "260",
+        "Import": "49610498"
+    },
+    {
+        "Year": "2021",
+        "Items": "Salt for human consumption including table salt",
+        "Export": "51629693",
+        "Import": "21141352"
+    },
+    {
+        "Year": "2021",
+        "Items": "Compressed salt used in animal feeding",
+        "Export": "100",
+        "Import": "10012"
+    },
+    {
+        "Year": "2021",
+        "Items": "Other salt, nes",
+        "Export": "1651485",
+        "Import": "4978239"
+    }
+]

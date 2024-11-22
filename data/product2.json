@@ -1,0 +1,201 @@
+{
+    "chicken":{
+        "regions": {
+            "Western": "1834086",
+            "Central": "861333",
+            "Greater Accra": "406342",
+            "Volta": "2876412",
+            "Upper East": "1036498",
+            "Eastern": "2523891",
+            "Ashanti": "1792204",
+            "Brong Ahafo": "2668974",
+            "Northern": "2109251",
+            "Upper West": "757553"
+        },
+        "mapColor": "red"
+    },
+    "pig":{
+        "regions":{
+            "Western": "49204",
+            "Central": "4558",
+            "Greater Accra": "18962",
+            "Volta": "95875",
+            "Upper East": "179209",
+            "Eastern": "164069",
+            "Ashanti": "71063",
+            "Brong Ahafo": "139610",
+            "Northern": "246612",
+            "Upper West": "80441"
+        },
+        "mapColor": "green"
+    },
+    "goat":{
+        "regions":{
+            "Western": "243445",
+            "Central": "253395",
+            "Greater Accra": "168926",
+            "Volta": "690167",
+            "Upper East": "438580",
+            "Eastern": "698429",
+            "Ashanti": "340319",
+            "Brong Ahafo": "593783",
+            "Northern": "835539",
+            "Upper West": "315412"
+        },
+        "mapColor": "brown"
+    },
+    "turkey":{
+        "regions":{
+            "Western": "11941",
+            "Greater Accra": "1079",
+            "Upper East": "5463",
+            "Eastern": "2252",
+            "Ashanti": "3700",
+            "Brong Ahafo": "20783",
+            "Northern": "9800",
+            "Upper West": "3001"
+        },
+        "mapColor": "yellow"
+    },
+    "Sheep":{
+        "regions":{
+            "Western": "233735",
+            "Central": "73814",
+            "Greater Accra": "68086",
+            "Volta": "335688",
+            "Upper East": "371417",
+            "Eastern": "261601",
+            "Ashanti": "618104",
+            "Brong Ahafo": "598133",
+            "Northern": "554380",
+            "Upper West": "122200"
+        },
+        "mapColor": "purple"
+    },
+    "Dove":{
+        "regions":{
+            "Western": "68606",
+            "Central": "0",
+            "Greater Accra": "0",
+            "Volta": "143559",
+            "Upper East": "57952",
+            "Eastern": "0",
+            "Ashanti": "0",
+            "Brong Ahafo": "20722",
+            "Northern": "250561",
+            "Upper West": "11620"
+        },
+        "mapColor": "gray"
+    },
+    "cat":{
+        "regions":{
+            "Western": "39289",
+            "Central": "19147",
+            "Greater Accra": "31170",
+            "Volta": "74819",
+            "Upper East": "29326",
+            "Eastern": "72653",
+            "Ashanti": "30061",
+            "Brong Ahafo": "64203",
+            "Northern": "46827",
+            "Upper West": "7446"
+        },
+        "mapColor": "orange"
+    },
+    "Rabbits":{
+        "regions":{
+            "Western": "31517",
+            "Central": "5236",
+            "Greater Accra": "48401",
+            "Volta": "8918",
+            "Upper East": "2566",
+            "Eastern": "20598",
+            "Ashanti": "59347",
+            "Brong Ahafo": "24599",
+            "Northern": "6459",
+            "Upper West": "6284"
+        },
+        "mapColor": "carrot"
+    },
+    "Duck":{
+        "regions":{
+            "Western": "31015",
+            "Central": "11945",
+            "Greater Accra": "71788",
+            "Volta": "124742",
+            "Upper East": "17942",
+            "Eastern": "58146",
+            "Ashanti": "12326",
+            "Brong Ahafo": "45468",
+            "Northern": "59831",
+            "Upper West": "24427"
+        },
+        "mapColor":"OAT"
+    },
+    "Dog":{
+        "regions":{
+            "Western": "43922",
+            "Central": "11028",
+            "Greater Accra": "15938",
+            "Volta": "83543",
+            "Upper East": "54487",
+            "Eastern": "74113",
+            "Ashanti": "34715",
+            "Brong Ahafo": "91063",
+            "Northern": "93661",
+            "Upper West": "16686"
+        },
+        "mapColor":"MAUVE"
+    },
+    "Guinea fowl":{
+        "regions":{
+            "Western": "2570",
+            "Central": "12889",
+            "Greater Accra": "9328",
+            "Volta": "136832",
+            "Upper East": "651282",
+            "Eastern": "5617",
+            "Ashanti": "43732",
+            "Brong Ahafo": "95326",
+            "Northern": "610356",
+            "Upper West": "234907"
+        },
+        "mapColor":"CITRINE"
+    },
+    "Cattle":{
+        "regions":{
+            "Western": "4264",
+            "Central": "828",
+            "Greater Accra": "83869",
+            "Volta": "282977",
+            "Upper East": "177101",
+            "Eastern": "68069",
+            "Ashanti": "46702",
+            "Brong Ahafo": "234395",
+            "Northern": "573971",
+            "Upper West": "81449"
+        },
+        "mapColor":"Yellowdata/product.json",
+        "note": "exclude those used as draught an"
+    },
+    "Draught":{
+        "regions":{
+            "Central": "1191",
+            "Upper East": "57329",
+            "Brong Ahafo": "1317",
+            "Northern": "25117",
+            "Upper West": "7811"
+        },
+        "mapColor":"PEACOCK",
+        "note": "Draught animals (e.g. donkey, horse)"
+    },
+    "Grass cutter":{
+        "regions":{
+            "Volta": "29595",
+            "Brong Ahafo": "213"
+        },
+        "mapColor":"INDIGO"
+    }
+
+}
+
